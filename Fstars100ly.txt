@@ -1,0 +1,303 @@
+11.4	Procyon A	F5 IV-V	1.5	Canis Minor	Subgiant?, Alp CMi A, HR 2943
+26.2	Pi3 Orionis	F6 V	1.3	Orion	Pi3 Ori, HR 1543, Gl 178
+26.3	Chi Draconis A	F7 V	1.03	Draco	Chi Dra A, HR 6927, Gl 713 A
+27.3	Alula Australis Aa	F8.5-G0 Ve	1.05	Ursa Major	Xi UMa, HR 4375, Gl 423 A
+28.0	Zeta Tucanae	F8-G0 V	0.98	Tucana	Zet Tuc, HR 77, Gl 17
+29.3	Gamma Leporis A	F6-7 V	1.2	Lepus	Gam Lep A, HR 1983, Gl 216 A
+29.9	Beta Comae Berenices	F9.5-G0 V	1.05	Coma Berenices	Bet Com, HR 4983, Gl 502
+30.1	Gamma Pavonis	F6-8 V	>0.8	Pavo	Gam Pav, HR 8181, Gl 827
+35.2	Zeta Herculis 2	F9-G0 IV	1.45	Hercules	Subgiant, Zet Her A, HR 6212
+35.6	Zavijava	F8 IV-V	1.2-1.4	Virgo	Subgiant?, Bet Vir A, HR 4540
+36.3	Gamma Serpentis	F6 V	1.2	Serpens	Gam Ser, HR 5933, Gl 603
+36.6	Theta Persei A	F7 V	1.?	Perseus	Tet Per A, HR 799, Gl 107 A
+38.0	Zeta Doradus	F7-8 V	1.?	Dorado	Zet Dor, HR 1674, Gl 189
+38.4	Iota Pegasi A	F5 V	1.?	Pegasus	Iot Peg A, HR 8430, Gl 348
+38.6	Porrima A	F0 V	1.5~	Virgo	Gam Vir A, HR 4825, Gl 482 A
+38.6	Porrima B	F0 V	1.5~?	Virgo	Gam Vir B, HR 4826, Gl 482 B
+39.5	Zeta Tri. Australis A	F9-G0 V	1?	Triangulum Australe	Zet TrA, HR 6098, Gl 624 A
+40.1	Beta Tri. Australis	F2 III-IV	1?	Triangulum Australe	Giant?, Bet TrA, HR 5897
+41.6	44 (i) Bootis A	F5-G1 Vn	1~	Bootes	44 Boo, HR 5618, HD 133640
+41.9	36 Ursae Majoris Aa?	F8 V	1.?	Ursa Major	36 UMa, HR 4112, Gl 395
+43.9	Upsilon Andromedae A	F8 V	1.3	Andromeda	Planets, Ups And, HR 458
+44.0	Theta Ursae Majoris	F6 IV	1.5-1.6	Ursa Major	Subgiant, The UMa, HR 3775
+44.8	10 Tauri A	F8-9 IV-V	1.?	Taurus	Subgiant?, 10 Tau A, HR 1101
+45.0	Iota Piscium A?	F7 V	1.?	Pisces	Iot Psc, HR 8969,Gl 904
+45.6	Tau1 Eridani A	F5-6 V	1.?	Eridanus	Tau1 Eri, HR 818, Gl 111
+46.0	Alpha Fornacis A	F7-8 IV-V	1.3	Fornax	Subgiant?, Alp For A, HR 963
+46.7	Diadem Aa	F5 V	1.25~	Coma Berenices	Alp Com, HR 4968, Gl 501 A
+46.7	Diadem B	F5 V	1.25~	Coma Berenices	Alp Com, HR 4968, Gl 501 B
+47.5	Theta Bootis A	F7 V	1.?	Bootes	The Boo, HR5404, Gl 549 A
+47.8	111 Tauri A	F8 Ve	1.?	Taurus	111 Tau, HR 1780, Gl 202
+47.8	Psi Capricorni	F4-5 V	1.?	Capricornus	Psi Cap, HR 7936, Gl 805
+48.1	Alkiba A	F0-2 IV-V	1.5	Corvus	Subgiant?, Alp Crv A, HR 4623
+48.5	HR 3862	F9-G0 IV-V	1.?	Antlia	Subgiant?, Gl 364, HD 84117
+48.9	HR 7162 A	F9-G0 V	1.1	Lyra	Planet, Gl 738 A, HD 176051, BD+32 3267
+49.1	Eta Leporis	F1 III-V	1.?	Lepus	Giant?, Eta Lep, HR 2085
+49.1	Nu Phoenicis	F8 V	1.?	Phoenix	Nu Phe, HR 370,Gl 55
+49.2	19 Draconis A	F6 V	1.?	Draco	19 Dra, HR 6315, Gl 648
+50.1	Delta Aquilae A	F0-3 IV	1.?	Aquila	Subgiant, Del Aql, HR 7377
+50.4	Phi2 Ceti A	F7-G8.5 IV-V	1.?	Cetus	Subgiant?, Phi2 Cet, HR 235
+50.4	Sigma Bootis A?	F3 Vw	1.?	Bootes	Sig Boo, HR 5447, Gl 557
+50.9	Tau Boötis A	F6-7 IV-V	1.3	Bootes	Planet, subgiant?, Tau Boo A, HR 5185
+51.1	99 Herculis Aa	F7 V	1.?	Hercules	99 Her, HR 6775, Gl 704
+51.7	Chi Herculis	F8-9 V	1.?	Hercules	Chi Her, HR 5914, Gl 602
+52.9	I Carinae A?	F2-3 IV	1.?	Carina	Subgiant,I Car, HR 4102
+53.0	Xi Pegasi A	F6-7 IV-V	?	Pegasus	Subgiant?, Ksi Peg, HR 8665
+53.6	10 Ursae Majoris	F5 V	1.?	Ursa Major	10 UMa, HR 3579, Gl 332 A
+54.4	9 Puppis Aa	F9-G2 V	1.?	Puppis	9 Pup, HR 3064, Gl 291
+54.4	Caph A	F2 III-IV	2~	Cassiopeia	Giant?, Bet Cas, HR 21
+55.8	Tau1 Hydrae Aa	F5-6 V	1.?	Hydra	Tau1 Hya, HR 3759, Gl 348 A
+56.6	q1 Eridani	F8-9 V	1.1	Eridanus	Planet, q1 Eri, HR 506, HD 10647
+54.7	Xi Ophiuchi A	F2-3 V	2~	Ophiuchus	Giant?, Ksi Oph A, HR 6445
+57.1	g Lupi	F3-5 IV-V	?	Lupus	Subgiant?, dust disk, HR 5825, HD 139664, CD-44 10310
+57.2	Alzirr A	F5 IV-III	?	Gemini	Giant?, Xi Gem A, HR 2484
+57.2	58 Ophiuchi A?	F5-7 V	1.?	Ophiuchus	58 Oph, HR 6595, Gl 692
+58.0	HR 5356 A	F5-7 Vw	1.?	Centaurus	Gl 542.1 A, HD 125276 ,CD-25 10271
+58.2	HR 2401 A	F8 V	1.?	Camelopardalis	Gl 240.1, HD 46588, BD+79 212
+58.4	Gamma Coronae Australis A	F7-G0 IV-V	?	Corona Australis	Subgiant?, Gam CrA A, HR 7226
+58.4	Gamma Coronae Australis B	F8 V	1.?	Corona Australis	Gam CrA B, Gl 743.1 B, HD 177475
+58.5	Tau6 Eridani	F3-5V-III	1.?	Eridanus	Giant?, Tau6 Eri, HR 1173, Gl 155
+58.8	HR 4989 A	F7 IV	1.?	Centaurus	Subgiant, HD 114837, CD-58 4940 A
+58.8	HR 3079 A	F3-5 V	1.?	Puppis	Gl 292, HD 64379, CD-34 4036
+58.8	Wasat Aa	F0-2 IV-V	1.?	Gemini	Subgiant?, Del Gem Aa, HR 2777 Aa
+59.1	Chi Cancri A	F6 V	1.?	Cancer	Chi Cnc, HR 3262, Gl 303
+59.4	Eta Corvi A?	F0-2 IV-V	1.?	Corvus	Planet?, Eta Crv, HR 4775
+60.3	Delta Equulei A	F5-7 V	1.22	Equuleus	Del Equ, HR 8123, Gl 822 A
+60.3	Delta Equulei B	F7-G0 V	1.17	Equuleus	Del Equ B, Gl 822 B
+60.3	Rho Geminorum Aa?	F0 V	1.?	Gemini	Rho Gem, HR 2852, Gl 274
+60.5	Psi Velorum A	F0-2 IV	1.?	Vela	Subgiant, Psi Vel A, HR 3786 A
+60.5	Psi Velorum B	F0-3 IV-V	1.?	Vela	Subgiant?, Psi Vel B, HR 3786 B
+60.6	HR 244 A?	F8 IV-V	1.?	Cassiopeia	Subgiant?, SB?, HD 5015, BD+60 124
+60.6	Theta Cygni A	F4 V-IV	1.?	Cygnus	Subgiant?, The Cyg, HR 7469
+60.9	Mu Virginis A	F2 V-III	1.?	Virgo	Giant?, Mu Vir A, HR 5489 A
+61.1	HR 8061 A	F8-G3 IV-V	?	Pavo	Subgiant?, HD 200525, CD-73 1547 A
+61.1	Tau Piscis Austrini	F6 V	1.?	Pisces Austrinus	Tau PsA, HR 8447, Gl 849.1
+61.6	6 Ceti	F5-7 V	1.?	Cetus	6 Cet, HR 33, Gl 10
+62.3	110 Herculis A?	F6 V	1.?	Hercules	110 Her, HR 7061, Gl 725.2
+62.4	HR 3625	F9 V	1.?	Lynx	Gl 334.2, HD 78366, BD+34 1949
+62.7	HR 1249	F5-6 V	1.?	Eridanus	Gl 159, HD 25427, BD-00 632
+62.7	Turais A	F2-6 II-IIImpe	1.8-2	Puppis	Bright giant?, Rho Pup A, HR 3185 A
+62.8	1 Centauri A	F3 IV-V	1.?	Centaurus	Subgiant?, 1 Cen A, HR 5168 A
+63.0	HR 2251 A	F9-G0.5 Vb	1.?	Orion	Gl 231.1, HD 43587, BD+05 1168
+63.2	Omicron Aquilae A	F8 V	1.?	Aquila	Superflares, Omi Aql, HR 7560
+63.5	Alpha Chamaeleontis	F4-6 V-III	1.55	Chamaeleon	Giant?, Alp Cha, HR 3318
+63.8	16 Ursae Majoris A	F9 V	1.?	Ursa Major	16 UMa, HR 3648, Gl 337.1
+64.0	74 Orionis	F5 IV-V	1.?	Orion	Subgiant?, 74 Ori, HR 2241
+64.1	Rasalmothallah A	F6 IV	1.5	Triangulum	Subgiant, Alp Tri, HR 544
+64.2	Eta Crucis A	F0-2 IV-III	?	Crux	Giant?, Eta Cru A, HR 4616 A
+64.3	45 Bootis A?	F5 V	1.?	Bootes	45 Boo, HR 5634, Gl 578
+64.9	22 Lyncis A?	F6 V	1.?	Lynx	22 Lyn, HR 2849, HD 58855
+65.7	Alpha Caeli A	F1-2 V	1.?	Caelum	Alp Cae, HR 1502, Gl174.1 A
+66.2	HR 8853	F7 V	1.?	Cassiopeia	HD 219623, Hip 114924, BD+52 3410
+66.2	Gamma Doradus	F0-4 V	1.?	Dorado	Gam Dor, HR 1338, Gl 167.1
+66.5	V2213 Ophiuchi	F8.5 Ve	1.?	Ophiuchus	V2213 Oph, HR 6349, Gl 654.1
+66.7	Kappa Tucanae A	F5-6 IV-V	?	Tucana	Subgiant?, quad-w/HD7693AB, Kap Tuc A, HR 337 A
+66.7	Sigma2 Ursa Majoris A	F5-6 IV-V	?	Ursa Major	Subgiant?, Sig2 UMa A, HR 3616 A
+66.8	HR 8531	F9-G4 IV-V	?	Tucana	Subgiant?, HD 212330, CD-58 8327
+67.1	HR 8843	F7 V	1.?	Tucana	GJ 1282, HD 219482, CD-62 1444
+68.0	17 Cygni A	F5-7 IV-V	?	Cygnus	Subgiant?, HR 7534 A
+68.1	HR 7631 A	F7-8 V	1.?	Sagittarius	Gl 773.4, HD 189245, CD-34 14082
+68.2	Tau Cygni Aa	F0-2 IV-V	?	Cygnus	Subgiant?, HR 8130 Aa
+68.2	Theta Draconis A	F8 IV-V	1.2	Draco	Subgiant?, The Dra, HR 5986
+68.4	HR 1686 A	F6 V	1.25	Camelopardalis	Planet, Gl 196 A, HD 33564, BD+79 169
+68.5	HR 8013	F7-8 V	1.?	Capricornus	Gl 811, HD 199260, CD-26 15344
+68.6	13 Ceti Aa	F6-8 V	1.?	Cetus	13 Cet, HR 142, Gl 23
+68.6	CD-44 9181	F9-G4 V	1.?	Centaurus	Gl 540.3, HD 124580, Hip 69671
+68.9	71 Orionis A?	F6 V	1.?	Orion	71 Ori, HR 2220, HD43042
+69.0	40 Leonis	F6 IV	1.?	Leo	Subgiant,40 Leo, HR 4054
+69.1	Iota Puppis	F0 IV	1.?	Puppis	Subgiant, Iot Pup, HR 2740
+69.5	HR 3578	F6-8 IV-V	1.?	Hydra	Subgiant?, HR 3578, HD 76932
+69.6	50 Persei	F7 V	1.?	Perseus	50 Per, HR 1278, Gl 161.1
+69.8	B Carinae A	F5 V	1.?	Carina	B Car, HR 3220, HD 68456
+69.8	Syrma	F6-7 III	?	Virgo	Giant, Iot Vir A, HR 5338
+69.9	Kappa Reticuli A	F3-5 IV-V	?	Reticulum	Subgiant?, HR 1083 A
+70.1	HR 4084 A	F2 V	1.?	Camelopardalis	Gl 392.1, HD 90089, BD+83 297
+70.3	HR 784	F6-8 V	1.?	Cetus	HD 16673, BD-10 525, Hip 12444
+70.5	84 Ceti A	F5-7 IV-V	1.?	Cetus	Subgiant?, 84 Cet, HR 790
+70.7	TZ Coronae Borealis Aa	F8-G0 V	1.?	Corona Borealis	17 CrB, HR 6063, Gl 615.2 A
+71.1	Theta Sculptoris	F3-5 V	1.?	Sculptor	HR 35, HD 739, CD-35 42
+71.3	Alpha Hydri A	F0 V	1.?	Hydrus	Alp Hyi, HR 591, Gl 83
+71.3	Lambda Arae	F2-4 IV-V	?	Ara	Subgiant?, HR 6569
+71.3	HR 4134 A	F5-6 V	1.?	Vela	Gl 397.2, HD 91324, CD-53 3569
+71.6	HR 4767	F8-G0 V	1.?	Ursa Major	HD 108954, BD+53 1554, Hip 61053
+71.6	Eta Scorpii	F0-3 V-IIInp	1.?	Scorpius	Giant?, HR 6380, Gl 657
+71.8	Gamma Tucanae	F1 V-III	1.?	Tucana	"Giant?, Gam Tuc. HR 8848
+71.9	Dziban A?	F5 IV-V	?	Draco	Subgiant?, Psi1 Dra, HR 6636
+72.4	BD+23 548 A	F6 V	1.?	Taurus	NStar distance, HD 23713, Wo 9132 A
+72.8	Psi1 Draconis B	F8-G0 V	1.?	Draco	Psi1 Dra, HR 6637, Gl 694.1 B
+73.0	94 Ceti A	F8 V	1.35	Cetus	Planet, 94 Cet, HR 962, HD 19994
+73.0	HD 247168 A	F8 V	1.?	Orion	BD+09 946, Hip 27111
+73.1	Mu1 Cygni Aa	F3-6 V	1.?	Cygnus	Mu1 Cyg, HR 8310, Gl836.6 A
+73.3	18 Puppis Aa	F6-7 V	1.?	Puppis	18 Pup, HR 3202, Gl 297.2
+73.6	HR 4657	F5 V	1.?	Virgo	HD 106516, BD-09 3468, Hip 59750
+73.8	Struve 1962 A	F5-8 V	1.?	Libra	HR 5815, HD 139461, BD-08 4032
+73.8	Struve 1962 B	F5-8 IV-V	1.?	Libra	Subgiant?, HR 5815, HD 139460, BD-08 4031
+74.1	39 Leonis A	F8 Vbw	1.?	Leo	39 Leo, HR 4039, Gl 387
+74.2	Upsilon Aquarii	F3-7 V-III	?	Aquarius	Giant?, HR 8592
+74.7	HR 6828	F9-G1 V	1.?	Pavo	HD 167425, CD-63 1343, Hip 89805
+75.5	23 Ursae Majoris A?	F0 IV	?	Ursa Major	Subgiant?, 23 UMa, HR 3757
+75.7	Zeta Serpentis A	F0-3 IV	?	Serpens Cauda	Subgiant, Zet Ser, HR 6710
+75.7	BD-04 1310 A	F7-G0 V	?	Monoceros	HD 40397, Hip 28267, ADS 4557
+75.7	HR 7674	F8-G0 V	1.?	Telescopium	HD 190422, CP-55 9317, Hip 99137
+76.5	Omega Draconis A	F5 V	1.?	Draco	Ome Dra, HR 6596, HD 160922
+76.6	36 Draconis	F5 V	1.?	Draco	36 Dra, HR 6850, Gl 708.1
+76.8	HR 4098 A	F9-G1 V	1.?	Ursa Major	Gl 392 A, HD 90508, BD+49 1961
+77.0	Chi Ceti A	F0-3 III	?	Cetus	Giant, Chi Cet A, HR 531
+77.2	Zubenelgenubi B	F3-5 IV-V	1.?	Libra	Subgiant?, Alp1 Lib, HR 5530
+78.0	64 Piscium Aa	F8 V	1.?	Pisces	64 Psc, HR 225, Gl 34.1
+78.8	CP-54 1925	F6 V	1.?	Vela	HD 76653, Hip 43797
+78.8	HR 4867	F5-6 V	1.?	Ursa Major	HD 111456, BD+61 1320, Hip 62512
+78.9	Phi2 Pavonis	F8 V	1.?	Pavo	Planet?, HR 7875, Gl 794.2
+78.9	HR 4600	F6 V	1.?	Centaurus	HD 104731, CD-41 6938, Hip58803
+79.0	HR 5243	F6 V	1.?	Bootes	HD 121560, BD+14 2680, Hip68030
+79.0	Iota Leonis A	F2-G0 IV-V	1.?	Leo	Subgiant, Iot Leo A, HR 4399
+79.2	HR 2500	F6-7 V	1.?	Canis Major	Gl 245.1, HD 49095, CD-31 3640
+79.4	BD-03 592	F9 V	1.?	Eridanus	Gl 147.1, HD 22879, BD-03 592
+79.5	37 Ceti A	F5 V	1.?	Cetus	37 Cet, HR 366, HD 7439
+79.9	7 Andromedae A	F0 V	1.?	Andromeda	7 And, HR 8830, Gl891.1
+80.0	HR 7637 A	F8-G2 V	1.?	Aquila	Gl 773.3, HD 189340, BD-10 5238
+80.2	HR 4158	F7-G0 V	1.?	Hydra	Gl 398.1, HD 91889, BD-11 2918
+80.5	12 Persei A	F9 V	1.?	Perseus	12 Per, HR 788, Gl 105.6
+80.6	MQ Serpentis A?	F8 V	1.?	Serpens	Superflares, 5 Ser, HR 5694, HD 136202
+81.0	HR 5581	F7-8 V	1.?	Bootes	HD 132254, BD+50 2126
+81.2	HR 5816 A	F6-8 V	1.?	Libra	ADS 9728 A, HD 139461, BD-08 4032
+81.2	HR 5816 B	F8 V	1.?	Libra	ADS 9728 B
+81.4	78 Ursae Majoris A	F2 V	1.?	Ursa Major	78 UMa, HR 4931, HD 113139
+81.5	HR 4758 A	F8-G2 V	1.?	Corvus	Gl 469.2, HD 108799, BD-12 3647
+81.5	CD-56 5169	F8-G5 Vw	?	Circinus	HD 120559, Hip 67655, CP-56 5970
+81.6	68 Eridani A	F2 V	1.?	Eridanus	68 Eri, HR 1673, HD33256
+81.6	Alpha1 Canum Venaticorum	F0 V	1.?	Canes Venatici	Alp1 CVn, HR 4914, HD 112412
+82.0	Gamma Ceti B	F3-6 V	1.3	Cetus	Gam Cet B, Gl 106.1B
+82.0	HR 5779	F7 V	1.?	Libra / Ophiuchus	HD 138763, BD-05 4100, Hip76233
+82.2	HR 2548	F5 III-V	1.?	Puppis	Giant?, CD-46 2703, HD 50223
+82.3	HR 5148 A	F7.7-9 V	1.?	Canes Venatici	Gl 521.2, HD 119124, BD+51 1859
+82.4	HD 351880	F2 V	1.?	?	Hip 100111
+82.6	HR 5691	F8-9 IV	1.?	Ursa Minor	Subgiant, Gl 580.2, HD 136064
+83.2	HR 8581 A	F7 V	1.?	Aquarius	Gl 862.1, HD 213429, BD-07 5797
+83.3	BD-20 1171	F8-G0 V	1.?	Lepus	HD 38382, BD-20 1171, Hip 27075
+83.4	Tegmeni A	F8-G0 V	1.?	Cancer	Zet1 Cnc, HR 3208, HD 68257
+83.4	Tegmeni B	F9-G0 V	1.?	Cancer	HR 3209
+83.5	HR 7451	F7 V	1.?	Cygnus	HD 184960, BD+50 2815, Hip 96258
+83.6	HR 140	F3 IV-V	1.?	Phoenix	Subgiant?, CD-53 109, HD 3158
+83.7	HR 2906	F6 IV-V	1.?	Canis Major	Subgiant?, BD-21 2007, Gl 279
+83.9	Epsilon Cephei A	F0 IV	1.?	Cepheus	Subgiant, Eps Cep A, HR 8494
+84.2	Sigma Ceti	F4-5 IV-V	1.?	Cetus	Subgiant?, Sig Cet, HR 740
+84.7	BD+37 1091	F8 V	1.?	Perseus	HD 33632, BD+37 1091, Hip 24332
+84.3	Mu Ceti A	F0-1 III-IV	1.?	Cetus	Giant?, Mu Cet A, HR 813
+85.0	Rho Piscium	F2 V	1.?	Pisces	Rho Psc, HR 413, HD 8723
+85.1	18 Bootis A?	F1-5 IV-V	1.?	Bootes	Subgiant?, 18 Boo, BD+13 2782, HD 125451
+85.2	HR 7793	F8 V	1.?	Aquila / Delphinus	HD 194012, BD+14 4275, Hip100511
+85.4	HR 3598	F3 V	1.?	Carina	Gl 333.1, HD 77370, CD-58 2377
+85.4	Eta1 Pictoris	F2 V	1.?	Pictor	Eta1 Pic, HR 1649, Gl 187
+85.5	9 Aurigae A	F0 V	1.?	Auriga	9 Aur, HR 1637, Gl 1872 A
+85.6	HR 8931	F8 V	1.?	Aquarius	HD 221356, BD-04 5896, Hip116106
+85.9	HR 573	F6.5-8 V	1.?	Eridanus / Phoenix	Gl 81.3, HD 12042, CD-52 397
+85.9	Epsilon2 Arae A	F6 V	1.?	Ara	Eps2 Ara, HR 6314, HD 153580
+86.2	51 Aquilae	F0 V	1.?	Aquila	51 Aql, HR 7553, HD 187532
+86.3	37 Ursae Majoris	F1 V	1.?	Ursa Major	37 UMa, HR 4141, HD 91480
+86.3	HR 860	F4 V	1.?	Cassiopeia	HD 17948, BD+60 591, Hip13665
+86.4	HR 1536	F8 V	1.?	Orion	Planet, HD 30562, BD-05 1044, Hip 22336
+86.5	p Velorum B	F3-4 V	1.?	Vela	HR 4167 B, HD 92139 B, CD-47 6042 B
+86.6	HR 3395	F8 V	1.?	Hydra	Gl 310.1 A, HD 72945, BD+07 1997
+86.6	89 Leonis	F5-6 V	1.?	Leo	89 Leo, HR 4455, HD 100563
+86.6	HR 8170 A	F8 V	1.?	Cygnus	HD 203454, BD+39 4529, Hip 105406
+86.8	HR 2493	F7-G2 V	1.?	Canis Major	Gl 243, HD 48938, CD-27 3248
+87.1	17 Crateris A	F8 V	1.?	Crater	HR 4444, HD 100286, CD-28 8928
+87.1	17 Crateris B	F8 V	1.?	Crater	HR 4443, CD-28 8928 B
+87.2	HR 6237 A	F2 V	1.?	Draco	HD 151613, BD+57 1702, Hip82020
+87.5	BD+40 3005 A	F3 IV-V	1.?	Corona Borealis / Bootes	Subgiant?, HR 6901, HD 147365
+87.5	HR 1817	F7 V	1.?	Lepus	HD 35850, BD-12 1169, Hip 25486
+87.6	Sigma Pegasi Aa	F7 IV	1.?	Pegasus	Subgiant, Sig Peg, HR 8697
+88.0	Mu Draconis A	F5-7 V	1.?	Draco	Mu Dra, HR 6370, HD 154906
+88.0	Mu Draconis Ba	F6-7 V	1.?	Draco	HR 6369, HD 154905, ADS 10345 B
+88.0	Iota Crateris A	F7 V	1.?	Crater	Iot Crt, HR 4488, HD 101198
+88.1	HR 2158 A	F4 V	1.?	Pictor-Canis Major	HJ 3824 A, HD 41742, CD-45 2302
+88.2	Epsilon Ceti Aa	F5 IV-V	1.?	Cetus	Subgiant?, Eps Ceti, HR 781
+88.2	Epsilon Ceti B	F5-6 V	1.?	Cetus	Eps Cet B, Gl 105.4 B
+88.2	HR 7291	F8 V	1.24	Sagittarius	Planet, HD 179949, CD-24 15161, Hip 94645
+88.4	HR 535	F6-8 V	1.?	Fornax-Phoenix	HD 11262, CD-39 553, Hip8514
+88.5	HR 7955 A	F8 IV-V	1.?	Cygnus/Cepheus	Subgiant?, BD+57 2240 A , HD 198084
+88.5	37 Capricorni	F5 V	1.?	Capricornus	HR 8245, HD 205289, BD-20 6237
+88.8	1 Hydrae A	F3 V	1.?	Hydra	1 Hya, HR 3297, Gl 306
+89.0	HR 523	F8 V	1.?	Triangulum	HD 11007, BD+31 316, Hip 8433
+89.1	HR 3991 A	F2-5 IV-V	1.?	Hydra	Subgiant?, BD-12 3101 A, HD 88215
+89.2	54 Cassiopeiae	F8 V	1.?	Cassiopeia	54 Cas, HD 12800, BD+70 163
+89.2	Sigma Serpentis	F0 V	1.?	Serpens	Sig Ser, HR 6093, HD 147449
+89.5	Epsilon Sculptoris A	F1-2 IV	1.?	Sculptor	Subgiant, Eps Scl, HR 514
+89.5	HR 4413 A	F7 V	1.?	Carina / Centaurus	HD 99453, CD-63 650, Hip55779
+89.5	HR 4413 B	F7?	1.?	Carina / Centaurus	Spec. double (SB2)
+89.8	HR 4439 A	F6-8 V	1.?	Ursa Major	Gl 431.1 A, HD 100203,BD+61 1246
+89.8	BD+16 1091	F8 V	1.?	Gemini	HD 43947, BD+16 1091, Hip30067
+89.9	Phi1 Pavonis A	F1 III	?	Pavo	Giant, Phi1 Pav A, HR 7848
+90.0	Psi Tauri	F1 V	1.?	Taurus	Psi Tau, HR 1269, HD 25867
+90.2	Beta Caeli	F1-3 V	1.?	Caelum	Bet Cae, HR 1503, Gl 176.1
+90.2	15 Pegasi	F5-6 IV-Vwv	1.?	Pegasus	Subgiant?, 15 Peg, HR 8354
+90.2	Mu Capricorni	F0-3 III-V	1.?	Capricornus	Giant?, Mu Cap, HR 8351
+90.5	HR 7386 A?	F7 V	1.?	Vulpecula	HD 182807, BD+24 3737, Hip95492
+90.7	HR 2866	F8 V	1.?	Canis Minor	HD 59380, BD-07 1996, Hip 36399
+90.8	HR 197	F0-2 V-III	1.?	Cetus	Giant?, BD-22 127, HD 4247
+91.0	HR 9046	F8 IV	1.?	Phoenix	Subgiant, CD-40 14825, HD 224022
+91.0	16 Librae	F0 IV-V	1.?	Libra	Subgiant?, HR 5570, HD 132052
+91.2	HR 1594	F6 V	1.?	Camelopardus	HD 31675, BD+66 370, Hip 23484
+91.3 - 132	BD+18 2700	F9 V	0.82	Bootes	Planet, HD 114762, HIP 64426, LHS 2693
+91.5	Xi2 Capricorni	F5-7 V	1.?	Capricornus	Xi2 Cap, HR 7715, HD 191862
+91.9	HR 5443	F7-8 V	1.?	Circinus	Gl 558.1, HD 128020, CD-67 1618
+92.2	6 Andromedae	F5 IV	1.?	Andromeda	Subgiant, HR 8825, HD 218804
+92.3	Omega Andromedae A	F5 IVe	1.?	Andromeda	Subgiant, HR 417, HD 8799
+92.3	HR 8792	F7 V	1.?	Pegasus	HD 218261, BD+19 5058, Hip114096
+92.5	Xi Scorpii A	F5-6 IV-V	1.?	Scorpius	Subgiant, HR 5978, HD 114070
+92.5	Xi Scorpii B	F5-6 IV-V	1.?	Scorpius	Subgiant, HR 5977, HD 114069
+92.6	BD+47 1236	F5 V	1.?	Auriga	HD 40650, BD+47 1236, Hip28634
+93.0	HR 8027	F5 IV-V	1.?	Indus	Subgiant?, CD-51 12778, HD 199623
+93.2	Pi Piscis Austrini B	F3 V	1.?	Pisces Austrinus	Pi PsA B, HR 8767 B, HD 217792 B
+93.5	BD-19 1172	F6 V	1.?	Lepus	HD 35722, HJ 3759 B, BD-19 1172
+93.5	HR 4935 A	F7 V	1.?	Hydra	Gl496 A, HD 113415, BD-19 3629
+93.6	HR 3499	F7 Vn	1.?	Cancer / Lyra	HD 75332, BD+33 1765, Hip 43410
+93.6	HR 7079	F8 V	1.?	Vulpecula / Sagitta	HD 174160, BD+23 3461, Hip92270
+93.6	29 Arietis A	F8 V	1.?	Aries	29 Ari, HR 741, HD 15814
+94.2	19 Leonis Minoris A	F6 Vas	1.?	Leo Minor	19 LMi, HR 3029, HD 86146
+94.3	Nu2 Indi B	F9-G0 V	1.?	Indus	Nu2 Indi B, Gl 855.1 B, CP-72 2690
+94.4	Chi Leonis A?	F2 III-IV	1.?	Leo	Giant?, Chi Leo, HR 4310
+94.6	HR 3697 A?	F3 V	1.?	Ursa Majoris	HD 80290, BD+51 1495, Hip45836
+94.6	HR 9074 A	F8-G0 V	1.?	Pegasus-Lacerta	HD 224635, BD+32 4747, Hip 118281
+94.6	HR 5451	F6-8 V	1.?	Ursa Major-Draco	HD 128332, BD+57 1519, Hip 71251
+94.8	HR 2909 A	F4-6 V	1.?	Gemini	HD 60584, CD-23 5709 A
+94.8	HR 2909 B	F6 V	1.?	Gemini	HR 2910
+95.3	Pi Canis Majoris A	F2 III-V	1.?	Canis Major	Giant?, Pi CMa, HR 2590
+95.4	38 Cassiopeiae A	F6 V	1.?	Cassiopeia	HR 427, HD 9021, BD+69 102
+95.5	BD+70 497 A	F8 V	1.?	Ursa Major-Camelopardus	Gl 296.2, HD 66751, BD+70 497
+95.6	BD+29 4550	F8 V-VI	1.?	Pegasus-Cygnus	Subdwarf?, HD 208906, Hip 108490
+95.9	Iota Hydri	F4 III	?	Hydrus	Giant, Iot Hyi, HR 1025
+95.9	BD+50 2319	F8 V	1.?	Bootes	HD 151044, Hip 81800, SAO 30045
+96.2	BD+66 855	F5 V	1.?	Draco / Ursa Minor	HD 128385, Hip 71192, SAO 16431
+96.2	HR 7749	F5 V	1.?	Grus	HD 192886, CD-47 13340, Hip 100184
+96.2	HR 5630	F8 V	1.?	Bootes	HD 134044,BD+37 2608, Hip73941
+96.5	15 Delphini A?	F5 V	1.?	Delphinus	15 Del, HR 7973, HD 198390
+96.5	BD+08 2691	F8 V	1.?	Virgo	Hip 64754, SAO 119842
+96.6	BD-15 1479	F7 V	1.?	Canis Major	Hip 32076, HD 48286, SAO 151809
+96.7	HR 6836 A	F8-G0 V	1.?	Sagittarius	Hip 89620, HD 167665, CD-28 14408
+96.8	40 Ceti	F8 V	1.?	Cetus	Hip 5985, HD 7727, BD-03 174
+97.1	51 Eridani	F0 V	1.?	Eridanus	51 Eri, HR 1474, HD 29391
+97.2	BD+25 3252	F8 V	1.?	Sagiattarius	Hip 85007, HD 157466, BD+25 3252
+97.3	17 Virginis	F8 V	1.?	Virgo	17 Vir, HR 4708, HD 107705
+97.3	Eta Ursae Minoris A	F3-5 V	1.?	Ursa Minor	Eta UMi, HR 6116, HD 148048
+97.4	Rotanev A	F4-5 IV	1.?	Delphinus	Subgiant, Bet Del A, HR 7882
+97.4	Rotanev B	F4-5 IV	1.?	Delphinus	Subgiant, Bet Del B
+97.4	HR 692	F0 V	1.?	Cetus	HD 14691, BD-11 448, Hip 11029
+97.4	CP-70 2899	F7-8 V	1.?	Indus?	HD 209635, Hip 109245
+97.4	HR 2349 A	F8-G0 V	1.?	Canis Major	HD 45588, CD-25 3237, Hip 30711
+97.5	HR 2530	F2 V	1.?	Monoceros / Orion	HD 49933, BD-00 1462, Hip32851
+97.6	Epsilon Coronae Australis A	F2-3 IV-V	1.?	Corona Australis	Subgiant?, Eps CrA, HR 7152
+97.6	HR 2883	F5-9 V	1.?	Monoceros	HD 59984, BD-08 1964, Hip36640
+97.9	HR 3028	F6 V	1.?	Lyra	HD 63332, BD+54 1177, Hip 38325
+97.9	BD+38 3327	F8 V	1.?	Cygnus	HD 174912, BD+38 3327, Hip 92532
+98.0	53 Herculis A?	F0-2 V	1.?	Hercules	53 Her, HR 6279, HD 152598
+98.0	HR 6493 A	F3 V	1.?	Ophiuchus	HD 157950, BD-04 4275, Hip 85365
+98.1	CD-32 16868	F6-7 V	1.?	Pisces Australis	HD 209253, CD-32 16868, Hip 108809
+98.2	66 Virginis A	F3-4 V	1.?	Virgo	66 Vir, HR 5050, HD 116568
+98.3	Eta Arietis	F5 V	1.?	Aries	HR 646, GJ 1043, HD 13555
+98.7	5 Puppis A	F5 III-V	1.?	Puppis	Giant?, 5 Pup, HR 3029
+98.7	Rho Capricorni A	F2-3 IV-V	1.?	Capricornus	Subgiant?, Rho Cap A, HR 7822
+99.3	54 Hydrae A	F0-2 III-V	1.?	Hydra	Giant?, 54 Hya A, HR 5497
+99.3	54 Hydrae B	F9 V	1.?	Hydra	54 Hya B, Gl 561.1 B, CD-24 11661
+99.7	HR 4051	F9 V	1.?	Ursa Major	HD 89389, BD+54 1366, Hip 50606

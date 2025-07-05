@@ -1,0 +1,123 @@
+<!-- +++No column could be found to attach a LINK in table: J/A+A/649/A6/table1c -->
+    <FIELD name="GaiaEDR3" ucd="meta.id;meta.main" datatype="long" width="19"><!-- ucd="ID_MAIN" -->
+      <DESCRIPTION>Gaia EDR3 source ID (source_id)</DESCRIPTION>
+    </FIELD>
+    <FIELD name="RA_ICRS" ucd="pos.eq.ra;meta.main" ref="H_2016.000" datatype="double" width="11" precision="7" unit="deg"><!-- ucd="POS_EQ_RA_MAIN" -->
+      <DESCRIPTION>Right ascension (ICRS) at Ep=2016.0 (ra)</DESCRIPTION>
+    </FIELD>
+    <FIELD name="DE_ICRS" ucd="pos.eq.dec;meta.main" ref="H_2016.000" datatype="double" width="11" precision="7" unit="deg"><!-- ucd="POS_EQ_DEC_MAIN" -->
+      <DESCRIPTION>Declination (ICRS) at Ep=2016.0 (dec)</DESCRIPTION>
+    </FIELD>
+    <FIELD name="Plx" ucd="pos.parallax" datatype="double" width="9" precision="3" unit="mas"><!-- ucd="POS_PARLX_TRIG" -->
+      <DESCRIPTION>Parallax (parallax)</DESCRIPTION>
+    </FIELD>
+    <FIELD name="pmRA" ucd="pos.pm;pos.eq.ra" ref="H_2016.000" datatype="double" width="9" precision="3" unit="mas/yr"><!-- ucd="POS_EQ_PMRA" -->
+      <DESCRIPTION>Proper motion in RA, pmRA*cosDE (pmra)</DESCRIPTION>
+    </FIELD>
+    <FIELD name="pmDE" ucd="pos.pm;pos.eq.dec" ref="H_2016.000" datatype="double" width="9" precision="3" unit="mas/yr"><!-- ucd="POS_EQ_PMDEC" -->
+      <DESCRIPTION>Proper motion in DE (pmdec)</DESCRIPTION>
+    </FIELD>
+    <FIELD name="Gmag" ucd="phot.mag;stat.mean;em.opt" datatype="double" width="8" precision="4" unit="mag"><!-- ucd="PHOT_MAG_OPTICAL" -->
+      <DESCRIPTION>? Gaia G Band magnitude (phot_g_mean_mag)</DESCRIPTION>
+      <VALUES null="NaN" />
+    </FIELD>
+    <FIELD name="BPmag" ucd="phot.mag;stat.mean;em.opt.B" datatype="double" width="8" precision="4" unit="mag"><!-- ucd="PHOT_MAG_B" -->
+      <DESCRIPTION>? Gaia BP Band magnitude (phot_bp_mean_mag)</DESCRIPTION>
+      <VALUES null="NaN" />
+    </FIELD>
+    <FIELD name="RPmag" ucd="phot.mag;stat.mean;em.opt.R" datatype="double" width="8" precision="4" unit="mag"><!-- ucd="PHOT_MAG_R" -->
+      <DESCRIPTION>? Gaia RP Band magnitude (phot_rp_mean_mag)</DESCRIPTION>
+      <VALUES null="NaN" />
+    </FIELD>
+    <FIELD name="RV" ucd="phys.veloc;pos.heliocentric" datatype="double" width="8" precision="3" unit="km/s"><!-- ucd="VELOC_HC" -->
+      <DESCRIPTION>? Adopted Radial Velocity (adoptedRV)</DESCRIPTION>
+      <VALUES null="NaN" />
+    </FIELD>
+    <FIELD name="Dist50" ucd="pos.distance" datatype="double" width="12" precision="5" unit="kpc"><!-- ucd="PHYS_DISTANCE_TRUE" -->
+      <DESCRIPTION>? 50% distance (dist_50)</DESCRIPTION>
+      <VALUES null="NaN" />
+    </FIELD>
+    <FIELD name="xcoord50" ucd="pos.cartesian.x;pos.galactic" datatype="double" width="12" precision="5" unit="pc"><!-- ucd="POS_GAL_X" -->
+      <DESCRIPTION>? x in Galactic frame (xcoord_50)</DESCRIPTION>
+      <VALUES null="NaN" />
+    </FIELD>
+    <FIELD name="ycoord50" ucd="pos.cartesian.y;pos.galactic" datatype="double" width="12" precision="5" unit="pc"><!-- ucd="POS_GAL_Y" -->
+      <DESCRIPTION>? y in Galactic frame (ycoord_50)</DESCRIPTION>
+      <VALUES null="NaN" />
+    </FIELD>
+    <FIELD name="zcoord50" ucd="pos.cartesian.z;pos.galactic" datatype="double" width="12" precision="5" unit="pc"><!-- ucd="POS_GAL_Z" -->
+      <DESCRIPTION>? z in Galactic frame (zcoord_50)</DESCRIPTION>
+      <VALUES null="NaN" />
+    </FIELD>
+    <FIELD name="Uvel50" ucd="phys.veloc;pos.cartesian.x" datatype="double" width="8" precision="3" unit="km/s"><!-- ucd="VELOC_GAL_U" -->
+      <DESCRIPTION>? U in Galactic frame (uvel_50)</DESCRIPTION>
+      <VALUES null="NaN" />
+    </FIELD>
+    <FIELD name="Vvel50" ucd="phys.veloc;pos.cartesian.y" datatype="double" width="8" precision="3" unit="km/s"><!-- ucd="VELOC_GAL_V" -->
+      <DESCRIPTION>? V in Galactic frame (vvel_50)</DESCRIPTION>
+      <VALUES null="NaN" />
+    </FIELD>
+    <FIELD name="Wvel50" ucd="phys.veloc;pos.cartesian.z" datatype="double" width="8" precision="3" unit="km/s"><!-- ucd="VELOC_GAL_W" -->
+      <DESCRIPTION>? W in Galactic frame (wvel_50)</DESCRIPTION>
+      <VALUES null="NaN" />
+    </FIELD>
+    <FIELD name="gmag" ucd="phot.mag;em.opt.B" datatype="double" width="7" precision="3" unit="mag"><!-- ucd="PHOT_SDSS_G" -->
+      <DESCRIPTION>? GUNN g magnitude (gmag_GUNN)</DESCRIPTION>
+      <VALUES null="NaN" />
+    </FIELD>
+    <FIELD name="rmag" ucd="phot.mag;em.opt.R" datatype="float" width="7" precision="3" unit="mag"><!-- ucd="PHOT_SDSS_R" -->
+      <DESCRIPTION>? GUNN r magnitude (rmag_GUNN)</DESCRIPTION>
+      <VALUES null="NaN" />
+    </FIELD>
+    <FIELD name="imag" ucd="phot.mag;em.opt.I" datatype="float" width="7" precision="3" unit="mag"><!-- ucd="PHOT_SDSS_I" -->
+      <DESCRIPTION>? GUNN i magnitude (imag_GUNN)</DESCRIPTION>
+      <VALUES null="NaN" />
+    </FIELD>
+    <FIELD name="zmag" ucd="phot.mag;em.opt.I" datatype="double" width="7" precision="3" unit="mag"><!-- ucd="PHOT_SDSS_Z" -->
+      <DESCRIPTION>? GUNN z magnitude (zmag_GUNN)</DESCRIPTION>
+      <VALUES null="NaN" />
+    </FIELD>
+    <FIELD name="Jmag" ucd="phot.mag;em.IR.J" datatype="float" width="7" precision="3" unit="mag"><!-- ucd="PHOT_JHN_J" -->
+      <DESCRIPTION>? J magnitude (j_m_2MASS)</DESCRIPTION>
+      <VALUES null="NaN" />
+    </FIELD>
+    <FIELD name="Hmag" ucd="phot.mag;em.IR.H" datatype="float" width="7" precision="3" unit="mag"><!-- ucd="PHOT_JHN_H" -->
+      <DESCRIPTION>? H magnitude (h_m_2MASS)</DESCRIPTION>
+      <VALUES null="NaN" />
+    </FIELD>
+    <FIELD name="Ksmag" ucd="phot.mag;em.IR.K" datatype="float" width="7" precision="3" unit="mag"><!-- ucd="PHOT_JHN_K" -->
+      <DESCRIPTION>? Ks magnitude (k_m_2MASS)</DESCRIPTION>
+      <VALUES null="NaN" />
+    </FIELD>
+    <FIELD name="W1mag" ucd="phot.mag;em.IR.3-4um" datatype="float" width="7" precision="3" unit="mag"><!-- ucd="PHOT_IR_3.4" -->
+      <DESCRIPTION>? CATWISE W1 magnitude (w1mpro_pm_WISE)</DESCRIPTION>
+      <VALUES null="NaN" />
+    </FIELD>
+    <FIELD name="W2mag" ucd="phot.mag;em.IR.4-8um" datatype="float" width="7" precision="3" unit="mag"><!-- ucd="PHOT_IR_4.2" -->
+      <DESCRIPTION>? CATWISE W2 magnitude (w2mpro_pm_WISE)</DESCRIPTION>
+      <VALUES null="NaN" />
+    </FIELD>
+    <FIELD name="W3mag" ucd="phot.flux.density;em.IR.8-15um" datatype="float" width="7" precision="3" unit="mag"><!-- ucd="PHOT_FLUX_IR_12" -->
+      <DESCRIPTION>? ALLWISE W3 magnitude (w3mpro_WISE)</DESCRIPTION>
+      <VALUES null="NaN" />
+    </FIELD>
+    <FIELD name="W4mag" ucd="phot.flux.density;em.IR.15-30um" datatype="float" width="7" precision="3" unit="mag"><!-- ucd="PHOT_FLUX_IR_25" -->
+      <DESCRIPTION>? ALLWISE W4 magnitude (w4mpro_WISE)</DESCRIPTION>
+      <VALUES null="NaN" />
+    </FIELD>
+    <FIELD name="GAIAEDR3Cat" ucd="meta.ref.url" datatype="char" arraysize="11*"><!-- ucd="DATA_LINK" -->
+      <DESCRIPTION>Display the Gaia EDR3 (Cat. I/350) data</DESCRIPTION>
+      <LINK href="http://vizier.cds.unistra.fr/viz-bin/VizieR-4?-info=XML&amp;-out.add=.&amp;-source=I/350/gaiaedr3&amp;Source=${GaiaEDR3}"/>
+    </FIELD>
+    <FIELD name="_RA.icrs" ucd="pos.eq.ra" datatype="double" width="11" precision="7" unit="deg"><!-- ucd="POS_EQ_RA_OTHER" -->
+      <DESCRIPTION>Right ascension (ICRS) at Epoch=J2000, proper motions taken into account</DESCRIPTION>
+<!-- Right Ascension (ICRS, epoch 2000) computed by CDS -->
+
+      <VALUES null="NaN" />
+    </FIELD>
+    <FIELD name="_DE.icrs" ucd="pos.eq.dec" datatype="double" width="11" precision="7" unit="deg"><!-- ucd="POS_EQ_DEC_OTHER" -->
+      <DESCRIPTION>Declination (ICRS) at Epoch=J2000, proper motions taken into account</DESCRIPTION>
+<!-- Declination (ICRS, epoch 2000) computed by CDS -->
+
+      <VALUES null="NaN" />
+    </FIELD>

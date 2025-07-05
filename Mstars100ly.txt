@@ -1,0 +1,1967 @@
+4.2	Proxima Centauri	M5.5 Ve	0.12	Centaurus	Flare star; brown dwarf b?
+6.0	Barnard's Star	M3.8 Ve	0.17-	Ophiuchus	V2500 Ophiuchi, variable, old star
+7.8	Wolf 359	M5.8 Ve	0.092-0.13	Leo	CN Leonis, flare star
+8.3	Lalande 21185	M2.1 Vne	0.46	Ursa Major	Flare & thick disk star; 3 planets?
+8.7	Luyten 726-8 A	M5.6 Ve	0.10-0.11	Cetus	BL Ceti, flare Star
+8.7	UV Ceti	M6.0 Ve	0.10	Cetus	Flare star, a=5.5 AUs, e=0.62
+9.7	Ross 154	M3.5 Ve	0.17	Sagittarius	V1216 Sagittarii, flare star
+10.3	Ross 248	M4.9-5.5 Ve	0.25-	Andromeda	HH Andromedae, flare star
+10.7	Lacaille 9352	M0.5-1.5 Ve	0.47	Pisces Australis	NSV 14420, variable
+10.9	Ross 128	M4.1-5 Ve	0.31-	Virgo	FI Virginis, flare star
+11.1	EZ Aquarii A	M5.0-5.5 Ve	0.1~	Aquarius	Flare star?
+11.1	EZ Aquarii B	M5? Ve	0.1~	Aquarius	Flare star?
+11.1	EZ Aquarii C	M? Ve	0.1~	Aquarius	Flare star?
+11.4	Struve 2398 A	M3.0 V	0.36	Draco	NSV 11288, variable
+11.4	Struve 2398 B	M3.5 V	0.36	Draco	Flare star, a=56 AUs, e=0.53
+11.6	Groombridge 34 A	M1.5 Vne	0.38	Andromeda	GX And, flare star, a=157 AUs, e=0.00; planet
+11.6	Groombridge 34 B	M3.5 Vne	0.38	Andromeda	GQ And, flare star
+11.8	DX Cancri	M6.5 Ve	0.087	Cancer	Flare star
+12.0 +/- 0.1	LHS 1565	M5.5 V	0.11	Horologium	Flare star, GJ 1061 (Henry et al, 2006b; and Henry et al, 2006a)
+12.1	YZ Ceti	M4.5 Ve	0.14	Cetus	Flare star
+12.4	Luyten's Star	M3.5 Vn	0.26	Canis Minor	Flare star
+12.6	Kapteyn's Star	sdM1.5	0.39	Pictor	Old halo star, subdwarf
+12.6 +/-0.2	Teegarden's Star	M6.5 V	0.08~	Aries	5.06 +/- 0.03 proper motion
+12.8 +/-0.1	SCR 1845-6357	M8.5 V	0.?	Pavo	(Subasavage et al, 2005; Deacon et al, 2004; and RECONS)
+12.9	Lacaille 8760	M0-2 Ve	0.60	Microscopium	AX Microscopii, flare star
+13.1	Kruger 60 A	M3 Vn	0.28	Cepheus	NSV 14168, variable
+13.1	Kruger 60 B	M4 V	0.16	Cepheus	DO Cephei, flare star, a=9.7 AUs, e=0.42
+13.2 +/- 0.1	DENIS 1048-39	M8.5 V	0.06-0.09	Antlia	Brown dwarf?
+13.4	Ross 614 A	M4.5 Ve	0.17	Monoceros	V577 Monocerotis, variable
+13.4	Ross 614 B	M8 V	0.097	Monoceros	Flare star?, a=3.8 AUs, e=0.38
+13.8	Wolf 1061 A	M3.0 V	0.26	Ophiuchus	V2306 Ophiuchi, variable, close binary?
+13.8	Wolf 1061 B?	M?	0.?	Ophiuchus	Spectroscopic double
+14.2	Wolf 424 A	M5.5 Ve	0.14	Virgo	a=3.1 AUs, e=0.28
+14.2	Wolf 424 B	M5.5-7 Ve	0.13	Virgo	FL Virginis, flare star
+14.2	Cincinnati?	M1.5-3.0 Ve	0.48	Sculptor	Flare star, LHS/Gl/GJ 1
+14.4	2MASS J154043.42-510135.7	M7.0 +/-0.5 V	>0.06	Norma	(Perez-Garrido et al, 2014)
+14.6	TZ Arietis	M4.5 V	0.14	Aries	Flare star
+14.6	LTT 12352	M3.5 V	0.?		75+ ly, GJ 3522, LHS 6158, G 41-14
+14.8	BD+68 946 A	M3.0 V	0.39	Draco	Close binary?, LHS 450
+14.8	BD+68 946 B?	M?	?	Draco	Spectroscopic double?
+14.8	LP 731-58	M6.5 V	0.083	Sextans	Flare star, LHS 292
+14.8	CD-46 114500.35	M2.5-3.0 V	0.36	Ara	Planet, LHS 449, Gl 674
+14.8	V1581 Cygni A	M5.5 Ve	0.11	Cygnus	Flare star, sep(AB)=33 AUs, LHS 3494
+14.8	V1581 Cygni B	M6 V	0.10	Cygnus	Flare star?, LHS 3495
+14.8	V1581 Cygni C	M?	0.074	Cygnus	Close binary, GJ 1245 C
+15.3	G 158-27	M5.5 V	0.11	Cetus	LHS 2
+15.3	Gliese 876	M3.5 V	0.27	Aquarius	IL Aquarii, variable, 3 planets
+15.6 +/- 0.2	L 143-23	M5-5.5 V-IV	0.10	Carina	Subdwarf?, LHS 288 (Henry et al, 2006)
+15.8	BD+44 2051 A	M1 Vne	0.48	Ursa Major	Sep(AB)= 135.3 AUs
+15.8	WX Ursae Majoris	M5.5 Ve	0.099	Ursa Major	Flare star
+15.9	AD Leonis	M3.0-3.5 Ve	0.39	Leo	Flare star, brown dwarf b?
+16.1	CD-49 13515	M1.5-3.0 V	0.45	Indus	Planets, Gl 832
+16.4	CD-44 11909	M3.5-4.5 V-IV	0.21-27	Ara	Subdwarf?, 2 super-Earths/1 in HZ, GJ 682
+16.5	40 (Omicron2) Eridani C	M4.5 Ve	0.195	Eridanus	DY Eri, flare star
+16.5	EV Lacertae	M3.5 Ve	0.28	Lacerta	Flare star, spec. double?, GJ 873
+17.0	L 722-22 A	M4 V	0.11	Cetus	Sep(AB) 73 AUs, GJ 1005 A
+17.0	L 722-22 B	M? V	0.095	Cetus	GJ 1005 B
+17.0	EI Cancri	M5.5 Ve	0.11	Cancer	Flare star, GJ 1116 A
+17.0	Giclas 9-38 B	M5.5 V	0.095	Cancer	Sep(AB)=23.5 AUs, GJ 1116 B
+17.5	LTT 17897	M3.5 V	0.20	Orion	Flare star, G 99-49
+17.6	AC+79 3888	M3.5 V	0.24	Camelopardalis	Gl 445
+17.6 +/-1.0	G 099-049	M4.5 V	0.?	Orion	Flare star, LTT 17897 (Henry et al, 2006)
+17.7	Lalande 25372	M1.5 Vne	0.53	Boötes	Flare star, Wolf 498
+17.7 +/-0.2	LHS 1723	M4.5 V	0.16	Eridanus	LP 656-38
+17.9	LP 816-60	M V	0.19	Capricornus	Hip 103039
+18.0	Stein 2051 A	M4.0 V	0.22	Camelopardalis	Sep(AB) 39 AUs, GJ 169.1 A
+18.0	Stein 2051 B	M V	0.5~	Camelopardalis	GJ 169.1 B
+18.0	Wolf 294	M3.0 V	0.33	Gemini	Gl 251, AC+33 25644
+18.6	BD-03 1123	M1.5 Vn	0.17	Orion	CSV 6182, variable, Gl 205
+18.7	V1054 Ophiuchi	M3 Ve	0.42	Ophiuchus	Flare star, Wolf 630A, Gl644A
+18.7	Wolf 630 B	M4 V	0.31	Ophiuchus	Sep(AB)= 1.3 AUs, Gl 644 B
+18.7	van Biesbroeck 8	M6.5-7.0 V	0.09	Ophiuchus	Flare star, VB 8, Gl 644 D, LHS 429, Wolf 630 C
+18.7	Wolf 630 Da, 629	M3.5 V	0.?	Ophiuchus	Spec. double, Wolf 629, Gl 643, Gl 644 D, LHS 427, BD-08 4352 C
+18.8	Gliese 229	M1-2 Ve	0.56-58	Lepus	Brown dwarf / sep=39 AUs; planet / a=0.97 AU
+18.9	Ross 47	M4 Vn	0.20	Orion	V1352 Orionis, AC+12:1800-213, Gl 213
+19.0	L 205-128	M2 V	0.26	Pavo	NSV 9629, CSV 102836, Gl 693
+19.2	Wolf 1055 A	M3.5 Vne	0.49	Aquila	V1428 Aquilae, flare star, Ross 652 A, Gl 752 A
+19.2	van Biesbroeck's Star	M8 Ve	0.09	Aquila	Planet, V1298 Aquilae, flare star, Wolf 1055 B
+19.3	Gl 570 B	M1 V	0.55	Libra	a(BC)=0.79 AUs, e=0.765, LHS 386
+19.3	Gl 570 C	M3 V	0.35	Libra	Hip73182, ADS 9446 C
+19.4	Ross 882	M4.5 Ve	0.22	Canis Minor	YZ Canis Minoris, flare star, Gl 285
+19.4	CD-40 9712	M0-3 V-VI	0.46	Lupus	NSV 7119, variable, Gl 588
+19.4	BD+01 4774	M1 Ve	0.51	Pisces	BR Piscis, flare star
+19.6 +/- 0.2	L 347-14	M4.5 V	0.16	Corona Australis	Not subdwarf, Gl 754 (Jao et al, 2005)
+19.7	HJ 5173 B	M3.5-4.0 V	0.20	Sagittarius	Sep(AB)=43 AUs, Gl 783 B
+20.0	BD-11 3759	M3.5 V	0.22	Libra	HN Librae, varaible, Gl 555
+20.0	Ross 986 A	M4.5 Ve	0.17	Auriga	QY Aurigae, flare star, Gl 268 A
+20.0	Ross 986 B	M6 V	0.16	Auriga	a<2", spec. double, Gl 268 B
+20.2	CD-45 13677	M0-2 V	?	Telescopium	Gl 784
+20.3	LP 914-54	M7-8 V	?	Hydra	Flare star, LHS 3003, GJ 3877
+20.4	EQ Pegasi A	M3.5 Ve	0.23	Pegasus	Flare star, LHS 3965, GJ 896 A
+20.4	EQ Pegasi B	M4.5 Ve		Pegasus	Flare star, LHS 3966, GJ 896 B
+20.4	Gl 581 / HO Librae	M2.5 V	0.31	Libra	Planet, BD-07 4003, LHS 394, Wolf 562
+20.6	BD+45 2505 A	M3 V	?	Hercules	Kui79A, Fur46A, LHS 433, Gl661A
+20.6	BD+45 2505 B	M3.5 V	?	Hercules	a=4.49 AUs, e=0.73; LHS 434
+20.78 +/-0.04	LHS 2090	M6.0 V	?	Cancer	LP368-128 (Henry et al, 2006b; Henry et al, 2006a; Subasavage et al, 2005; AIP; and RECONS)
+20.8 +/-0.3	LHS 337	M4.0 V	?	Centaurus	GJ 3737 (Henry et al, 2006b; and Henry et al, 2006a)
+21.3	GL Virginis	M5 Ve	?	Virgo	Flare star, G 12-30, LHS 324, Gl 1156
+21.3 +/- 0.3	LHS 271	M4.5 V	?	Ursa Major	GJ 1128 (Jao et al, 2005; Henry et al, 2004; and RECONS)
+21.5	AC+56 1646-56	M1.5 V	?	Draco	G 202-48, Gl 625 Subasavage et al, 2005)
+21.6	AC+23 468-46	M2.5 V	?	Leo	G 58-32, LHS 6193, Gl 408
+22.0	AC+17 534-105 A	M3.5 Ve	?	Pegasus	G 126-4, LHS 508, Gl 829
+22.0	AC+17 534-105 B	M3.5 V	?	Pegasus	G 126-4 B, Gl 829 B
+22.0	Ross 619	M4 V	?	Cancer	LHS 35, Gl 299
+22.1 +/-0.3	G 41-14 A	M4.5 V	0.19	Hydra	Flare star, LHS 6158 (Henry et al, 2006)
+22.1 +/-0.3	G 41-14 B	M4.5? V	0.17	Hydra	Flare star?, Sep(AB)= 0.05 AU
+22.1 +/-0.3	G 41-14 C	M4.5? V	0.17	Hydra	Flare star?, Sep(AB-C)= 4.5 AUs
+22.4	BD+15 4733 A	M1.5 Ve	?	Pegasus	LHS 533, Gl 880
+22.4	BD+15 4733 B	M? V	?	Pegasus	Spec. double, Gl 880 B
+22.4 +/- 0.6	LP 771-095 A	M3.0 V	?	Cetus/Eridanus	Flare star,GJ 3192 A (RECONS)
+22.4 +/- 0.6	LP 771-095 B	M3.5? V	?	Cetus/Eridanus	Sep(AB)=7", GJ 3192 B (RECONS)
+22.4 +/- 0.6	LP 771-095 C	M?	?	Cetus/Eridanus	Sep(AC)<2" (RECONS)
+22.5	EE Leonis A?	M4 V	0.?	Leo	EE Leo, Gl 402, Hip 53020, LHS 294, Wolf 358
+22.5 +/-3.9	SCR 0630-7643 AB	M? V
+22.7	MLO 4 C	M1.5-2.5 V	0.38	Scorpius	Planet, sep(AC)=2-30.5", LHS 443, Gl 667 C, CD-34 11626 C
+22.7 +/- 0.3	LHS 22	M4.5 Vp	?	Perseus	L 230-188, GJ 1068 (Jao et al, 2005; and Ianna et al, 1994)
+23.0	BD+61 2068 A	M0 Ve	?	Cepheus	LHS 3595, Gl 809
+23.0	BD+61 2068 B	M? V	?	Cepheus	Spectroscopic binary (SB)
+23.5	Gliese 105 B	M3.5 V	0.21	Cetus	HR 753 B, LHS 16, Gl 105 B
+23.5	Gliese 105 C	M7 V	0.082	Cetus	HR 753 C, Gl 105 C
+23.5	GJ 1286	M5.5 V	?	Pisces	LHS 546, G 157-77
+23.6	BD+01 2447	M V	?	Sextans	LHS 2272, G 162-60, Gl 393
+23.7	G 203-47 A	M3.5 V	?	Hercules	Hip 83945, USNO 752
+23.7	G 203-47 B	M? V	?	Hercules	
+23.8	LP 71-165	M4.5 V	?	Draco	Flare star, G 258-33, LHS 3376
+23.9 +/- 0.1	CD-68 47 A	M3.0 V	?	Tucana	Variable, LHS 1208, Gl 54
+23.9 +/- 0.1	CD-68 47 B	M3? V	?	Tucana	LHS 1208 B, Gl 54 B (Henry et al, 2006b; and Henry et al, 2006a)
+24.0	G 184-19 A	M4.5 V	?	Hercules	Flare star, LHS 3405, Gl 1230 A
+24.0	G 184-19 B	M4.5 V	?	Hercules	LP 319-2, LHS 3404, Gl 1230 A
+24.0	G 184-19 C	M? V	?	Hercules	Gl 1230 C
+24.0	LHS 1070 A	M5.5 V	<0.20	Sculptor	Flare star, LP 881-64, GJ 2005 A
+24.0	LHS 1070 B	M8.5 V	<0.08	Sculptor	Sep(AB)=1.07", GJ 2005 B (Leinert et al, 2000)
+24.0	LHS 1070 C	M9.2 V	<0.08	Sculptor	Sep(AC)=1.32", GJ 2005 C
+24.0	LHS 1070 D	M? V	<0.20	Sculptor	Sep(AD)~0.050" (Henry et al, 1999)
+24.3	L 788-34	M4.5 V	?	Aquarius	Flare star, LHS 3799, GJ4274
+24.3 +/- 7.4	DG Canum Venaticorum A	M4 V-VIe	?	Canes Venatici	Variable, subdwarf?, G 165-8, GJ 3789, TYC 2003-139-1
+24.3 +/- 7.4	DG Canum Venaticorum B	M? V-VI	0.?	Canes Venatici	Subdwarf?, multiple system?
+24.3 +/- 0.2	L 499-56	M3-3.5 V	?	Grus/Piscis Austrinus	LHS 3746, GJ 4248 (Henry et al, 2006b; and Henry et al, 2006a)(Henry et al, 2006)
+24.4 +/- 9.8	L 471-42	M4.5 V	0.?	Virgo	Spectroscopic binary, LHS 337, GJ 3737
+24.6	G 154-44	M4.5 V	?	Serpens Cauda	Flare star, LHS 3359, GJ 1224
+24.6	VX Arietis	M3 V	?	Aries	Flare star, AC+25 7918, LHS 1439, Gl 109
+24.6	Mu Cassiopeia B	M5? VI	0.15-0.17	Cassiopeia	Subdwarf, HR 321 B, Gl 53 B
+24.7	L 1813-21	M3.5 V	?	Camelopardalis	G 192-13, LHS 1805, GJ 3378
+24.9	BD+11 2576	M0.5-1 Vn	?	Virgo	LHS 352, Gl 514
+25.0	L 399-68	M3.5 V	?	Centaurus	LHS 340, GJ 480.1
+25.3	G 109-35	M5 V	?	Gemini	LHS 223, GJ 1093
+25.4	BD-03 4233	M0-1 V	?	Serpens Cauda	Variable, LHS 3356, Gl 701
+25.5	BD-03 2870 A?	M1.5-3 V	?	Sextans	Sep=25"~200 AUs?, LTT 3734, Gl 382
+25.8 +/-2	SIPS 1259-4336	M8 V	0.?	Centaurus	(Deacon et al, 2005; Kenneth Croswell, 2004; and unpublished correspondence from Todd Henry)
+25.9 +/- 0.2	L 674-15	M3.5 V	0.17	Puppis	Variable, Gl 300 (Henry et al, 2006b; and Henry et al, 2006a)
+26.0	AC+65 6955	M2.5-3 V	?	Draco	LHS 3558, Gl 793
+26.0 +/- 0.2	GJ 300	M3.5 V	?	Puppis	LHS 1989 (Henry et al, 2006)
+26 +/- 3	SSSPM J1138-7722	M5.5 V	?	Draco	(Scholz et al, 2004)
+26.1	BB Capricorni	M4.5 Ve	?	Capricornus	Variable, Wolf 922 A, LHS 511, Gl 831 A
+26.1	Wolf 922 B	M? V	?	Capricornus	Sep(AB)=0.218", 1.75 AUs, Gl 831 B
+26.1	Wolf 922 C	M? V	?	Capricornus	Gl 831 C
+26.2	AC+48 1595-89 A	M2.5 V	?	Hercules	LHS 417, Gl 623 A
+26.2	AC+48 1595-89 B	M? V	?	Hercules	LHS 417, Gl 623 B
+26.5	BD+18 3421	M0-1 V	?	Hercules	LHS 452, Gl 686
+26.5	G 130-4	M4 V	?	Andromeda	LHS 4003, GJ 1289
+26.6	FN Virginis	M4.5 Ve	?	Virgo	Flare star, Wolf 461 A, LHS 2664, Gl 493.1 A
+26.6	Wolf 461 B	M? V	?	Virgo	Spec. double, Gl 493.1 B
+26.6	BD+70 58b	M3.5 Ve	?	Cepheus	Flare star, LHS 131, Gl 48
+26.7	G 122-49	M4.5 V	?	Ursa Major	LHS 316, GJ 1151
+26.7 +/- 0.7	SCR 1138-7721	M5.5 V	?	Chamaeleon	(Henry et al, 2006; Subasavage et al, 2005; Subasavage et al, 2005; Henry et al, 2004; and Hambly et al, 2004)
+26.8 +/- 3.9	L 35-12	M4.5 V	?	Carina/Volans	LHS 263, G 1123 (Subasavage et al, 2005; and Henry et al, 2004)
+26.8	Wolf 437	M3.5 V	?	Virgo	LHS 341, Gl 486
+26.9	G 227-29	M4.5 V	?	Draco	LP 103-305, LHS 465, GJ 1227
+27 ~	SCR 0838-5855	M? V	?	Carina	(Finch et al, 2007)
+27.1 +/- 8.2	LP 723-32	M3.5 V	?	Corvus	LHS 2520, GJ 3707
+27.2	Ross 64	M4-4.5 V	?	Gemini	LHS 1846, Gl 232
+27.3	Alula Australis Ab	M3 V	?	Ursa Major	Xi UMa Ab
+27.3	Alula Australis Bb	M? V	?	Ursa Major	Xi UMa Bb
+27.4	Mu Herculis B	M3.5 V	0.31 +/-0.10	Hercules	LHS 3325, HR 6623 B, Gl 695 B
+27.4	Mu Herculis C	M4 V	0.31 +/-0.10	Hercules	HR 6623 C, Gl 695 C
+27.4 +/- 0.2	AP Columbae	M4e p-ms	?	Columba	Pre-main sequence, AP Col, L 523-55, LP 949-015, LTT 2449
+27.6	LP 469-206	M5.5 V	?	Aries	Flare star, LHS 1375, GJ 3146
+27.6	LTT 13408	M5 V	?	Virgo	Flare star, optical B, G 13-12, LHS 2531, GJ 1154 A
+27.6	CD-37 10765 A	M2-4 V-VI	?	Scorpius	Subdwarf?, LHS 415, Gl 618 A
+27.6	CD-37 10765 B	M5.5 V-VI	?	Scorpius	Subdwarf?, LHS 416, Gl 618 B
+27.7 ~	SCR 0640-0552	M? V	?	Monoceros	(Subasavage et al, 2005b)
+27.8	BD-21 1051 A	M0 V	?	Lepus	LTT 2151 A, Gl 185 A
+27.8	BD-21 1051 B	M2 V	?	Lepus	Sep 1.4", 11.9AUs; Gl 185 B
+27.9	BD+36 2119 A?	M1 Ve	?	Ursa Major	Spec. double?, G 148-13, Gl 450 A
+27.9	LP 666-9	M9 V	?	Hydra	Flare star, LHS 2065, GJ 3517
+27.9 +/- 7.4	LTT 17993 AB	M4.5 V
+28.0 +/- 0.2	G 89-32 A	M5.0 V	0.13	Canis Minor	Flare star, LTT 17993 (Henry et al, 2006)
+28.0 +/- 0.2	G 89-32 B	M5.0 V	0.13	Canis Minor	Flare star?, Sep= 6.0 AUs
+28.1	L 49-19	M2.5 V-VI	?	Octans	Subdwarf?, LHS 531, Gl 877
+28.2	FK Aquarii A	M0-1.5 Vpe	?	Aquarius	Variable, BD-21 6267, Gl 867 A
+28.2	FK Aquarii B	M? V	?	Aquarius	Spectroscopic double B
+28.2	FL Aquarii	M4 Ve	?	Aquarius	Flare star, sep(Aab-B)=24.0", Gl 867 B
+28.3	Chi1 Orionis B	M? V	0.5	Orion	Sep=6.2 AUs, Gl 222 B
+28.3 +/- 0.4	G 19-7	M3.5 V	?	Ophiuchus	Flare star, LHS 3255, GJ 1207, L 988-42 (Henry et al, 2006b; and Henry et al, 2006a)
+28.3 +/- 0.4	LP 415-636	M3-4.5 Ve	?	Taurus	Flare star, GJ 3275 (Henry et al, 2006)
+28.4	BD-05 1844 B	M2.5 V	?	Monoceros	LHS 1876, Gl 250 B
+28.7 +/- 0.5	HU Delphini A	M6 Ve	?	Delphinus	Flare star, G 144-8, LHS 3556, Gl 791.2
+28.7 +/- 0.5	HU Delphini B	M? V	?	Delphinus	Sep=0.028", Gl 791.2
+28.6	LDS 169 A	M2 V	?	Mensa	L 32-9 A, LTT 2602, Hip 31293
+28.6	LDS 169 B	M3 V	?	Mensa	Sep=25", Hip 31292
+28.6	BD-05 5715	M3.5 V	0.49	Aquarius	Planet, LHS 517, Gl 849
+28.6 +/- 0.8	L 961-1 A	M4.5 V	?	Canis Minor	LHS 1951, Gl 1103 A
+28.6 +/- 0.8	L 961-1 B	M? V	?	Canis Minor	Sep=26.4 AUs, LHS 1952, Gl 1103 B
+28.7	41 Arae B	K7-M0 V	?	Ara	a=210 AUs, e=0.901, Gl 666 B, LHS 445
+28.7	L 1157-47	M V	?	Pisces	Flare star, LP 467-16 , LTT 10436, GJ 3078
+28.8	BD-05 1123 B	M? V	?	Eridanus	Spec. double, Gl 183 B
+28.8	CD-27 14659 B?	M? V	?	Capricornus	Spec. double?, Gl 785 B?
+28.9	Ross 731 B	M2 V-VI	?	Sagittarius	Subdwarf?,LHS 3433, Gl 745 B
+28.9	Ross 731 A	M1.5 V-VI	?	Sagittarius	Subdwarf?,sep=948AUs, LHS 3432, Gl 745 A
+29.0	Ross 695	M2-4 V	?	Corvus	LHS 45, Gl 465
+29.1	L 745-46 B	M6 V	?	Puppis	Sep=21", LHS 234, Gl 283 B
+29.1 +/- 0.8	LP 469-67	M6 V	?	Pisces	LHS 1326, GJ 3128
+29.2	V374 Pegasi	M4 V	?	Pegasus	Flare star, G 188-38, GJ 4247
+29.3	L 678-39	M? V	?	Hydra	LHS 2157, Gl 357
+29.3 +/- 6.4	LP 823-4	M5 V	?	Aquarius	Flare star, LHS 4009, GJ 4360
+29.4 +/- 0.5	LHS 263	M4.5 V	?	Carmelopardalis/Draco	L 35-12, GJ 1123 (Jao et al, 2005; Henry et al, 2004; and Henry et al, 2002)
+29.5	CD-31 9113	M1.5 V	0.48	Hydra	2 planets, LHS 2429, Gl 433
+29.7 +/- 0.2	L 745-46 B	M6.0 V	?	Puppis	SepAB=20.6", Gl 283 B, LHS 235 B, WD 0738-172 B (Subasavage et al, 2009)
+29.7	SZ Ursae Majoris	M0-1 V	?	Ursa Major	Flare star, LHS 41, Gl 242
+29.7	Ross 1015	M3.5 V	?	Canes Venatici	LHS 2784, GJ 3801
+29.7 +/- 4.6	LHS 532	M.5 V	?	Cepheus	L 167-14, GJ 1277 (Subasavage et al, 2005; and Henry et al, 2004)
+29.8 +6.7/-4.6	Hip 82725 A	M? V	?	Ara	Binary w/Hip 82724
+29.8 +6.7/-4.6	Hip 82724	M? Vp	?	Ara	Hip 82725 B
+29.9	G 113-20	M2 V	?	Hydra	Hip 40501, GJ 2066
+29.9 +/- 5.5	Gl 317	M3.5 V	0.24	Pyxis	Planets?, L 675-81, LHS 2037
+30	SCR 1826-6542	M? V	?	Pavo	(Finch et al, 2007)
+30.1 +/- 0.6	L 1750-5	M4.5 V	?	Lynx	LHS 224, GJ 3421
+30.1	HR 4523 B	M4 V	0.07	Centaurus	LHS 313, Gl 442 B
+30.2	L 736-49	K-M3 V	?	Lepus	LHS 1731, GJ 3325
+30.3	G 192-15	M5 V	?	Auriga	LHS 1809, GJ 3380
+30.3	Wolf 1069	M5 V	?	Cygnus	LHS 3549, GJ 1253
+30.4	L 737-9	M3.5 V	?	Lepus	Variable, LHS 190, Gl 203
+30.4	Wolf 46 Aa?	M2 Ve	?	Cassiopeia	SB Ab?, LHS 1179, Gl 49
+30.4	V338 Cassiopeiae	M5-7 Ve	?	Cassiopeia	Flare star, Wolf 47, LHS 1183, Gl 51
+30.4 +/- 0.4	WT 469	M5.5 V	?	Centaurus	(Henry et al, 2006; and Patterson et al, 1998)
+30.7	AC+82 1111	M2.5 V	?	Camelopardalis	LHS 215, Gl 226
+30.7	BD+18 683 A?	M2.5 Ve	?	Taurus	Planet, Gl 176, LHS 196
+30.7	BD+18 683 B?	M? V	?	Taurus	Spec. double B?
+30.8	BD-18 359	M2.5 V	?	Cetus	LHS 149, Gl 84
+30.9	CD-30 731	M3.5 V	?	Fornax	LHS 1339, GJ 3135
+30.9	G 203-42	M4.5 V	?	Draco	LHS 3262, GJ 3988
+31.0	BD+43 2796	M2.5-3.5 V	?	Hercules	LHS 3321, Gl 694
+31.0	CD-40 5404	M2-3 V	?	Vela	Flare star, LHS 2166, Gl 358
+31.1	G 160-28	M3.5 V	?	Eridanus	LHS 183, GJ 1065
+31.1	CD-32 8179 B	M? V	?	Hydra	Sep= 135.5 AUs, VB4, LHS 309, Gl 432 B
+31.2	G 19-7	M2.5-3.5 V	?	Ophiuchus	Flare star, LHS 3255, Gl 1207
+31.4	CD-59 1251	M0 V	?	Carina	Variable, LHS 2128, Gl 341, L 988-42
+31.5	L 1038-28	M3.5 V	?	Hydra	Variable, G 48-20, LHS 2149, GJ 1125
+31.5	CD-51 6859	M2-3 V	?	Centaurus	LHS 336, Gl 479
+31.6	LP 98-79	M6.5 V	?	Draco	Flare star, LHS 2930, GJ 3855
+31.9	L 1545-74	M4.5 V	?	Leo Minor	LHS 293, GJ 1138 B
+31.9	L 1305-10	M4 V	?	Aries	Flare star, LHS 1417, Gl 102
+31.9	CD-48 11837	M0-1.5 V	?	Ara	Variable, Gl 680
+32.0	CE Bootis A	M0-2.5 Ve	?	Bootes	Flare star, G 136-28, Gl 569 A
+32.0	CE Bootis B	M8.5 V	?	Bootes	Sep=5.1", Gl 569 B
+32.0	CD-45 5378	M1-3 V	?	Vela	Variable, LHS 2182, Gl 367
+32.0 +/- 9.4	LTT 11472	M4 V	?	Taurus	Flare star, G 39-29, GJ 3304
+32.1	G 144-25	M4-5 V	?	Delphinus	LHS 495, GJ 1256
+32.1	BD+17 1320	M1 V	?	Gemini	LHS 1858, Gl 239
+32.1	L 768-119	M3.5 V-VI	?	Libra	Variable, subdwarf?, LHS 54, Gl 595
+32.1 +/- 0.7	Wolf 227	M4.5 V	?	Taurus	LHS 1610, G 6-39 (Henry et al, 2006b; and Henry et al, 2006a)
+32.2	LTT 14363	M1.5 V	?	Ursa Minor	AC +66 4437, G 239-25, GJ 9492
+32.3 +/- 0.7	LP 647-013	M9.5 V	?	Cetus	(Costa et al, 2005)
+32.4	AU Microscopii	M0-1 Ve	?	Microscopium	Flare star, planet?, companion to AT Mic AB, CD-31 17815, Gl 803
+32.4 +/- 9.0	G 180-60	M5 V	?	Hercules	Flare star, GJ 3959
+32.5 +0.8/-0.7	Ross 41	M3.5-5 V	?	Orion	LHS 1761, Gl 203
+32.6	LP 90-18	M5.5 V	?	Ursa Major	LHS 252, GJ 3512
+32.6	BD+05 3409 A?	M0-1 V	?	Ophiuchus	Sep=10", G 139-43, Gl 678.1 A
+32.6~	SCR 0740-4257	M? V	?	Puppis	(Subasavage et al, 2005b)
+32.7 +/-1.6	G 268-110	M5 V	?	Cetus	LHS 134, GJ 1028
+32.7 +/-8.9	G 169-29	M4.5 V	?	Hercules	Flare star, GJ 3976
+32.8	Wolf 46 A	M1.5 V	0.?	Cassiopeia	Gl 49, Hip 4872, BD+61 195, LHS 1179
+32.8	L 1346-53	M3V	0.?		Gl 609, G 137-78, LHS 411
+33.0	V547 Cassiopeiae B	M3.5V	0.?	Cassiopeia	SepAC-B=4",41AU;d(K=1.35; Gl 22 B, BD+66 34 B, LHS 115
+33.0	V547 Cassiopeiae A	M2.5Ve	0.?	Cassiopeia	V(AB)=10.34, d(m)=3.7; sepAC=0.4", 4AU; d(K)=1.94; Gl 22 A, Hip 2552, BD+66 34, G 243-30, LHS 114
+33.1	AC+02 2155-242	M4V	0.?		Gl 748, Hip 94349?, G 22-18, LHS 472
+33.1	CD-76 1182	MV	0.?		Hip 117828, HD 223889, CD-76 1182, CP-76 1619
+33.2	LP 60-179	MV	0.?		G 234-53
+33.2	AC+66 3955	M3-4Ve	0.?		LTT 13665, LTT 13669?, Gl 487, Hip 62556, G 237-78, V 676
+33.2	Wolf 1561 A	M4.5Ve	0.?		Gl 852 A, LHS 3787
+33.2	Wolf 1561 B	M5Ve	0.?		Gl 852 B, LHS 3788
+33.3	GJ 1129	MV	0.?		LHS 273
+33.3	G 42-24	MV	0.?		G 42-24, LHS 2206
+33.3	Ross 52 B	M5V	0.?		Sep=0.69", 7.1AU; P=34.1yr, HeintzAJ99, 420 (1990); Gl 368 B
+33.3	Ross 52 A	M3.5V	0.?		V(AB)=11.66,d(m)=.5; Gl 568 A, Hip 72896, G 166-53, LHS 2997
+33.4	AT Microscopii B	M4.5Ve	0.?	Microscopium	Sep=3.9", 40 AU (1962); CD-32 16135 B, Gl 799 B
+33.4	AT Microscopii A	M4.5Vpe	0.?	Microscopium	V(AB)=10.24, d(m)=0; Gl 799 A, Hip 102141, HD 196982, CD-32 16135, U 502
+33.4	AC+27 28217 / Gliese 436	M2.5-3.5V	0.44	Leo	Planet, Gl 436, Hip 57087, G 120-68, LHS 310, V 616
+33.6	BD+00 4810	M0.5-3 Ve	0.?	Aquarius	Gl 846, Hip 10872, HD 209290 LHS 3745
+33.7	BD+25 3173	M2V	0.?		Planet, var; Gl 649, Hip 83043, BD+25 3173, G 169-38, LHS 3257, V 785
+33.7	G 100-28 A	MV	0.?		Riepe's Double: sep=6", 62AU; 315d; GJ 1083 A, G 100-28
+33.8	GJ 1119	MV	0.?		G 115-42, LHS 2092, G 115-42, LHS 2092
+33.8	LP 245-10	MV	0.?		LHS 1378
+33.9	BD+02 348	M2.5V	0.?		Gl 87, Hip 10279, BD+02 348, G 73-35, LHS 14, V 95
+33.9	GJ 1134	MV	0.?		G 146-58, LHS 287
+33.9	Ross 119	M0-3.5V	0.?		Wo 9375, Gl 452.1, G 12-4, LHS 2472
+34.0	L 1209-6	MV	0.?		LTT 15516, LP 510-15, G 141-29
+34.0	Ross 594	M4.5V	0.?		Gl 170, G 81-21, LHS 1674
+34.0	GJ 1265	MV	0.?		LHS 3776
+34.2	L 396-7	M3.5V	0.?		Gl 431, Hip 56244, L 396-7, LHS 2423
+34.2	BD+63 869	M1-2V	0.?		Gl 373, Hip 48714, BD+63 869, G 235-49, LHS 2211, V 121
+34.2	CD-59 2351	M0V	0.?		Gl 341, LTT 3453, L 140-9, Hip 45908, HD 304636, CD-59 2351, CP-59 1362, LHS 2128, U 204
+34.3 +/-10.9	L 363-38	M3-4 V	?	Phoenix	LHS 1134, GJ 3049
+34.3	LP 30-55	MV	0.?		G 245-40
+34.3	LP 271-25	M9V	0.?		LHS 2924
+34.3	LTT 11392	M4Ve	0.?		Rob 270, G 7-34
+34.4	BD-12 2918 A	M2-3V	0.?		V(AB)=10.06, d(m)=0.0; Gl 352 A, Kui 41, Hip 46706, LHS 2151, V 26
+34.7	L 1815-5 A	M3.5V	0.?		d(m)=0.5, V(AB)=10.52; LTT 11937, LP 87-237, Hei 334, Hip 33142, G 250-29, LHS 221
+34.7	LTT 10045	MV	0.?		G 131-26
+34.8	BD+67 935 B	M2.5V	0.?		Gl 617 B, G 225-58, LHS 3176
+34.8	BD+67 935 A	M0Ve	0.?		Var; Gl 617 A, Hip 79755, HD 147379, BD+67 935, G 225-57, LHS 3175, V 162
+34.8 +/-7.6	G 159-3	M4.5 V	?	Cetus	Flare star, LHS 1302, Gl 3119
+34.9	CD-23 9765	M3V	0.?		LTT 4108, Wo 9349, Gl 413.1, Hip 54532, CD-23 9765, LHS 2358
+34.9	L 1295-31	MV	0.?		LTT 16862, LFT 1785, LP 462-27, Hip 115332?, G 68-8, LHS 543
+34.9	G 142-11	M4.5 V	0.?	Sagitta	GJ 1232, G 142-11, LHS 3438
+35.0	Hip 79762	M3V	0.?		NN
+35.0	Ross 165 A	M4.5V	0.?		V(AB)=12.38,d(m)=.5; Gl 766 A, G 185-37, LHS 478
+35.1	L 730-18 B	M3V	0.?		AB: sep=4.5", 48 AU; inclin?=121d; d(R)=.7, d(pg)=.8 (NLTT); LP 771-96
+35.1	L 730-18 A	M3V	0.?		V(AB)=10.54, d(m)=.8; LTT 1445, LP 771-95, Hip 14101
+35.2	BD+10 1032 A	M2.5V	0.?		V(AB)=10.41, d(m)=1.9; Gl 228 A, Hip 29316, BD+10 1032, G 102-53, LHS 1830, V 236
+35.2	BD+00 2989	M0.5Ve	0.?		Var; Gl 488, Hip 62687, HD 111631, BD+00 2989, G 14-6, V 675
+35.2	BD+74 1047 B	M2V	0.?		Gl 909 B
+35.2	L 989-20 A	M3.5 V	?	?	Not G type, Gl 660 A, Hip 84123, LHS 3269
+35.3	AC+60 3496	M2.5Ve	0.?		Gl 47, G 243-50, LHS 1176
+35.4	L 672-19	MV	0.?		LTT 2906, LP 783-1, Hip 37217, LHS 1935
+35.4	CD-45 1184	M3.5V	0.?		Gl 145, Hip 16536, CD-45 1184
+35.4	G 180-11	MV	0.?		NN
+35.5	LP 760-3	M6.5V	0.?		Mv=17.03+/-.14, G&L ApJ305, 784; LHS 523
+35.6	BD+36 2393 A	M1-9V	0.?		Spec.dou.?;Gl 519, Hip 66459, BD+36 2393, G 165-19, V 49
+35.6	G 22-26	MV	0.?		GJ 1236, G 22-26, LHS 3457
+36.7	AC+03 2259-31	M2 V	0.?	Pisces	Gl 70, Hip 8051, G 3-14, LHS 1290
+35.8	Ross 848	M4V	0.?		Gl 545, G 124-25, LHS 369
+36.0	G 261-6	MV	0.?		GJ 1238, G 261-6, LHS 3461
+36.0	Ross 1003	M3.5-5V	0.?		GJ 1148, Hip 57050, G 122-40, LHS 2443
+36.1	AC+56 13511	M3V	0.?		Gl 63, G 219-15
+36.2	BD-11 916	M1V	0.?		Gl 173, Hip 21556, BD-11 916, V 106
+36.2	BD+05 3993	M2V	0.?		Gl 740, Hip 93101, HD 176029, BD+05 3993, G 22-10, LHS 470, V 190
+36.2	GJ 1277	M4V	0.?		LHS 532
+36.2	Rob 115	M4V	0.?		NN
+36.2	LP 205-49	MV	0.?		NN
+36.2	L 207-41	MV	0.?		LHS 3413
+36.3	AC-12 2306-155	M3-4V	0.?		Wo 9484, Gl 553.1, Hip 70975, LHS 2932
+36.4	Wolf 636	M0-3.5V	0.?		Comp. to Gl653: sep=18.5", 206 AU; 146d; Gl 654, LFT 1317, Hip 83599, BD-04 4226, G 19-14, LHS 432, V 787 B
+36.5	11 Leonis Minoris B	MV?	0.?	Leo Minor	AB: a=3.84", 42.9 AU; P=201yr; Heintz, AJ94, p1077; Gl 356 B, LHS 2156
+36.5	BPM 17964 A	M2Ve	0.?		LDS 131 A, GJ 2036 A, Hip 22738, CD-56 1032, U 98
+36.5	GJ 1187	MV	0.?		G 201-27, LHS 3006
+36.5	LP 625-34	MV	0.?		NN
+36.6	BD+47 2112 A	M3Ve	0.?		Gl 537 A,G 200-16, LHS 2849, V 706
+36.6	BD+47 2112 B	M3Ve	0.?		Gl 537 B, LHS 2850
+36.6	AC-07 342-397 A	M3V	0.?		LTT 7658, L 923-21, LDS 678 A, AC-7:342-402, Gl 754.1 A, Hip 95071?, W 131
+36.6	BD+17 2611 B	M1V	0.?		AB: sep=1.3", 15 AU; inclin?=122d; OR: sep=6.4", 72AU; inclin?=108d; Gl505 B (1881-1959),LHS 2714
+36.6	Theta Persei B	M1V	0.?	Perseus	
+36.6	Ross 149	M3.5V	0.?		LTT 15483, G 141-21
+37.0	Ross 145	M3-4V	0.?		LTT 15513, Hip 91699, G 206-40
+37.0	Ross 85	M2Ve	0.?		AC+13 1301-119, Gl 361, LFT 670, Hip 47513?, G 42-17, LHS 2173, V 551
+37.1	G 204-58 A	MV	0.?		AB: sep=8.5", 97 AU; 290d; G 204-58, LHS 462
+37.1	G 204-58 B, 57	MV	0.?		G 204-57, LHS 461
+37.2	BD+21 2763	M0-9Ve	0.?		Wo 9520, BPM 90688, Hip 75187, BD+21 2763, V 740
+37.2	L 762-51	M3.5V	0.?		LTT 5346, L 762-51, LP 798-34, Hip 67164, LHS 2794
+37.2	VV Lyncis B	M3-4.5Ve	0.?	Lynx	Ross 989, Gl 277 B, G 87-43
+37.2	VV Lyncis Aa	M3.5Ve	0.?	Lynx	Spec.dou.;Gl 277 A, Hip 36626, BD+36 1638, G 87-44, V 246
+37.2	L 1501-53 A	M0V	0.?		LTT 15769, LP 337-3, Hip 97241, G 125-30
+37.3	DT Virginis	M1.5Ve	0.?	Virgo	Gl 494, Hip 63510, BD+13 2618, G 60-57, LHS 2665, V 140
+37.3	G 250-31 A	M4.5 V	?	Lynx	Flare star, LHS 1885, GJ 3417
+37.3	G 250-31 B	M? V	?	Lynx	Sep=2.0" (Henry et al, 1997)
+37.3	Ross 271	M2Ve	0.?		AC+17 536-125, LFT 1691, Gl 851, Hip 109555, G 126-61, V 74
+37.4	Hip 36627	M4V	0.?		Hip 36627
+37.5	AC+63 14097	M0V	0.?		Gl 277.1, Hip 36834, G 234-5, V 497
+37.5	L 675-81	M0V	0.?		Gl 317, LHS 2037
+37.5	LP 275-68	MV	0.?		NN
+37.5	L 387-102	M3V	0.?		LTT 3139, LHS 2010
+37.5	LP 36-181	MV	0.?		G 252-33, LHS 2126
+37.5	BD+44 4548	M2Ve	0.?		G l2, Hip 428, BD+44 4548, G 171-39, LHS 1014, V 216
+37.5	L 127-97	M0V	0.?		Gl 118, Hip 13389, LHS 160
+37.6	CD-44 3045 B	M3V	0.?		Gl 257 B
+37.6	CD-44 3045 A	M3-4V	0.?		V(AB)=10.84, d(m)=.2; Gl 257 A, Hip 33499, CD-44 3045, CP-44 1190, LHS 222
+37.6	AC+70 4337	M3-4V	0.?		Gl 362, Hip 47650, G 235-36, LHS 2178, V 550 B
+37.7	G 107-69 A	M5V	0.?		Gl 275.2 A, G 107-69, LHS 229
+37.8	L 1154-29	M3.5V	0.?		LP 462-42, Gl 12, G 30-55, LHS 1050
+37.8	AC+08 142-393 A	M2-3Ve	0.?		Spec.dou.; Gl 735, Hip 92871, V 188
+37.9	Ross 1041	M3.5V	0.?		LTT 14424, G 178-55, LHS 2998
+37.9	Ross 845	M5.5Ve	0.?		LTT 5568, Gl 540.2, LHS 2880
+37.9	LP 525-39	MV	0.?		NN
+38.0	BD+22 2302	M0-2 Ve	0.?	Leo	Gl 410, Hip 53985, HD 95650
+38.2	BD+45 2247	M0V	0.?		Gl 572, Hip 73470, BD+45 2247, G 179-6, V 314
+38.3	AC+70 4336	M3V	0.?		Gl 360, Hip 47620, G 235-35, LHS 2176, V 550 A
+38.3	BD+45 4408 B	M0.5Ve	0.?		AB: a=6.179", 72.6 AU; P=362.3yr; OR: a=11.698"; P=1506.68 yr; Gl 4 B, LHS 1017
+38.3	Ross 508	M4V	0.?		Gl 585, G 136-103, LHS 396
+38.4	CD-56 5362	M2V	0.?		Hip 69454
+38.6	G 247-15	MV	0.?		LHS 1638
+38.7	CP-60 7528	M2V	0.?		L 165-2, Sm 96, Gl 842, Hip 108569, CD-60 7821, LHS 3741
+38.7	G 76-62	MV	0.?		GJ 1055, G 76-62, LHS 1504
+38.8	Sm 36	M2V	0.?		BPM 26134
+38.8	LTT 9012	M3.5V	0.?		LFT 1714, Wo 9780, LHS 3804
+38.8	LP 805-10	MV	0.?		LHS 3197
+39.0	BD+47 612	M1.5Ve	0.?		Var;Gl 96, Hip 11048, G 173-53, V 96
+39.0	G 208-42	MV	0.?		GJ 1243
+38.9	BD+31 2240 B,2238	M2V	0.?		Gl 414 B, G 119-59, LHS 2366
+39.0	G 44-42	M3V	0.?		Gl 403, G 44-42, LHS 295
+39.1	G 182-36	MV	0.?		GJ 1223, G 182-36, LHS 457
+39.1	GJ 1179 A	M4V	0.?		LHS 362
+39.2	Ross 15	M4Ve	0.?		AC+58 13565, Gl 82, Hip 9291, G 219-30, Ross 15
+39.2	Wolf 654	MV	0.?		LTT 15087, Hip 84099
+39.3	Ross 868 A	M4Ve	0.?		Gl 669 A, Hip 84794, G 170-35
+39.3	Ross 868 B, 867	M5Ve	0.?		Var, Gl 669 B, G 170-34
+39.3	Ross 948 A	M2 V	?	?	Not G type, LP 735-11, GJ 3728
+39.3	BD-21 1074 B	M3V	0.?		AB: sep=8.3", 100; 319d; BC: sep=1.3", 16 AU; 30d; V(BC)=11.30, d(m)=1; Steph 545 A
+39.3	Ross 948 B	M2V	0.?		LTT 4730
+39.3	BD-21 1074 A	M2V	0.?		Steph 546
+39.3	G 221-5	M6V	0.?		GJ 1053, LHS 18
+39.5	Wolf 1539 / Gliese 179	M4Ve	0.?		Planet?,Gl 179, Hip 22627, G 82-52
+39.6	Wolf 918	M3V	0.?		Gl 821, Hip 104432, LHS 65
+39.7	Ross 92	M4V	0.?		Gl 359, G 49-20, LHS 2171
+39.8	G 119-62	M4V	0.?		
+39.8	LP 844-28	MV	0.?		LHS 2071
+39.8	LP 798-25	MV	0.?		LHS 2783
+39.8	LP 845-23	M4.5 V	0.?	Pyxis	LHS 2106
+39.8	G 130-3	MV	0.?		GJ 1288
+39.9	Wolf 940	M3.5V	0.?		Brown dwarf, GJ 1263, G 26-30, LHS 3708
+40.0	L 480-69	M4V	0.?		Gl 590, LHS 3092
+40.2	L 968-22 A?	M0V	0.?		Comp?: 25", 310 AU?; d(m)=2; LP 609-71, Gl 381, Hip 49969, G 53-28, LHS 2230, V 568
+40.2	BD+27 1348	M2.5V	0.?		Wo 9227, Gl 268.3, Hip 35191, BD+27 1348, G 109-55, V 490
+40.3	L 504-27	M4V	0.?		LFT 1809, LTT 9624, LP 986-92, LHS 547
+40.3	L 1820-21	M2V	0.?		LTT 12597, LP 91-105, G 235-40, LHS 2191
+40.3	L 1499-34	MV	0.?		LTT 15607, LP 336-4, G 207-19
+40.3	L 21-3	MV	0.?		LTT 6920, LHS 3295
+40.3	LP 397-34	MV	0.?		NN
+40.3	LTT 10257	MV	0.?		G 1-18, LHS 1137
+40.3	LP 833-42	M3.5V	0.?		LHS 1630
+40.3	AC+41 726-154	M3-4V	0.?		Gl 671, Hip 84790, G 181-39, LHS 3281
+40.3	Wolf 230	M3 V	0.?	Taurus-Orion	Large plx error, LTT 11586, G 85-41
+40.3	L 736-30	M2-3 V	0.43		2 planets, Gl 180, LHS 1712, Hip 22762?
+40.4	CD-32 828	M2.5 V	0.?		Gl 91, Hip 10395, LHS 1361
+40.4	Ross 46	M3.5V	0.?		LTT 11684, G 97-54
+40.7	BD+53 935	M1V	0.?		Gl 212, Hip 26801, HD 233153, G 191-51, LHS 1775, V 465
+40.7	GJ 1101	MV	0.?		LHS 1956, G 253-6, LHS 1956
+40.7	L 715-89	M3V	0.?		Gl 843, LHS 3744
+40.7	BD-09 3070	M0-1.5V	0.?		Gl 390, Hip 51007, G 162-52, LHS 2259, V 579
+40.8	AC+44 871-589	M3V	0.?		Gl 806, Hip 102401,LHS 3577, G 209-41, LHS 3577
+40.8	L 749-34	M2V	0.?		LTT 3412, LP 787-52
+40.8	L 601-78 A	M4V	0.?		Sep= .8", 10 AU; 290d; V(AB)= 12.85, d(m)= .5,; NN A, LHS 1955
+40.8	LP 292-67	M6V	0.?		LHS 112
+40.8	LP 35-347	M5.2V	0.?		USNO 710, LHS 246
+40.9	LTT 11262	M4.5 V	0.?	Taurus	LHS 1593, G 7-4, G 79-70
+40.9	L 192-72	M3.5 V	0.35		Super-Earth in HZ, Gl 422, LHS 40, Hip 55042, HD 304043
+41.0	GJ 1097	M3V	0.?		Hip 36338?, G 112-21, LHS 1920
+41.0	G 69-47	MV	0.?		GJ 1029, G 69-47, LHS 135
+41.0	Wolf 1056	M4V	0.?		AC+31 719, Gl 26, G 69-10, LHS 119
+41.3	Wolf 1457	M4V	0.?		LTT 2321, L 882-76, Hip 25953?, LP 1295-31?, LHS 5109
+41.3	L 617-35	MV	0.?		LTT 5161, LP 855-10, LHS 2729
+41.3	L 23-30	MV	0.?		LTT 8178, LHS 3583
+41.3	G 205-28	MV	0.?		G 205-28
+41.3	LTT 11438	MV	0.?		G 8-38
+41.3	CP-60 7821	K0? V	0.?	?	Unconfirmed id & plx
+41.3	Ross 974	DA / G5-K VII	0.?	?	White dwarf, Gl 495, LHS 6244
+41.3	G 23-24	M1.5 V	0.?	Aquila	GJ 1248, G 23-24, LHS 3511
+41.3	L 856-54 A	M3.5V	0.?		Gl 810 A, LHS 501
+41.4	GJ 1215	MV	0.?		G1 39-29, LHS 3277
+41.5	G 155-29 A	M1V	0.?		GJ 2138, Hip 91430, G 155-29, LHS 3398
+41.6	AC+19 1165-38	M3.5-5V	0.?		Gl 192, Hip 24284, G 85-52
+41.6 +/-5.6	G 244-47	M3-4 V	?	Cassiopeia	GJ 3126
+41.7	Ross 42 A	M4Ve	0.?		Spec.dou.;Gl 206, Hip 25953, G 97-47
+41.7	L 758-108 A	M2V	0.?		AB:sep=5", 1100 AU; 121d; LTT 4562, LP 794-30, Hip 59406
+41.7	L 758-108 B	MV	0.?		LP 794-31
+41.8	LP 658-44	MV	0.?		GJ 2045, LHS 1777
+41.8	BD+08 4887	M0V	0.?		LFT 1723, Gl 863, Hip 111313, BD+08 4887, G 18-56, LHS 3828, V 208
+41.8	G 40-25 A	M5Ve	0.?		Var, GJ 2069 A, Hip 41824, G 9-8
+41.8	G 139-12	MV	0.?		GJ 1210, G 139-12, LHS 3265
+41.8	LHS 3292	MV	0.?		GJ 1218, LHS 3292
+41.8	L 577-87	M4V	0.?		LFT 1844, LTT 9829, LP 936-49, G 267-11, LHS 4058
+41.8	L 1295-9	M4V	0.?		LTT 16843, LP 462-19, G 67-53
+41.8	LP 732-35	MV	0.?		LHS 306
+42.0	CP-60 2911 B	M0Ve	0.?		AB: a=5.760", 74.2AU; P= 421.5yr; Gl 428 B
+42.1	BD-17 6768 A	M3.5V	0.?		BadHipPlx=-16.55,e=13.75;V(AB)=10.42, d(m)=.5; triple- Gl 898: sep= 336", 4340 AU; 353d; Gl 897 A, Hip 116191, G 273-67
+42.1	HR 4587	G8-K0 IV	?	Virgo	Subgiant, HR 4587, HD 104304
+42.1	G 81-39	M4 V	0.?	Auriga	GJ 1073, G 81-39, LHS 198
+42.1	G 139-21	M4.5V	0.16	Ophiuchus	Planet, GJ 1214, LHS 3275
+42.2	BD-18 3019 A	M1V	0.?		BadHipPlx= -7.21, e= 25.22; Gl 401 A, Hip 52621, LHS 289
+42.2	Alpha Aurigae C	M1V	0.?	Auriga	SepBC= 0.17ly; sepCD= 2.7", 35AU
+42.2	Alpha Aurigae D	M5V	0.?	Auriga	
+42.2	CP-62 780	M0Ve	0.?		
+42.4	LTT 17123 A	MV	0.?		Hip 60444
+42.4	BD-21 368	M3V	0.?		LTT 1081, G 272-145
+42.4	G 139-3	MV	0.?		G 139-3
+42.4	LTT 17025	M1V	0.?		G 29-73, LHS 4022
+42.4	LTT 11502	M2.5V	0.?		G 39-34
+42.4	LP 532-81	MV	0.?		V-R= 1.71 Weis
+42.5	GJ 1077	M1.5V	0.?		LHS 205
+42.5	Wolf 497	M1V	0.?		OptComp: sep= 20"; d(m)=1, Worley; Gl 525, Hip 67090, BD+18 2776, G 63-52, LHS 359, V 307
+42.6	AC+76 5308	M3-4V	0.?		Var, Gl 597, Hip 76832, G 257-20, LHS 404
+42.7	CD-53 570	M1.5 V	0.?	Horologium	Gl 114.1 A, Hip 13218, LHS 1452, CC 188
+42.7	CD-28 302	M3.5V	0.?		Gl 46, Hip 4569, CD-28 302, G 269-63, LHS 129
+42.7	V 499	M0V	0.?		Hip 36915
+42.8	AC+45 217-363 B	M4V	0.?		Sep= 1.8", 24AU; 117d; or 3.0", 39AU; 143d (1935-58); Gl 195 B
+42.8	AC+45 217-363 A	M2V	0.?		V(AB)= 10.16, d(m)= 3.5; Gl 195 A, G 96-29
+42.8	BD+57 2735	M2Ve	0.?		Gl 895, Hip 115562, BD+57 2735, G 217-7, V 211
+42.8	L 1866-6	M3V	0.?		LFT 592, LTT 12230, G 234-37, LHS 250
+42.8	AC+17 536-125	M2Ve	0.?		
+42.9	BD+27 4120 A	M0Ve	0.?		Gl 835, Hip 106811, BD+27 4120, G 188-9, V 203
+42.9	G 269-106	M5V	0.?		GJ 1031, G 269-106, LHS 1197
+42.9	Ross 689	M4V	0.?		LFT 880, LTT 13356, G 237-43
+42.9	Ross 837	M3V	0.?		LTT 14082, G 65-19, LHS 2830
+42.9	LP 390-16	MV	0.?		NN
+42.9	G 172-1	MV	0.?		NN
+42.9	SZ Crateris B	MV	0.?	Crater	Sep= 6.3", 83AU; 207d; or 5.1", 67AU; 329d (1877-1959); Gl 425 B, BD-19 3242 B
+42.9	BD+35 2436 A	M1.5V	0.?		Gl 507 A, Hip 65011, BD+35 2436, G 164-64, LHS 2716,V 46
+42.9	BD+35 2436 B	M3V	0.?		Gl 507 B, G 164-65, LHS 2717
+43.0	G 87-8	MV	0.?		GJ 1092, G 87-8, LHS 220
+43.1	L 1912-9	M3.5 V	0.?	Ursa Major	LHS 283, G 236-34
+43.2	BD+46 1889	M2V	0.?		Gl 521, Hip 66625, BD+46 1889, G 177-50, V 305
+43.3	Ross 28	M3.5V	0.?		Gl 164, G 175-19, LHS 1642
+43.4	LP 69-457	MV	0.?		G 240-23
+43.4	L 489-58 A	M3.5 VI	?	Corona Australis	Subdwarf, LHS 469
+43.5	GJ 1088	M3.5V	0.?		LHS 1831
+43.5	L 839-21	M3V	0.?		LTT 6104, LP 742-61, G 151-45, LHS 3056
+43.5	LP 255-11	MV	0.?		NN
+43.5	LP 639-1	M5V	0.?		LHS 516
+43.5	LP 127-132	M4 V	0.?	Ursa Major	LHS 2224, G 195-57
+43.5	BD+10 1857 C	M3.5V	0.?		Sep(AB-C)= 115", 1530AU; 96d(LHS); Gl 319 C, G 46-2, LHS 2043
+43.5	BD+10 1857 Aa	M0V	0.?		Spec.dou.?, V(AB)= 9.65, d(m)= 3.2; Gl 319 A, Hip 42748, BD+10 1857, G 46-1, LHS 2042, V 257
+43.6	BD+31 3767 A	M0.5V	0.?		Gl 767 A, Hip 97292, HD 331161, BD+31 3767, G 125-31, LHS 3482, V 197
+43.6	BD+31 3767 B	M2V	0.?		Gl 767 B, LHS 3483
+43.6	G 31-53	M4V	0.?		GJ 1012, G 31-53, LHS 1084
+43.6 +/- 17.9	L 1007-39	M3.5 V	0.?	Aquarius	LTT 9381, LP 642-82, G 28-44, G 157-25
+43.7	DK+17 4521	M0V	0.?		DerivedRA,Dec= 17:23:2+10:32:58 (?=B1950= Hip 85087, BD-11 3172; M0, var; Plx=1.19 ~2700ly, e=1.54)
+43.7	L 115-21 B	MV	0.?		Sep= 16", 210AU; 284d (LHS); Gl 774 B, LHS 3512
+43.7	L 115-21 A	M0V	0.?		Sm 48, Gl 774 A, LHS 3513
+43.7	BD+09 2636	M0-1V	0.?		Gl 471, Hip 61094, BD+09 2636, G 12-39, LHS 2570, V 662
+43.8	L 427-34 A	M6V	0.?		V(AB)= 11.51, d(m)= 0; LTT 8708, BPM 44196, Sm 89, Hip 107711
+43.9	Ross 370 B	M2V	0.?		Sep=5", 70AU; 10d (NLTT); AC+57 22429, LFT 266, Gl 130.1 B, LHS 1523
+43.9	Ross 370 A	M1.5V	0.?		V(AB)= 10.31, d(m)=.3; AC+57 22428, LFT 265, LTT 11063, CC 214, Wo 9113, Gl 130.1 A, Hip 15220, G 174-41, LHS 1522, V 416
+44.1	L 217-28	M4V	0.?		R-I=1.44 Weistrop; LTT 57, BPM 16015, Sm 154
+44.1	Ross 863	M3V	0.?		Gl 655, Hip 83762, G 170-17, LHS 5324
+44.2	BD+36 1970	M0-2V	0.?		Gl 353, Hip 46769, BD+36 1970, G 116-36, LHS 2155, V 548
+44.2	Wolf 414	M3.5V	0.?		Gl 469, Hip 60910, G 12-38, LHS 2565
+44.2	G 204-39	MV	0.?		Hip 87938, G 204-39, LHS 3343
+44.3	G 192-12 B	MV	0.?		Sep= 161", 2290AU; 119d; NN B
+44.3	G 192-12 A	M1V	0.?		Var; G 192-12, Hip 28368, G 192-11
+44.4	L 258-146	M2.5 V	0.?	Centaurus	Gl 524 A, LTT 5327
+44.5	G 179-43 B	MV	0.?		Sep= 5", 68AU; 146d (LHS); LHS 403
+44.5	G 179-43 A	MV	0.?		V(AB)= 12.2, d(m)= 1.35; GJ 1194A, G 179-43, LHS 402
+44.5	Wolf 1373	M3V	0.?		AC+22 308-605, LFT 1588, Gl 813, Hip 103441, G 187-9, LHS 3605
+44.6	G 265-8	MV	0.?		GJ 1035, G 265-8, LHS 140
+44.6	BD-11 2741	M0-2V	0.?		Gl 369, LFT 685, Hip 48336, BD-11 2741, G 161-80, LHS 274, V 27
+44.7	Ross 587	M1V	0.?		AC+33 10883, Gl 162, Hip 19337, HD 281621, G 38-26, LHS 1634, CC 281, Ross 587
+44.7	L 113-55	M4Ve	0.?		L 1113-55, Gl 398, G 44-27, LHS 2285
+44.7	LTT 17736	MV	0.?		NG 97-15
+44.7	Beta Aquilae B	M3V	0.?	Aquila	Gl 771 B, optCompC?
+44.8	AC+79 1584	M2V	0.?		Gl 133, Hip 15638, G 245-71, LHS 5072
+44.8	L 316-62	M3V	0.?		Gl 333, LHS 2085
+44.8	LP 36-98	MV	0.?		LP 36-98, USNO 713, G 252-25, LHS 2088
+44.8	L 824-28	M0V	0.?		Gl 386, Hip 50341, G 162-38, LHS 2244, V 573
+44.9	AC+18 1204-96 B	M3.5Ve	0.?		AB:a= 3.17", 46AU; P= 430yr; HeintzAJ99, 420 (1990); LP 438-8, Gl 516 B
+44.9	AC+18 1204-96 A	M3.5Ve	0.?		V(AB)= 11.4, d(m)= .3; Gl 516 A, Hip 66077, G 63-36, V 144
+45.0	Ross 1020	M3.5V	0.?		G 149-81, LHS 350
+45.0	G 180-27	MV	0.?		Gl 611 B, G 180-27, LHS 3150
+45.1	Wolf 906	M2.5V	0.?		OptComp: sep= 6.5"; 313.5d; LTT 8338, Gl 816, Hip 103800, LHS 3512
+45.1	G 215-50	MV	0.?		GJ 1270, G 215-50, LHS 524
+45.2	USNO 764	MV	0.?		G 25-8, LHS 3593
+45.2	G 129-47	M3.5 V	0.?	Pegasus	GJ 1292, LHS 551
+45.3	CD-48 12818	M3-4V	0.?		CFS 18398, Sm 26, Gl 739, Hip 93206, CD-48 12818, LHS 3423
+45.3	L 1672-14	M2V	0.?		LTT 11590, LP 158-9, G 96-21
+45.3	Ross 708	M3V	0.?		NN
+45.3	G 179-20	MV	0.?		G 179-20, LHS 3035
+45.3	G 268-38	MV	0.?		G 268-38, LHS 1140
+45.3	L 1149-75	M3V	0.?		V-I= 2.72 Robertson, LTT 16577, LP 580-17, Rob 320, G 18-49
+45.3	Wolf 1014	M3V	0.?		CC 1346, LTT 16502, LFT 1693, Wo 9773, Hip 109638, G 18-36, LHS 3773
+45.3	L 1064-69	M2 V	?	?	Not G type, LTT 15437, LP 630-11, G 21-13
+45.3	BD+67 552	M1-2V	0.?		Gl 310, Hip 42220, BD+67 552, G 234-38, LHS 251, V 254
+45.4	LTT 12949	MV	0.?		LTT 12949, G 45-27, LHS 296
+45.4	BD-07 4156	M0V	0.?		Gl 606, Hip 78353, BD-07 4156, V 753
+45.4	GJ 1182	MV	0.?		G 65-39, LHS 366
+45.5	L 714-88	M3.5V	0.?		Gl 836, LHS 513
+45.6	AC+19 1154-111	M2V	0.?		BD+19 381n, Gl 104, Hip 12097?, G 4-30, V 395
+45.6	Wolf 1039	M3-4V	0.?		Gl 899, Hip 116317?, G 29-43, LHS 545
+45.6	GJ 1046	M3V	0.?		Hip 10812, LHS 154a
+46.6	Wolf 227	M4.5 V	?	Taurus	LHS 1610, Gl ?
+45.7	G 85-19	MV	0.?		GJ 1072, G 85-19, LHS 1706
+45.7	BD+52 911	M0V	0.?		Hip 23518, BD+52 911
+45.9	AC+13 1185-145	M2V	0.?		Wo 9689
+45.9	L 645-74 B,-73	MV	0.?		AB: sep= 15", 210AU; inclin?= 132d; LTT 9124, LP 932-13
+45.9	Ross 226	M3V	0.?		Gl 878, G 233-31, LHS 3871
+45.9	L 1279-91	MV	0.?		LTT 15306, LP 449-6, G 183-13
+45.9	L 645-74 A	MV	0.?		LTT 9123, LP 932-12
+45.9	LP 98-132	MV	0.?		G 223-74, LHS 2952
+45.9	LTT 10301 B	MV	0.?		Sep= 1", 14AU; 315d; d(R)= .3, d(pg)= .3 (NLTT); LP 350-19
+45.9	LTT 10301 A	MV	0.?		V(AB)= 12.09, d(m)= .3, V-R= 1.5 Weis; LTT 10301, LP 350-20
+46.0	26 Draconis C	M1V	0.?	Draco	Sep AB-C= 0.17 ly; LTT 15224
+46.0	AC+61 26806	M1Ve	0.?	Draco?	Gl 685, Hip 86087, G 226-66, LHS 3306, V 62
+46.0	GJ 1220	MV	0.?		G 259-15, LHS 3297
+46.0	BD+39 2376 A	M2Ve	0.?		V(AB)= 9.23, d(m)= 2.9; Gl 400 A, Hip 52600, BD+39 2376, V 33
+46.0 +/- 12.4	L 326-61	M4 V	0.?	Centaurus	GJ 1157, LHS 2552
+46.1	LP 229-30	MV	0.?		LHS 3406
+46.1	Wolf 1421	M2V	0.?		Gl 289, Hip 38082, G 91-11, LHS 238, V 507
+46.2	Ross 486 B	M5V	0.?		Gl 512 B, G 14-55 B, LHS 5250
+46.2	Ross 486 A	M4V	0.?		Var;AB: sep= 9", 130 AU; 59d (NLTT); Gl 512 A, Hip 65714, G 14-55 A, LHS 5249
+46.2	LP 553-59	M6V	0.?		LHS 2471
+46.2	Ross 93	M3V	0.?		LTT 12583, Hip 47741?, G 49-23, LHS 2181
+46.3	L 211-59	M4V	0.?		Var; LTT 8340, GJ 2151, Sm 70, Wo 9716, Hip 103910, LHS 5363
+46.4	LTT 16719	M3.5Ve	0.?		Wo 9799, Hip 112909
+46.4	G 7-17	M9V	0.?		
+46.5	AC+18 1890-112 A	M4.5V	0.?		Gl 589 A, G 137-26, LHS 399
+46.5	AC+18 1890-112 B	M6V	0.?		Gl 589 B, G 137-25, LHS 400
+46.5	LHS 2397a / LP 732-94	M8V	0.09	Crater	Brown dwarf companion
+46.5	CD-31 909 B	M4V	0.?		LFT199,LTT 1164, L 512-15, LP 885-38, LHS 1376
+46.5	CD-31 909 A	M4V	0.?		Sep= 105", 1500 AU; 312d; LFT 200, LTT 1165, L 512-14, Hip 10617, CD-31 909, LHS 1377
+46.5	Lowne 1	M6V	0.?		Wo 9849, Gl 168.1
+46.6	BD+16 2658	M2.5V	0.?		Gl 552, Hip 70865, BD+16 2658, G 135-56, LHS 373, V 718
+46.6	Rob 233	M5V	0.?		LP, NN
+46.6	G 123-35	MV	0.?		NN
+46.6	G 173-39	M5V	0.?		NN
+46.6	LTT 12102	MV	0.?		G50-12
+46.6	Wolf 227	M4.5V	0.?	Taurus	LTT 11284, G 6-39, LHS 1610
+46.8	CD-44 14334	M1V	0.?		LFT 1610, LTT 8406, Sm 74, Wo 9724, Hip 104644, CD-44 14334, LHS 3639
+46.8	L 1124-13	MV	0.?		LTT 14237, LP 500-19, Hip 70475, G 65-49, LHS 2913
+46.9	Hip 79431	M3 V	0.49		Planet (Apps et al, 2010)
+47.0	BK-01 1423	M1V	0.?		Derived RA, Dec= 16:0:10 +4:45:27
+47.1	LTT 12565	M3.5V	0.?		Gl 363, G 195-36, LHS 2175
+47.1	G 70-55 B	MV	0.?		AB:sep= 2.5", 36 AU; inclin?= 70d; LP 587-50, NN B, LHS 1241
+47.1	Ross 987	M0.5V	0.?		LTT 12003, G 107-61, Hip 35353?, G 107-61
+47.1	L 1350-84	MV	0.?		LTT 15264, LP 389-32, G 170-62, LHS 3324
+47.1	CP-58 7399	M1V	0.?		Sm 14, Gl 714
+47.1	G 70-55 A	MV	0.?		V(AB)=13.61,d(m)=1.02;NN A, G 70-55, LHS 1240
+47.1	AC+10 22-181	M4V	0.?		
+47.2	Ross 136	M3V	0.?		Gl 712, G 141-4, LHS 464
+47.2	GJ 1171	M4.5 V	0.?	Coma Berenices	LHS 355
+47.3	Steph 1453	M2V	0.?		BD+19 3268
+47.3	L 1271-10	MV	0.?		LTT 14512, LP 442-10, LHS ?, G 136-72
+47.3	Ross 1047	M3V	0.?		LTT 14507, Hip 74190, G 15-9, LHS 3030
+47.4	BD-08 2582 A	M0V	0.?		Spec. dou.?; Gl 334, Hip 44722, BD-08 2582, G 114-35, V 538
+47.5	HC-06 2111	M2Ve	0.?		DerivedRA,Dec= 15:35:8 +5:48:14
+47.5	CD-38 11343	M3Ve	0.?		Hip 82926, CD-38 11343
+47.5	L 820-19 A	M6V	0.?		V(AB)= 11.91, d(m)= .3; LP 726-18, Gl 326 A, LHS 2069
+47.5	Theta Bootis B	M3V	0.?	Bootes	BD+52 1804 B, Gl 549 B, G 200-37
+47.6	LTT 16303 A	MV	0.?		NN A, G 26-14, LHS 3686
+47.6	LTT 16303 B	MV	0.?		NN B, LHS 3688
+47.6	L 565-62 A	M3V	0.?		LP 926-52, LTT 7954, Wo 9686 A, Gl 781.1 A, Hip 99150, LHS 3524
+47.6	L 565-62 B, -63	M3.5V	0.?		Sep=41", 600 AU; 292d (NLTT); LP 926-51, Wo 9686 B, Gl 781.1 B, LHS 3523
+47.7	Iota Ursae Majoris B	M1V	0.?	Ursa Major	AB: sep= 4.5-10", 66-150 AU; BC:a= 0.68", 10 AU; e= 0.39; P= 39.69yr; inclin= 109d; Gl 331 B, LHS 2083
+47.7	Iota Ursae Majoris C	M1V	0.?	Ursa Major	Gl331 C
+47.8	GJ 1099	MV	0.?		G112-27,LHS 1928
+47.8	LP 593-68	MV	0.?		LHS 1604
+47.9	BD+74 456 B	M2V	0.?		Gl 420 B, ADS 8100 C
+48.0	CM Draconis Aa	M4Ve	0.?	Draco	PlanetComp?, spec. dou.;Gl 630.1 A, LP 101-15 A, USNO168, G 225-67, LHS 421
+48.0	CM Draconis Ab	M4Ve	0.?	Draco	Spec. dou. B; LP 101-15 B
+48.0	Steph 497	M1V	0.?		NN
+48.0	Steph 928	M1V	0.?		NN
+48.0	LP 518-58	MV	0.?		NN
+48.0	G 151-34	M4V	0.?		LHS 392
+48.0	L 1049-51	M4V	0.?		LTT 13861, L 1049-51, LP 557-46, G 62-28
+48.0	Wolf 1495 A	M2V	0.?		V= 11.3?; Comp0.6", 9 AU; LTT 14032, G 64-27
+48.2	AC-11 2439-179 A	M3-4V	0.?		Var; AC-11 2439-179, CC 1242, Wo 9711, Gl 811.1, Hip 103388, LHS 502
+48.2	BD+01 543	M0V	0.?		Gl 123, Hip 14445, HD 19305, BD+01 543, G 76-58, LHS 1496, V 98
+48.2	Ross 417	M4V	0.?		Gl 231.3, LHS 1836
+48.3	G 273-59	M2Ve	0.?		GJ 1284, Hip 116003, G 273-59, U 610
+48.3	G 190-28 B,-27	M3V	0.?		Sep= 17", 250 AU; 215 d; USNO 780, G 190-27
+48.4	Ross 476	M4V	0.?		Gl 514.1, G 14-57, LHS 353
+48.5	BD+02 1729	M0V	0.?		Gl 281, Hip 37288, BD+02 1729, G 112-35, V 503
+48.5	LP 389-18	MV	0.?		LHS 3332
+48.5	G 190-28 A	M2V	0.?		USNO 781, G 190-28
+48.6	BD+48 1829	M2V	0.?		Gl 378, Hip 49189, BD+48 1829, G 146-6, LHS 278, V 562
+48.6	GJ 1096	MV	0.?		G 87-32
+48.7	Wolf 66	M3.5V	0.?		LTT 10514, G 2-37
+48.7	Ross 164	M3.5V	0.?		LTT 15670, Ross 164= LTT 15673, L 1427-13, G 185-22
+48.7	BD-17 6785	M2V	0.?		LTT 9634, L 792-25, G 273-93
+48.7	LP 440-38	MV	0.?		NN
+48.7	G 232-70	MV	0.?		NN
+48.7	LP 299-36	MV	0.?		LHS 1516
+48.7	G 244-37 A	M2V	0.?		Sep= 10", 150 AU; 178d; NN A
+48.7	Steph 430	M3V	0.?		Steph 430
+48.7	GJ 2128	M3.5V	0.?		LTT 15114, Hip 84521, G 139-27
+48.8	L 229-91	M3.5V	0.?	Dorado	Planets, Gl 163, Hip 19394, LHS 188
+48.9	CD-36 2458	M2-3V	0.?		Gl 219, Hip 27359, CD-36 2458, LHS 1787
+48.9	BD+40 45	M0.5V	0.?		Var; Gl 14, Hip 1368, BD+40 45, G 171-44, LHS 1053, V 84
+48.9	LP 411-6	M6V	0.?		LHS 1443
+49.1	Ross 188	M4V	0.?		Gl 792, G 209-33, LHS 3559
+49.2	CD-43 2907, 2906 B	G8-K0 V-IV	0.?	Puppis	Triple, subgiant?, Gl 264.1 B, Hip 34069, HD 53706, DUN 38 B
+49.3	AC+39 57322 Aa	M3Ve	0.?		Spec.dou., V(AB)= 10.12, d(m)= 1.9, F54, SBO in A&A200, 135; Gl 815 A, Hip 103655, G 210-48, LHS 3609, V 200
+49.3	L 355-62	M1-3V	0.?		Sm 93, Gl 838.6, Hip 108159, LHS 5274
+49.4	BK-02 75	M2V	0.?		Derived RA, Dec= 15:50:15 +0:6:57
+49.4	L 1113-55	M5V	0.?		
+49.4	GJ 1050	MV	0.?		LHS 157
+49.4	L 1418-61	MV	0.?		LTT 14889, LP 386-49
+49.4	GJ 2070	M3.5V	0.?		LTT 3171, G 113-46
+49.4	Wolf 937	M3.5V	0.?		LTT 8678, G 26-27
+49.4	G 218-20	MV	0.?		NN
+49.4	LP 763-12	MV	0.?		G 273-147, LHS 4021
+49.4	LTT 17492	MV	0.?		G 78-28
+49.4	G 160-19	MV	0.?		LHS 1582, Hip17406?
+49.4	L 876-3	M3.5 V	0.?	Eridanus	LHS 1561, LTT 1682, LP 653-8, G 77-64
+49.5	G 96-45 A	M3.5 V	0.?	Auriga	flare star, GJ 1081, G 96-45
+49.6	CD-23 332 B	MV	0.?		Sep= 17", 260 AU; 71d; d(pg)= 7.5, d(R)= 7.2 (NLTT); LP 826-170, Gl 40 B, LHS 1160, V 89 B
+49.6	CD-33 4113 B	MV	0.?		VB 3, Gl 288 B, LHS 237, LHS 237a
+49.8	AC+68 2911	M3.5-5V	0.?		Gl 258, Hip 34115, G 250-33
+49.9	G 95-30	MV	0.?		GJ 1059, LHS 1541
+49.9	BK-08 854	M0V	0.?		Derived RA, Dec= 15:18:6 +9:6:16
+49.9	BK-05 9201	M1V	0.?		Derived RA, Dec= 16:24:9 -14:51:14
+50.0	LTT 10470 A	M2V	0.?		Tou 23.198, Hip 6069, G 2-33, LHS 1226
+50.0	BD+55 1519 B	MV	0.?		AB: sep= 15", 230 AU; inclin?= 7d (NLTT); Gl 458 B, G 197-50
+50.0	BD+55 1519 A	M1.5Ve	0.?		Gl 458 A, G 197-49, V 137, Hip 59514, HD 238090, BD+55 1519, G 197-49, V 137
+50.02	G 138-43	MV	0.?		GJ 1204, LHS 3221?, G 138-43, LHS 3221
+50.1	HC+03 1919	M7V	0.?		Derived RA, Dec= 16:4:43 -4:0:17 (?= B1975= Hip 78949, HD 144636, BD-03 3875; M, var; Plx= 2.25~ 1400ly, e= 0.95)
+50.2	Wolf 433	M4V	0.?		Gl 480, Hip 61706, G 60-24, LHS 338
+50.2	G 107-48	MV	0.?		G 107-48
+50.2	AC+31 70565	M3.5Ve	0.?		LFT 1741, Gl 875.1, G 128-08, LHS 3861
+50.2	GJ 1158	M4V	0.?		LHS 332
+50.2	LP 725-15	MV	0.?		LHS 2024
+50.2	Ross 776 A	MV	0.?		LTT 16240
+50.2	L 178-49	MV	0.?		LTT 1960, LHS 1665
+50.2	Steph 2065	M0V	0.?		NN
+50.2	LP 771-77	M3V	0.?		LHS 1491
+50.2	LP 826-603	MV	0.?		PS 131, TS 336, GJ 2021, G 268-131
+50.2	LP 320-359	MV	0.?		San 47
+50.2	Ross 776 B	MV	0.?		Sep= 26", 400 AU; 259d; LP 341-14
+50.2	Ross 54	M3.5-5V	0.?		DK-33 1023, Gl 263, Hip 34104, LHS 1895
+50.2	CD-28 16676	M3V	0.?		Gl 791, LHS 3553, Hip 100923, CD-28 16676, LHS 3553
+50.3	BD-07 699	M0V	0.?		Gl 156, Hip 18280, BD-07 699, G 160-35, LHS 5087, V 434
+50.3	AC+45 133-65 A	M1-2Ve	0.?		Gl125, Hip 14669, G 78-19, LHS 1507, V 99
+50.3	Ross 578	M2V	0.?		GJ 1062, G1 60-5, LHS 20
+50.3	G 195-22	MV	0.?		G 195-22, LHS 265
+50.5	BD+45 2743 A	M2V	0.?		LFT 1421, Gl 720 A, Hip 91128, BD+45 2743, G 205-30, LHS 3394, V 182
+50.5	BD+45 2743 B	MV	0.?		VB 9, LTT 18475, Gl 720 B, G 205-32, LHS 3395
+50.5	LTT 10438 A	MV	0.?		G 70-43, G 2-27, LHS 1212
+50.5	LTT 10438 B	MV	0.?		Sep= 63.5", 983 AU; 146 d; G 70-44, LHS 1213
+50.5	Hip 42762	M5V	0.?		
+50.6	LP 425-140	M6V	0.?		23ly?; Gl 316.1, LHS 2034
+50.6 +/- 15.4	GJ 1118	M3 V	0.?	Pyxis	LHS 258, L 532-21
+50.8	L 841-9	M2 V	0.?	Libra	Hip 77349, LHS 3117, G 152-50
+50.7	L 46-163	M2.5V	0.?		Gl 808, LHS 499
+50.8	CD-29 4446	M1Ve	0.?		Hip 36349, CD-29 4446, CP-29 1747
+50.9	AC+16 247-80	M1.5Ve	0.?		Gl 731, Hip 92573, HD 229793, G 184-35, LHS 3417, V 186
+50.9	Tau Bootis B	M2V	0.?	Bootes	BD+18 2782, Gl 527 B
+51.0	LTT 11454	MV	0.?		LTT 11454, G 8-41, LHS 1681
+51.0	L 1044-70 A	MV	0.?		LTT 13239, LP 613-49, G 10-49
+51.0	L 611-67	M4V	0.?		LTT 4168, LP 906-9, LHS 2385
+51.0	G 205-35	MV	0.?		NN
+51.0	LP 66-274	MV	0.?		G 238-55, LHS 2819
+51.0	G 108-21 A	MV	0.?		NN
+51.0	L 1044-70 B	MV	0.?		Sep=24", 380 AU; 125 d (NLTT); LP 613-50
+51.0	G 108-21 B, -22	MV	0.?		Sep= 51", 797 AU; 39 d; G 108-22
+51.1	AC+03 2781-116	M0-1V	0.?		LTT 16795, Wo 9810, Gl 889.1, Hip 114233, G 28-39, LHS 3899, V 343
+51.1	BD-02 3000	M0V	0.?		Gl 372, Hip 48477, G 53-13, V 560
+51.1	Wolf 398	M3V	0.?		LTT 13128, G 56-44, LHS 2415
+51.2	CD-26 16501	M2.5V	0.?		Gl 891, Hip 114411, G 275-13, LHS 3904
+51.4	Hip 72509 / GJ563.2 B	MV	0.?		Hip72509, LHS 379
+51.4	CD-25 10553 A	M1-3V	0.?	Hydra	LTT 5883, Wo 9495 A, Gl 563.2 A, Hip 72511, LHS 380
+51.4	CD-25 10553 B	M1.5-3V	0.?	Hydra	LTT 5884,Wo 9495 B, Gl 563.2 B, LHS 379
+51.4	G 241-45	MV	0.?		LHS 535
+51.4	BD-01 565 Ba	M3Ve	0.?		Spec. dou.; Gl 157 B
+51.5	Hip 70536	M2V	0.?		
+51.5	Wolf 1084	M5Ve	0.?		Gl 802, G 231-13, LHS 498
+51.6	Alpha Geminorum Cb	M0.5Ve	0.?	Gemini	Spec.dou.B;sepAC=72.5", 1150 AU; CaCb: sep= 0.02 AU; P= 19.5 hr; dia= 0.68 Sol
+51.6	AC+55 50103 A	M3Ve	0.?		Spec.dou.; Gl 781, Hip 98906, G 230-26, LH S482
+51.6	Alpha Geminorum Ca	M0.5 Ve	0.?	Gemini	YY Gem, Alp Gem C, Gl 278 C, BD+32 1582
+51.7	L 1069-28	M.5 V	0.?	Aquila	G 23-19, LHS 3505, LTT 15840, LP 634-2
+51.8	CD-68 2373 A	M0V	0.?		V(AB)= 9.3, d(m)= 1; LTT 9859, GJ 1294 A, Hip 169, HD 224953, CP-68 3594, U 623
+51.8	Wo 9071 A	M0V	0.?		CC 146; B1950= 2:3:47+44:57.2
+51.8	G 232-69	MV	0.?		GJ 1268, G 232-69, LHS 5386
+51.8	L 1064-75	M5V	0.?		Gl 708.3, G 21-7, LHS 3374
+51.8	Ross 794	M2.5V	0.?		LTT 11561, G 85-36
+51.8	L 22-69	M3.5V	0.?		LTT 7606, LHS 475
+51.8	Rob 256	M5Ve	0.?		NN
+51.8	G 127-50	MV	0.?		NN
+51.8	LTT 17505	M2V	0.?		G 77-46
+51.8	L 37-56	MV	0.?		LHS 2310
+51.8	LTT 13799	M5V	0.?		No Comp B; LDS 1365 A, LP 322-836, San 224, GJ 1167 A, G 164-47
+51.8	L 1126-121	M3V	0.?		Opt Comp B: SpT. K; LTT 14454, LP 561-68, G 15-2
+51.8	BD+01 2684 A	M0V	0.?		Sep= 1.3", 21 AU; d(m)= 2.4, V(AB)= 9.99 (= 10.15 Rossello); RST 5366, Gl 461 A, V 293
+51.8	V484 Tauri	M3.5 V	0.?	Taurus	Flare star, LP 415-148, VA 575
+51.8	BD+29 3872 B	M4-6V	0.?		Comp C?: Heintz AJ96: sep 4.4", 70 AU; 114 d (1971.2); m= 15.5; Gl 777 B, LHS 3509
+51.9	CD-45 5627	M3.5-5V	0.?		Gl 375, LTT 3661, CAZ 60674, CFS 20559, NSV 4689, Hip 48904, LHS 2213
+51.9	BD+41 2695	M0Vp	0.?		Gl619, Hip 80093, V 763
+51.9	AC+76 3952	M1.5V	0.?		Gl 366, Hip 57981, G 252-44, LHS 2188, V 120
+51.9	LTT 12076	MV	0.?		G 50-6, LHS 1950
+51.9	LTT 13849	MV	0.?		San 259, GJ 1169, G 149-70, LHS 2711
+52.0	L 74-113	M0V	0.?		Gl 637, Hip 82256, LHS 3242
+52.2	BD+42 2296	M0Ve	0.?		LFT 898, Gl 462, Hip 60303, HD 107596, G 123-26, LHS 2548, V 649
+52.2	G 230-42	MV	0.?		GJ 1254, LHS 494
+52.2	LP 658-33	MV	0.?		LHS 1785
+52.3	L 119-33	M5V	0.?		R-I= 1.27 Weistrop; LTT 8978, BPM 14722, Sm 105, Hip 110400
+52.3	CD-29 8019	M3-4V	0.?		Gl 377, Hip 49091, LHS 277
+52.4	L 1484-43 A	M4 V	?	Bootes	Flare star, LHS 2887, G 165-61, GJ 3839
+52.4	L 1484-43 B	M? V	?	Bootes	NStar binary reference
+53.4	G 130-66	M4 V	0.?	Andromeda	GJ 1011, G 131-62 USNO 2
+53.4	G 138-39 A	M3 V	0.?	Serpens-Hercules	GJ 1203, Hip 81018, G 138-39, LHS 3213
+52.4	AC+31 68884 A	M0Ve	0.?		V(AB)= 10.75, d(m)= 0.2; Gl 856 A, Hip 110526, G 189-16, V 840
+52.5	BD+35 2439	M0-1V	0.?		Wo 9442, Gl 508.2, Hip 65143, G 164-68, LHS 2724, V 47
+52.5	Ross 1026	M3V	0.?		GJ 1174, G 177-51, LHS 357
+52.5	BD+10 3724 A	M0V	0.?		Var, V(AB)= 9.37, d(m)= 2.5; Gl 734 A, V 187
+52.6	Wo 9358 A	M0V	0.?		Var; Hip 55605?, V 130
+52.6	G 21-10	M3.5V	0.?		GJ 1226, G 21-10, LHS 463
+52.6	Wolf 515	M2V	0.?		LTT 14049, G 150-46
+52.6	L 1126-79	M3.5V	0.?		LTT 14453, LP 561-36, G 15-1, LHS 3012
+52.6	L 240-16	MV	0.?		LTT 2899, LHS 1932
+52.6	L 541-90	M4.5V	0.?		LTT 4503, LP 908-11, LHS 2506
+52.6	L 626-41	M3.5V	0.?		LTT 6474, LP 917-1, LHS 3169
+52.6	L 425-35	M3V	0.?		LTT 8542, LHS 510
+52.6	AY Indi	M2Ve	0.?	Indus	LTT 8698, GJ 1264, Hip 107705, CP-72 2640, U 538
+52.6	LP 298-42	MV	0.?		NN
+52.6	G 167-47	MV	0.?		LHS 3080
+52.6	G 47-28	MV	0.?		LHS 5146b
+52.6	G 49-32	MV	0.?		HS 2212
+52.6	L 472-66	M3.5V	0.?		LHS 346
+52.6	CD-51 10924 A	M0V	0.?		Planet, Gl 676 A, Hip 85647, CP-51 10396
+52.6	CD-51 10924 B	MV	0.?		Gl676 B
+52.7	Ross 29 A	M3.5V	0.?		Comp B, CHARA15(AJ93,688); sep= 1.261", 20.4 AU (1983); Gl 165 A, G 175-20
+52.7	Ross 29 B	M3.5V	0.?		Gl 165 B
+52.8	G 124-43 A	MV	0.?		GJ 1183 A
+52.8	G 124-43 B,44	MV	0.?		GJ 1183 B, G 124-44
+52.8	BD+23 2359	M1Ve	0.?		Wo 9365, Gl 430.1, Hip 56238, G 120-57, LHS 2422, V 133
+52.9	AC+47 256-150	M2V	0.?		Gl 272, Hip 35821, G 107-65, V 493
+52.9	AC+09 2-34	M0V	0.?		Gl 16, Hip 1463, V 356
+52.9	BD-13 5069	M0V	0.?		Gl 724, Hip 91608, G 155-33, LHS 3403
+52.9	CD-51 13128 A	M0V	0.?		Gl 841 A, L 283-7, Hip 108405, U 635
+53.0	G 158-95	MV	0.?		GJ 1013, G 158-95, LHS 113
+53.0	AC-07 388-38	M0V	0.?		CC 1282, Wo 9740, Gl 828.2, Hip 105932, G 26-2
+53.0	Xi Pegasi B	M1V	0.?	Pegasus	Gl 872 B, LHS 3852
+53.0	CD-27 9225	M2.5V	0.?		Gl 510, Hip 65520
+53.1	Ross 107	M1.5V	0.?		Gl 405, G 196-51, LHS 2331
+53.1	Hip 17405	M1V	0.?		Hip 17405
+53.1	AC+69 173	M0V	0.?		G l21, Hip 2120, V 357
+53.2	L 750-79	M3V	0.?		LTT 3561, LP 788-24, Hip 57619, LHS 2177
+53.2	O'Neil 723	M0V	0.?		Derived RA, Dec= 16:14:31-7:46:56
+53.2	Ross 992	M2.5V	0.?		LTT 14183, G 178-10, LHS 2884
+53.2	CD-36 6589 A	M0V	0.?		LTT 3919, L 465-43, GJ 1135, Hip 52296, CP-36 4512, U 241
+53.2	L 182-44	M0V	0.?		Var; Gl 238, Hip 31300, LHS 1855
+53.3	L 1229-11 B	M3.5V	0.?		Sep= 2", 33 AU; 28 d (LHS); LP 406-77, GJ 1026 B, LHS 1181
+53.3	L 1229-11 A	M1.5V	0.?		V(AB)= 11.35, d(m)= 0.5; LP 406-76, LDS 873, GJ 1026 A, Hip 4927, G 33-35, LHS 1180
+53.3	AC+30 35150	M3V	0.?		Gl 607, G 168-24
+53.3	Wolf 1530	M3V	0.?		Gl 73, G 3-17, LHS 1292
+53.5	HD 501	MV	0.?		LHS 17
+53.5	Wolf 1494	MV	0.?		LTT 14031
+53.5	L 91-140	MV	0.?		LTT 1735, LFT 302, LHS 1572
+53.5	Ross 972	M3.5V	0.?		LTT 4969, G 14-18
+53.5	G 161-74	MV	0.?		G 161-74, LHS 2186
+53.5	G 180-18	M6V	0.?		NN
+53.5	LTT 17245	MV	0.?		V-R=1.52 Weis; G 72-23, LHS 5037a
+53.5	BD+12 1944	M5V	0.?		Gl 330, Hip 43948, G 41-9, V 260
+53.5	BD+60 1003	M0Vp	0.?		Pi(t), Heintz AJ94; Gl 247, Hip 32769, HD 48948, G 250-22, V 479
+53.5	AC+16 734-144	M2V	0.?		Gl 844, Hip 108752, G 126-49
+53.5	L 1198-31	M2 V	0.?	Bootes	LTT 14408, LP 501-31, G 66-37
+53.6	LTT 12460	MV	0.?		USNO 715, G 46-34, LHS 267
+53.7	Hip 5812	M4V	0.?		
+53.8	CD-36 491	MV	0.?		GJ 1036, Hip 6005, G 269-133
+53.9	Ross 249	M1.5V	0.?		Gl 907, Hip 117383, G 171-19, LHS 4015
+53.9	CD-58 538	M0Ve	0.?		GJ 1049, Hip 12351, CP-58 223, U 43
+53.9	BD+49 1280	M2Ve	0.?		Gl 181, Hip 23147, V 109
+54.0	BD+81 465	M1-2Ve	0.?		Gl 540, Hip 69064, G 255-51, LHS 2865, V 152
+54.0	LP 684-17	M4.5-5V	0.?		LHS 3149
+54.0	L 1276-44	MV	0.?		LTT 14970, LP 446-6, Hip 82099, G 138-64, LHS 3240
+54.2	L 242-66	MV	0.?		Var;Gl 298, Hip 39987, LHS 1985
+54.2	L 160-102	MV	0.?		Gl 762, LHS 3471
+54.3	AC+32 86422 A	M5V	0.?		AC+32 86422, LTT 16990, Wo 9838 A, Gl 905.2 A, Hip 117059, G 130-6
+54.4	Ross 21	M3.5V	0.?		Gl1 01, G 174-1, LHS 155
+54.4	CD-38 1058	M3V	0.?		Gl130, LHS 167
+54.4	LTT 11134	MV	0.?		G 6-7
+54.4	Ross 115	M3.5V	0.?		LTT 13214, G 56-51
+54.4	Ross 1063	M2.5V	0.?		LTT 15711, G 125-18
+54.4	L 374-6	M3.5V	0.?		LTT 976, LHS 1668
+54.4	L 755-53	M3V	0.?		LTT 4217, LP 792-20, LHS 401
+54.4	L 541-21	M4V	0.?		LTT 4414, LP 907-40, LHS 317
+54.4	L 903-4 A	M3.5V	0.?		LTT 4740, LP 675-76, G 13-44 A, LHS 2567
+54.4	L 546-85	M4V	0.?		LTT 5190, LP 911-13, LHS 2739
+54.4	L 623-94 A	M3V	0.?		LTT 6133, LP 915-27, GJ 2112 A, LHS 3064
+54.4	Wolf 923	M3.5V	0.?		LTT 8582, G 26-13, LHS 3689
+54.4	LP 441-33 A	M5V	0.?		Mv: G&L, ApJ 305, 784; LHS 3001
+54.4	G 138-40	MV	0.?		NN
+54.4	G 159-46	MV	0.?		LHS 1358
+54.4	G 170-36	MV	0.?		NN
+54.4	LP 90-39	MV	0.?		G 234-47, LHS 2051
+54.4	G 264-22	MV	0.?		NN
+54.4	LTT 12899	MV	0.?		G45-11
+54.4	LP 673-13	MV	0.?		LHS 2428
+54.4	LP 322-628	MV	0.?		San 214, LHS 2674a
+54.4	L 903-4 B	M3.5V	0.?		Sep= 8", 130 AU; 62 d; LTT 4741, LP 675-77, G 13-44 B, LHS 2568
+54.4	LP 441-33 B,-34	M7V	0.?		Sep= 9", 150 AU; 48 d, Mv: G&L, ApJ 305, 784; LHS 3002
+54.4	Sm 22	M3V	0.?		BPM 11774= Sm21 (Smethells, IAU Coll.76); Hip 92451
+54.4	LP 694-16	M4 V	0.?	Aquila	LHS 3514
+54.5	BK+10 1245	M1V	0.?		Derived RA, Dec= 14:56:4+9:43:33
+54.5	G 140-19	MV	0.?		GJ 1222, G 140-19, LHS 3338
+54.5	LP 149-14	MV	0.?		USNO 786, LHS 4057
+54.7	L 484-31	M1V	0.?		Gl 645
+54.7	SS-22 4654 A	M1V	0.?		Derived RA, Dec= 15:57:15-0:18:50
+54.7	SS-22 4654 B	M1V	0.?		
+54.8	BD+24 2733 A	M1V	0.?		Gl 548 A, Hip 70529, G 166-27, LHS 371, V 153
+54.8	BD+24 2733 B	M2V	0.?		Gl 548 B, G 166-28, LHS 372
+54.8	L 897-16	M0Ve	0.?		Gl 399, Hip 52186, G 55-35, LHS 2295
+54.8	CD-24 12677	M1-2V	0.?		Gl 620, Hip 80268, LHS 3186, V 761
+54.8	L 147-101	M2V	0.?		LTT 4974, LFT 963, BPM 7973, Hip 63550, LHS 2668
+54.9	V371 Orionis	M2.5Ve	0.?	Orion	Gl 207.1, Wo 9183, Hip 26081, G 99-17
+54.9	G 77-48	MV	0.?		GJ 1058, LHS 1540
+55.0	GJ 1141 B	M0-2V	0.?		LTT 12955, Hip 53953?
+55.0	BD-03 1061 B	M2V	0.?		Sep= 4.9", 83 AU; 46 d; or 2.7", 46 AU; 29 d (1900-60); Gl 200 B, LHS 1755
+55.2	Lowne 2	MV	0.?		LP 415-26, ppm (NLTT), Gl 168.2
+55.3	AC+44 472-15 B	M3-4V	0.?		Sep= 3.76", 64 AU; 78 d; USNO 613-4, Kui 55, Wo 9351 B, Gl 414.1 B, LHS 2369
+55.3	AC+44 472-15 A	M3-4V	0.?		V(AB)= 10.88, d(m)= 0.35; LTT 13014, CC 615, Wo 9351 A, Gl 414.1 A, Hip 54658, G 122-2, LHS 2368, V 36
+55.3	L 980-5	M3V	0.?		LFT 1096, LTT 5651, LP 620-3, G 124-27, LHS 2899
+55.3	GJ 1251	M4.5V	0.?		LHS 493
+55.3	Wolf 1246	M3.1V	0.?		LTT 11203
+55.3	L 1504-143 A	MV	0.?		LTT 16147, LP 340-547, G 187-13
+55.3	L 1433-38	MV	0.?		LTT 16234, LP 397-41, G 187-33
+55.3	Wolf 944	M3.5V	0.?		LTT 16369, G 212-57
+55.3	L 140-119	MV	0.?		LTT 3423, LHS 2122
+55.3	Steph 2018	M3V	0.?		NN
+55.3	LP 291-34	MV	0.?		NN
+55.3	G 122-34	MV	0.?		LHS 2430
+55.3	LP 38-393	MV	0.?		G 236-81
+55.3	L 1504-143 B,-142	MV	0.?		Sep= 57", 970 AU; 95 d, LTT 16148, LP 340-548, G 187-14
+55.3	LTT 17742	M1 V	?	?	Not G type, GJ 3328, G 84-36, G 97-18
+55.6	G 203-63	MV	0.?		GJ 1216, LHS 446
+55.6	LP 535-12	MV	0.?		LHS 191
+55.6	LTT 17066	M2-3V	0.?		USNO 785, Hip 18200, 0-33
+55.7	BD+17 3729	M0-1.5V	0.?		Gl 728, Hip 92311, HD 229590, G 184-29, LHS 3412, V 185
+55.7	V 759	M0V	0.?		Hip 79126
+55.7	G 192-58	M1.5 V	0.?	Lynx	LHS 1882, G 192-58
+55.8	L 1501-39	M3V	0.?		LTT 15792, LFT 1498, LP 338-2, G 125-35, LHS 3489
+55.8	BD+45 2688	M0V	0.?		Gl 709, Hip 89560, G 204-55, V 801
+55.8	BD+21 1764 B	MV	0.?		Sep= 9", 150 AU; 157 d; LTT 12131, LHS 5134
+56.1	Ross 439 A	M3.5-5V	0.?		Gl 347 A, Hip 46488, G 161-33, LHS 2145
+56.1	Ross 439 B	MV	0.?		Gl 347 B, G 161-34, LHS 2146
+56.1	LP 31-218	MV	0.?		G 221-22, LHS 1596
+56.2	BD+16 502 B	M0V	0.?		AC+17 449-111, Wo 9112 B, G 6-28
+56.2	BD+16 502 A	M0-2V	0.?		Wo 9112 A, Gl 150.1 A, Hip 17414, G 6-29, V 428
+56.2	Hip 34361	M2V	0.?		
+56.2	G 115-71	MV	0.?		
+56.2	G 207-18	MV	0.?		GJ 1231, G 207-18, LHS 3434
+56.2	L 1159-15	M5V	0.?		LTT 10691, LP 469-73, Rob 100, G 3-35
+56.2	L 1286-87	MV	0.?		LTT 15944, LP 455-12
+56.2	L 829-24 A	M3V	0.?		LTT 4477, LP 734-11, LHS 5205
+56.2	G 168-14	M7V	0.?		LHS 3124
+56.2	G 172-13	M2V	0.?		NN
+56.2	G 205-38	MV	0.?		NN
+56.2	G 207-22	MV	0.?		NN
+56.2	LTT 17342	MV	0.?		G 74-11
+56.2	L 829-24 B	MV	0.?		Sep= 7.5", 130 AU; 234 d, LP 734-10, LHS 5204
+56.2	BD+26 1715	M0V	0.?		Steph 681
+56.2	LTT 15407	M5V	0.?		Wo 9621
+56.2	L 980-1	M2.5 V	0.?	Virgo	LTT 5623, LP 619-64, G 64-63
+56.3	BD-06 6318	M2V	0.?		Gl 912, Hip 117966, G 31-17, LHS 4047
+56.3	GJ 1209	MV	0.?		G 170-12, LHS 430
+56.4	DK+32 2390	M2V	0.?		Derived RA, Dec= 16:41:44-5:5:22(?= B1950= Hip 81861, HD 150765, BD-03 3982; K5; Plx= 2.18 ~1500ly, e= 1.03)
+56.4	BD-00 2944 A?	G8-K0 V	0.?	Serpens Caput	Gl 580 A, Hip 74537, HD 135204, LHS 393, ADS 9544
+56.4	G 202-16 A	M3V	0.?		Var; Hip 77514
+56.5	BD+37 748	M1.5Ve	0.?		Gl 134, Hip 15366, HD 275122, G 78-31, LHS 1528, V 100
+56.5	LP 374-39	MV	0.?		LHS 302
+56.6	BD+45 4378	M0.5V	0.?		Gl 913, Hip 118212, G 171-29, LHS 4054, V 214
+56.6	LTT 1648 B	M3V	0.?		GJ 1060 B, LHS 1550
+56.6	AC+02 2282-51	M0-1V	0.?		CC 263, Wo 9133, Gl 155.1, Hip 17743, G 80-22, LHS 1594, V 430
+56.7	Hip 17750	M2V	0.?		
+56.7	BD+68 278 B	M2.5V	0.?		V(BC)= 10.69, d(m)= 0.3; LTT 11250, AC+68 1482, Gl 153 B, G 221-24
+56.7	G 76-66	M4V	0.?		Var; Hip 14731, LHS 1512
+56.7	Ross 1007 A	M2V	0.?		AC+33 38922, LTT 13871, Wo 9440 A, Gl 507.1, Hip 65016, G 164-66, V 45
+56.7	LP 412-213 A	M2V	0.?		BPM 85872, GJ 2043 A, Hip 25716
+56.7	LP 412-213 B,212	MV	0.?		GJ 2043 B
+56.8	Wo 9344 A	M0V	0.?		LTT 12954, LDS 917, GJ 1141, Hip 53947, V 277
+56.8	Wo 9344 B	M0V	0.?		LTT 12955
+56.8	G 32-59	MV	0.?		GJ 1024, G 32-59, LHS 1168
+56.8	Wolf 926	M3.5V	0.?		LTT 16311, LFT 1644, Hip 106557, G 215-2, LHS 3693
+57.0	BD+57 1274 B	MV	0.?		Sep= 142", 2480 AU; 225 d (NLTT); d(pg)= 5.2, d(R)= 4.8; LP 92-176, Gl 397.1 B, V31 B
+57.0	BD+57 1274 A	M0Ve	0.?		Wo 9331, Gl 397.1 A, Hip 51547, V 31
+57.2	L 1259-11	MV	0.?		LFT 778, LTT 13033, LP 432-24, G 56-26
+57.2	Wolf 330	M4V	0.?		LTT 12639, G 116-65
+57.2	Ross 1019	M3.5V	0.?		LTT1 4045, G 165-33
+57.2	L 443-59	M3.5V	0.?		LTT 1507, LP 994-72, LHS 1513
+57.2	L 1279-70	MV	0.?		LTT 15290, LP 448-41, G 183-10
+57.2	L 1284-53	MV	0.?		LTT 15678, LP 452-10
+57.2	Wolf 1108	M3V	0.?		LTT 15717, G 229-35, LHS 3472
+57.2	L 473-1	M3.5V	0.?		LTT 5131, LHS 2718
+57.2	L 221-60	M3V	0.?		LTT 692, Sm 184
+57.2	L 280-19	MV	0.?		LTT 8344, LHS 3615
+57.2	L 570-29	M2V	0.?		LTT 8614, LHS 512
+57.2	L 870-44	M3V	0.?		LTT 952, LP 708-416, G 271-149
+57.2	LP 862-184	MV	0.?		LHS 3218
+57.2	G 126-31 A	MV	0.?		NN A
+57.2	G 126-31 B, -30	MV	0.?		Sep= 63", 1100 AU; 347 d; NN B, G1 26-30
+57.3	CD-27 7978	M0V	0.?		LTT 4170, GJ 1145, Hip 55119, CP-27 4305, U 264
+57.3	Ross 1051	M2V	0.?		LTT 14486, Hip 73734, G 224-44, LHS 3018
+57.3	L 86-21	M4V	0.?		Var;LFT 12, LTT 38, Sm 153, Hip 523, LHS 1019
+57.6	BD-14 5936 B	M0V	0.?		Gl 819 B
+57.6	LTT 10099	MV	0.?		GJ 1007, G 31-39, LHS 1052
+57.6	L 1489-5	MV	0.?		LTT 14695, LP 274-8, G 179-57, LHS 3122
+57.7	Ross 193 A	M3-4Ve	0.?		Gl 812 A, Hip 103393, LHS 3602
+57.7	AC+67 2334	M0-2V	0.?		LTT 11972, Hip 34392, G 250-34, V 242
+57.7	GJ 1200	MV	0.?		LHS 55
+57.8	CD-22 526	M1.5V	0.?		LTT 838, LFT 138, L 654-28, Hip 7170, G 272-36, LHS 142
+57.9	Ross 555	M3.5V	0.?		Gl 78, Hip 8691, G 271-168, LHS 1003
+57.9	CD-23 10062	M1V	0.?		Opt Comp B: K; LTT 4281, Hip 56466, LHS 2427
+57.9	BD+27 1775 B	MV	0.?		Sep= 65", 1200 AU; 67 d (NLTT); LP 314-20, Gl 354.1 B
+57.9	G 235-55	MV	0.?		GJ 1131, G 235-55, LHS 2222
+58.1	BD+37 4803	MV	0.?		Bad Hip Plx= -21.35, e= 5.14; var; Hip 114994, G 190-17, LHS 3923
+58.2	Chien 820	M2V	0.?		Derived RA, Dec= 15:43:29+3:44:30
+58.2	LTT 13826	MV	0.?		LP 378-774, San 241, GJ 1168, G 61-41, LHS 2695
+58.2	Wolf 90	M4V	0.?		LTT 10640, G 34-55
+58.2	L 125-51	MV	0.?		LTT 1137, LFT 188, LHS 1351
+58.2	Wolf 587	MV	0.?		LTT 14694
+58.2	L 266-166	MV	0.?		LTT 6608, LHS 3216
+58.2	GR 4	M3.4V	0.?		NN
+58.2	G 122-58	MV	0.?		NN
+58.2	LTT 12689	MV	0.?		G 43-23
+58.2	LP 905-36	MV	0.?		LHS 2335
+58.2	LP 855-34	MV	0.?		LHS 2758
+58.2	LP 704-15 A	M4V	0.?		G 273-186
+58.2	LP 704-15 B, -14	M4V	0.?		Sep= 20", 360 AU; 294 d; G 273-185
+58.2	L 774-22	M2.5 V	?	Ophiuchus	Not G type, GJ 690.1, LHS 3316, LTT 7050
+58.5	AC+10 95-26	M3-4V	0.?		Gl 476, Hip 61413, G 12-44, LHS 2582
+58.5	BK+15 3434	M1V	0.?		Derived RA, Dec= 15:15:33+2:56:26
+58.6	CD-46 76	M0-1V	0.?		Wo 9010, Gl 17.1, Hip 1696, CP-46 29, LHS 1061
+58.8	AC+64 14332	M3-4V	0.?		Gl 463, Hip 60398, G 237-63, LHS 2551
+58.8	Hip 65012	M3V	0.?		
+58.8	Ross 622	M2V	0.?		GJ 1114, Hip 43510, G 9-28, LHS 2060
+59.0	G 134-1 A	M0V	0.?		Gl 84.2 A, LHS 1343
+59.0	CD-45 7872	M1V	0.?		Gl 477, Hip 61495, LHS 2585
+59.0	BF Canum Venat. B	M4Ve	0.?	Canes Venatici	Gl 490 B, G 164-31
+59.0	BF Canum Venat. Aa	M0Ve	0.?	Canes Venatici	Var, spec. dou.?; Gl 490 A, Hip 63253, BD+36 2322, G 123-75, V 298
+59.0	BD+11 3149	M2.5V	0.?		LTT 15111, Hip 84460, G 139-23
+59.1	HC+18 9881	M0V	0.?		Derived RA, Dec= 15:26:46+9:50:19 (?= B1975= Hip 75584, HD 137570, BD+10 3853; M0, var; Plx= 3.97 ~822 ly, e= 0.93)
+59.2	LP 806-8	M2V	0.?		Hip 82283
+59.2	USNO 705	M4.5 V	0.?	Monoceros	G 105-46, LHS 1857
+59.3	LTT 10259	MV	0.?		LP 465-77, G 32-44
+59.3	L 1196-39	M2V	0.?		LTT 14191, LP 499-59, G 65-40
+59.3	Wolf 1131	MV	0.?		LTT 15891, G 230-27
+59.3	L 591-6	M2.5V	0.?		LTT 1993, LP 834-42, LHS 1672
+59.3	LP 88-196	M6V	0.?		Mv= 6.1 +/- 0.9, G&L, ApJ 305, 784; LHS 1923
+59.3	Steph 502	M0V	0.?		NN
+59.3	Steph 1680	M0V	0.?		NN
+59.3	LP 25-2	M4Ve	0.?		NN
+59.3	LP 356-106	MV	0.?		NN
+59.3	G 118-43	MV	0.?		NN
+59.3	G 129-48	MV	0.?		LHS 5411
+59.3	G 192-22	MV	0.?		NN
+59.3	LTT 12143	MV	0.?		G 50-21
+59.4	GJ 1009	M2V	0.?		BPM 46239, Hip 1734
+59.4	L 1187-43	M2.5 V	0.?	Leo	Hip 54227, LHS 2348, G 45-33
+59.5	CD-43 11010	M3V	0.?		Gl 634, LHS 3235
+59.5	Ross 19	M3.5V	0.?		Gl 94, G 74-14, LHS 1388
+59.5	LTT 11117	MV	0.?		G 5-32
+59.6	CD-44 4756	M2V	0.?		Hip 42881
+60.1	G 260-1	MV	0.?		GJ 1225, LHS 460
+60.1	Hip 4012	M2V	0.?		
+60.2	G 188-26	MV	0.?		LHS 3713
+60.2	CD-42 16413	M3V	0.?		LTT 9635, Sm 142, Hip 116645
+60.3	Wolf 534	M3V	0.?		Gl 543, G 124-23, LHS 368
+60.4	LP 937-95	MV	0.?		BPM 46562, GJ 1018, G 267-158
+60.4	Wo 9182	M5V	0.?		CC333; B1950= 5:27:23-3:28.4
+60.4	Wolf 204	M3.5V	0.?		Comp= Wo 9120; LTT 11204, G 6-24, LHS 1573
+60.4	G 201-33	MV	0.?		LP 135-97, LHS 5287
+60.4	Ross 346	M1V	0.?		LTT 11051, G 78-24
+60.4	L 1036-8	MV	0.?		LTT 12385, LP 546-48, G 114-33
+60.4	L 414-103	M3V	0.?		LTT 7044, LHS 3317
+60.4	L 433-153	M7V	0.?		LTT 9828, LP 988-175, BPM 45308, Sm 148
+60.4	LP 716-35	M4Ve	0.?		NN
+60.4	LP 193-584	MV	0.?		NN
+60.4	LP 211-12	MV	0.?		NN
+60.4	LP 488-37	MV	0.?		NN
+60.4	G 121-28	MV	0.?		NN
+60.4	G 241-62	M2V	0.?		NN
+60.4	G 268-47	MV	0.?		NN
+60.4	LTT 17035	MV	0.?		G 30-26
+60.4	LTT 18035	MV	0.?		G 90-44
+60.4	LTT 11395	M3V	0.?		SA 3-112, G 248-19, LHS 1663
+60.4	LTT 18236	M4V	0.?		San 128, GJ 1163, G 59-37
+60.4	LTT 5728	MV	0.?		Wo 9483
+60.4	G 10-17	M3 V	0.?	Leo	GJ 1146, LHS 301
+60.5	G 136-27	MV	0.?		GJ 1186, G 136-27, LHS 2995
+60.6	DK+29 3074	M0V	0.?		Derived RA, Dec= 15:54:47-0:22:41 (?= B1950: Hip 78114, HD 142881, BD-00 3040; K5; Plx= 1.45 ~2200ly, e= 0.93)
+60.6	BD+21 2486 A	M0V	0.?		V(AB)= 9.43, d(m)= 5.7; Gl 499 A, Hip 63942, V 141
+60.7	LP 701-7	MV	0.?		USNO 777, LHS 3850
+60.7	G 39-9	M5 V	0.?	Perseus	GJ 1070, G 39-9, LHS 1667
+60.8	BD+46 1951	M0Vp	0.?		Wo9475,Gl 541.2, Hip 69824, V716
+60.9+/- 22.0	L 1389-16	K-M2 V	0.?	Gemini	LTT 11891, LP 307-8, G 103-49
+61.0	SS-35 2377	M3V	0.?		Derived RA, Dec= 16:46:8+1:7:41
+61.0	Wolf 33	M2V	0.?		AC+57 5559, Gl 38, G 218-17, LHS 126
+61.0	G 130-43	MV	0.?		GJ 1003, G 130-43, LHS 103
+61.3	L 1344-37	M3.5 V	0.?	Serpens Caput	LTT 14636, LP 384-18, LHS 3091, G 167-51
+61.3 +/- 22.6	L 850-59	M2.5 V	0.?	Scutum	LTT 7452, LP 751-15, G 155-42
+61.4	Wolf 1450	M3.5V	0.?		Gl 204.2, G 99-14, LHS 1766
+61.4	L 850-62	M4V	0.?		Gl 741, LHS 3428
+61.5	Wo 9140	M5V	0.?		CC 275; B1950= 3:56:49+25:57.1
+61.5	L 649-24	M3.5V	0.?		LFT 1827, LTT 9718, LP 935-18, G 275-106, LHS 4016
+61.5	L 1298-103	MV	0.?		LTT 10142, LP 349-18, G 131-66, LHS 1073
+61.5	L 1246-11	MV	0.?		LTT 11938, LP 421-7
+61.5	L 1405-42	MV	0.?		LTT 13220, LP 375-25
+61.5	L 1277-48	MV	0.?		LTT 15124, LP 447-38
+61.5	Wolf 990	M4V	0.?		LTT 16471, G 18-31, LHS 3760
+61.5	Ross 488	M3V	0.?		LTT 5282, G 62-58
+61.5	L 989-38	M2V	0.?		LTT 6924, LP 687-31
+61.5	L 630-44	M3.5V	0.?		LTT 6936, LP 864-1, LHS 3291
+61.5	CP-41 8405	M3V	0.?		LTT 7138, L 415-82, Sm 5
+61.5	L 714-46	M4V	0.?		LTT 8526, LP 873-4
+61.5	L 165-102	MV	0.?		LTT 8706, LHS 3719
+61.5	G 130-68	MV	0.?		LHS 1068
+61.5	G 69-11	MV	0.?		NN
+61.5	Ross 331	M3.5V	0.?		G 74-52, LHS 1483
+61.5	LP 912-32	MV	0.?		LHS 2826
+61.5	LTT 6544	MV	0.?		Wo 9560
+61.5	GJ 1202	M3 V	0.?	Hercules	G 138-37, LHS 3210
+61.6	BD+38 4818 A	M2V	0.?		LTT 16634, Hip 111685, G 189-30
+61.6	BD-12 5594 B	MV	0.?		Sep= 62", 1200 AU; 75 d (LHS); LP 754-5, Gl 773 B, LHS 3503, V 327 B
+61.6	G 71-24	M2 V	0.?	Cetus	Hip 7646, G 71-24, LHS 1272
+61.7	BD-20 465 C	M3V	0.?		LTT 1226, Gl 100 C, LHS 1408
+61.8	LP 289-11	MV	0.?		GJ 1274, Hip 112800, G 189-38, LHS 3859, LHS 3859
+61.8	GJ 1212	M1V	0.?		Var; GJ 1212, Hip 84277, LHS 3272
+61.9	LTT 12243	M2.5 V	0.?	Cancer	Hip 42267, G 9-11, LHS 2029
+62.0	BD+13 3578	M0V	0.?		Gl 708.2, Wo 9620, Hip 89517, G 140-49, LHS 3373, V 179
+62.2	Ross 733 B, 734	M3.5V	0.?		Sep= 45", 860 AU; 178 d; LTT 15635, LFT 1464, Wo 9652 B, G 185-13, LHS 3446
+62.2	AC+12 1155-87	M1.5V	0.?		Gl 642, Hip 82694, G 138-67, LHS 3251
+62.2	Ross 733 A	M3.5 V	0.?	Sagitta	Hip 94557, G 185-12, LHS 3445
+62.3	CD-28 1030 B	MV	0.?		LTT 1477, GJ 1054 B
+62.3	AC+62 18836	M0V	0.?		LTT 12212, Wo 9266, Gl 308.1, Hip 41689, G 234-35, LHS 2018, V 521
+62.4	G 99-10	M5V	0.?		Or: B-V= 1.46, U-B= .86; GJ 1080, G 99-10, LHS 206
+62.4	Ross 769	M2-3V	0.?		Gl 817, Hip 104059, LHS 61
+62.5	Ross 59	M1.5V	0.?		AC+24 147-263,LFT437,Gl220, G 100-44, LHS 1794
+62.6	L 1750-12 A	M3.5V	0.?		V(AB)= 12.34, d(m)= 2.5; LP 121-41, USNO 706, NN A, G 192-39, LHS 1864
+62.7	VA 366	M0V	0.?		GH 7-208
+62.7	LTT 10112	MV	0.?		LP 292-66, G 130-63
+62.7	L 1205-52	MV	0.?		LTT 15079, LP 507-5, G 139-17
+62.7	L 1208-222	MV	0.?		LTT 15455, LP 510-10, G 141-10
+62.7	Ross 263	M3.5V	0.?		LTT 16410, G 126-44
+62.7	LTT 17364	MV	0.?		LTT 17364, G 74-25
+62.7	L 57-44	MV	0.?		LTT 2235, LHS 1749
+62.7	L 976-35	M3V	0.?		LTT 4891, LP 616-13, G 14-1, LHS 2634
+62.7	L 491-42	M3V	0.?		LTT 7605, LHS 3443
+62.7	L 1002-29	MV	0.?		LTT 8642, LP 638-23, G 26-23
+62.7	Steph 598	M0V	0.?		NN
+62.7	Steph 1049	M0V	0.?		NN
+62.7	LP 344-47	MV	0.?		NN
+62.7	G 118-61	MV	0.?		LHS 2270
+62.7	LP 823-8	MV	0.?		G 273-151, LHS 4032
+62.7	LP 556-64	MV	0.?		LHS 2657
+62.7	L 1143-65 B, -66	MV	0.?		Sep= 15", 290 AU; 345 d; LTT 16065, LP 576-39
+62.7	BD+16 1877 A	M0V	0.?		Wo 9281 A
+62.7	LTT 16988	M5V	0.?		Wo 9837
+62.7	L 1143-65 A	M1.5 V	0.?	Equuleus	LTT 16064, LP 576-40, GJ 4160 A
+62.8	G 69-16	MV	0.?		GJ 1019, G 69-16, LHS 120
+62.8	MWC 412-76	MV	0.?		SA 90: 166; Gl 852.1
+62.9	Ross 812 A	M2V	0.?		LTT 14949, Hip 81655
+63.0	BD+00 5017 A*	M0.5V	0.?		*X-RayCompB?;Gl 900, G 29-37, Hip 116384, B+00 5017, G 29-47, V 81
+63.0	L 1194-26	M5V	0.?		Gl 513,G 63-32, LHS 351
+63.0	LP 157-25	MV	0.?		V-I= 3.79 (USNO), Wrong Chart-LHS; LHS 197
+63.0	BD+05 1168 B	MV	0.?		OptComp C&D?; Gl 231.1 B, Wo 9208 B, G 106-36
+63.1	L 590-10	M0V	0.?		LP834-41,Gl 167.2, LHS 1651
+63.2	L 339-106	M1V	0.?		Gl 629.3, LHS 3223
+63.5	Omicron Aquilae B	M3V	0.?	Aquila	HR 7560 B*, Gl 768.1 B
+63.2	CD-57 8545	M0.5-3 V	0.?	Tucana	Gl 855, Hip 110534, LHS 3802, Sm 107
+63.3	CD-42 1969	M0V	0.?		Hip 25775, HD 274255, CD-42 1969, CP42 682
+63.3	G 191-15	M0-1V	0.?		GJ 1074, Hip 23140, G 191-15, LHS 1721, V 457
+63.3	Ross 878	MV	0.?		LTT 12020, G 88-28
+63.4	BD-20 6558 B	MV	0.?		LP 822-105, GJ 2154 B
+63.4	Hip 112978	MV	0.?		
+63.5+/- 25.3	L 1310-30	M3.5 V	0.?	Taurus	LTT 11407, LP 415-18, G 8-29
+63.6	L 774-22	M2.5V	0.?		Gl 690.1, G 154-8, LHS 3316
+63.6	L 501-38	M3V	0.?		Gl 874, LHS 3855
+63.6	CD-24 658 B	MV	0.?		L 654-50, LTT 840, Gl 59 B, G 274-60
+63.7	V 150	M0.5V	0.?		Hip 68570
+63.8	CD-24 6144	MV	0.?		Hip 38594, CD-24 6144, CP-24 3055
+63.8	AC+36 28826 A	M0V	0.?		V(AB)= 10.73, d(m)= .1; Wor 19, Gl 308 A, Hip 41554, G 51-13, LHS 247, V 253
+63.8	AC+80 7 A	M0-1.5V	0.?		LTT 17095, Hip 1092, G 242-48, V 354, G 242-48, V 354
+63.8	AC+80 7 B	MV	0.?		Sep= 12.5", 245 AU; 127 d (NLTT), d(R)= 4.2, d(pg)= 4.3; LP 12-304, G 242-48, V 354 B
+63.8	G 179-33	MV	0.?		Binary?,phot.cat.;LHS 3075
+63.8	LTT 6623	M1-2 V	0.?	Norma	GJ 629.3, LHS 3223, L 339-106
+63.9	BD-06 3950	M0V	0.?		LTT 5574, Wo 9472, Hip 69485, BD-06 3950, G 124-12, V 711
+64.0	Ross 45 A	M3V	0.?		LTT 11678, NN A, G 97-52
+64.0	Wolf 1074	MV	0.?		LTT 1 6016, G 230-43
+64.0	L 814-1	MV	0.?		LTT 2704, LP 721-2, LHS 1887
+64.0	L 691-8	M3.5V	0.?		LTT 5475, LP 799-14, LHS 2848
+64.0	Steph 539	M1V	0.?		NN
+64.0	Steph 785	M3V	0.?		NN
+64.0	San 39	M4-5Ve	0.?		NN
+64.0	LP 176-55	MV	0.?		NN
+64.0	LP 263-64	MV	0.?		NN
+64.0	PS 244	MV	0.?		NN
+64.0	LP 174-355	MV	0.?		NN, G 200-46, LHS 2936
+64.0	LP 20-375	MV	0.?		NN, G 255-17, LHS 2610
+64.0	LTT 18350	MV	0.?		NN, G 63-50
+64.0	LP 127-371 B,372	MV	0.?		Sep= 16", 310 AU; 26 d; NN B, G 196-23, LHS 2263
+64.0	Ross 45 B	M3.5V	0.?		Sep= 6", 120 AU;1 91 d; LTT 11679, NN B
+64.0	LTT 16216	MV	0.?		Wo 9727
+64.0	Hip 36215	M2V	0.?		Hip 6215
+64.0	LP 127-371 A	M4 V	0.?	Ursa Major	G 196-22, LHS 2262
+64.2	G 139-39	MV	0.?		GJ 1219, G 139-39, LHS 448
+64.2	LP 605-23	MV	0.?		LHS 2026
+64.2	G 140-9 A	M2V	0.?		Hip 86707, G 140-9
+64.2	AC+36 64438	M0V	0.?		Gl 906, Hip 117197, G 130-9, V 347
+64.3	LP 12-361 B,-362	MV	0.?		Sep= 11", 220 AU; 64 d (LHS); GJ 1010 B, G 252-52, LHS 1066
+64.3	LP 12-361 A	M1.5 V	0.?	Cepheus	GJ 1010 A, Hip 1860, G 242-51, LHS 1065
+64.3	G 194-50	M3.5 V	0.?	Ursa Major	G 194-50, LHS 259
+64.5	BD+33 1505	M1.5V	0.?		Gl 270, Hip 35495, BD+33 1505,G 87-33, LHS 1912, V 16
+64.5	AC+27 66379	M0.5V	0.?		Gl 851.5, Hip 109812, G 127-11, LHS 3781, V 206
+64.5	AC+23 368-59 C	MV	0.?		L 1307-14, Gl 140 C
+64.5	AC+23 368-59 A	M0V	0.?		V(AB)= 10.38, d(m)= 1.4; Gl 140 A, Hip 15844, V 419
+64.6	G 13-51	MV	0.?		GJ 1162, G 13-51, LHS 2595
+64.6	G 124-72	MV	0.?		GJ 1185, G 124-72, LHS 2979
+64.6	LP 28-158	M3.5 V	0.?	Cassiopeia	G 242-60, LHS 1101
+64.7	Wolf 953	M1V	0.?		LTT 16412, Hip 108380, G 18-8, G 18-8
+64.8	CD-58 7734	MV	0.?		Wo 9692, Sm 54, Gl 788.1, Hip 100490, CD-58 7734, LHS 3542
+64.8	L 728-1	M3V	0.?		LFT 185, LTT 1122, LP 709-40, Hip 10072, LHS 1347
+65.9	LP 57-41 A	M3.5 V	0.?	Camelopardalis	LHS 214, LDS 1201, G 249-
+65.0	BD+19 4499	M1.5Ve	0.?		Gl 804, Hip 102357, HD 352860, BD+19 4499, G 144-34, LHS 3576
+65.0	BD-19 5899 A	M1-2V	0.?		V(AB)= 10.78, d(m)= 3.2; Gl 800 A, Hip 102235, BD-19 5899
+65.0	AC-68 3972-162 A	MV	0.?		L 117-123, LTT 8456, AC-68 3972-162, Wo 9732, Hip 105336
+65.1	LP 141-11	M1V	0.?		LH S3409
+65.1	L 290-28	M3-6V	0.?		Var; R-I= 1.42 Weistrop; LTT 183, Sm 163, Hip 1720, LHS 5004a
+65.1	Alpha Tauri B	M2V	0.?	Taurus	AB: sep= 30.4", 607 AU; 110 d; Wo 9159 B, Gl 171.1 B
+65.2	Wo 9300	M4V	0.?		B1950= 9:28:44+20:30.8 (?= Hip 46739, HD 82263, BD+20 2331; K0; 526ly)
+65.2	Wo 9041	M4V	0.?		CC79; B1950= 1:4:57+33:56.1
+65.2	G 163-51 A	M6V	0.?		GJ 1142 A, G 163-51
+65.2	L 288-117	MV	0.?		LFT 1824, LTT 9699, LHS 4012
+65.2	L 86-66 A	MV	0.?		LFT 24, LTT 118, NN A, LHS 1051
+65.2	L 1180-118	MV	0.?		LTT 12392, LP 486-49, G 9-46
+65.2	L 1338-13	MV	0.?		LTT 13935, LP 379-51, G 150-07
+65.2	Ross 1022	M3V	0.?		LTT 13973, G 150-25, LHS 2771
+65.2	AC+82 1874	MV	0.?		LTT 18178, G 253-53
+65.2	L 898-42	M4V	0.?		LTT 4009, LP 671-10, G 163-23, LHS 2328
+65.2	L 829-10	M5-6V	0.?		LTT 4484, LP 734-14
+65.2	L 258-126	MV	0.?		LTT 5376, LHS 2813
+65.2	LP 89-101	MV	0.?		NN
+65.2	G 144-39	MV	0.?		NN
+65.2	G 156-63	MV	0.?		LHS 3872
+65.2	G 166-33	MV	0.?		LHS 2925
+65.2	G 216-11	MV	0.?		NN
+65.2	LP 48-822	M2V	0.?		G 241-44,LHS 534
+65.2	LP 892-51	MV	0.?		LHS 1767
+65.2	LP 926-31	MV	0.?		LHS 3516
+65.2	LP 762-3	MV	0.?		LHS 3909
+65.2	LP 322-936	MV	0.?		San 232, LHS 2691
+65.2	L 86-66 B, -67	MV	0.?		Sep= 48", 960 AU; 288 d; LFT 25, LTT 119, NN B, LHS 1049
+65.2	LTT 12449 B	MV	0.?		Sep= 76", 1500 AU; 302 d; LP 313-38, NN B
+65.2	LTT 17032	M5V	0.?		Wo 9842
+65.3	CD-33 8748	MVp	0.?		Hip 63480, CD-33 8748
+65.3	BD+65 1846	M1V	0.?		GJ 1278, Hip 113944, BD+65 1846, G 241-41, V 77
+65.3	BD+02 2098	M1V	0.?		Gl 328, Hip 43790, BD+02 2098, G 46-9, LHS 255, V 537
+65.4	L 1226-9 A	M4V	0.?		LP 404-61, L 1226-9, GJ 1006 A, Hip 1295, G 32-6, LHS 107
+65.4	L 1226-9 B,-8	M4.5V	0.?		LP 404-62, L 1226-8, GJ 1006 B, G 32-7, LHS 108
+65.4	Ross 991	M2.5-KV	0.?		LFT 941, LTT 13622, Hip 62374, G 123-60, LHS 2633
+65.4	L 190-266 B,-265?	MV	0.?		Gl 389 B, LHS 2254
+65.4	L 190-266 A	M3V	0.?		Sep= 12", 240 AU; 23 d; Gl 389 A, Hip 50808, LHS 2253
+65.6	BD-06 1339	M0V	0.?		Gl 1221, Hip 27803, BD-06 1339, V 10
+65.6	CP-45 5806 B	MV	0.?		L 326-41, Gl 456.1 B
+65.6	CD-45 7581 B	MV	0.?		Wo 9391 B
+66.6	Ross 625	M3 V	0.?	Hydra	LTT 12366, G 46-17, GJ 3527
+66.7	LTT 12371	M2.5 V	0.?	Cancer	Hip 44376, LHS 2094, G 41-18
+67.7 +/- 23.0	LP 733-24	M3 V	0.?	Crater-Corvus	LHS 2460, GJ 3688
+65.8	G 115-68 A	MV	0.?		GJ 1122 A, G 115-68
+65.8	G 115-68 B, -69	MV	0.?		Sep= 9", 180 AU; 180 d (Giclas); GJ 1122 B, G 115-69
+65.8	BD-09 956 A	M0V	0.?		Sep= 2", 160 AU; d(m)= .1, V(AB)= 10.27; Wor 17, Wo 9163 A, Hip 21765, BD-09 956, V 452
+65.9	LP 57-41 B, -40	MV	0.?		Sep= 56", 1100 AU; 193 d (NLTT); NN B, G 249-27, LHS 213
+66.0	G 177-4	MV	0.?		G 177-4, LHS 2651
+66.1	CD-24 17445	M2V	0.?		Sep= 75", 1500 AU; 324 d; Steph 1682, LTT 9315, L 718-70, NN B,Hip 113605, CD-24 17445
+66.2	Ross 84	M3V	0.?		Gl 351.1, G 41-43, LHS 2154
+66.2	L 1405-9	M3V	0.?		Gl 455, G 121-45, LHS 2497
+66.4	CD-24 17443	M1V	0.?		Steph 1681 - comp B (NLTT); LTT 9310, L 718-71, NN A, Hip 113602, CD-24 17443
+66.6	Sm 79	M7V	0.?		BPM 43997
+66.6	Wo 9197	M5V	0.?		CC 365; B1950= 6:0:47+24:9.4
+66.6	BD-08 2689	M0V	0.?		Gl 346, V 268
+66.6	L 89-27	M0V	0.?		Gl 85, LHS 150
+66.6	L 1617-7 A	MV	0.?		LP 167-64, NN A, G 146-43
+66.6	L 1498-10	MV	0.?		LTT 15504, LP 280-9, G 206-37
+66.6	L 1575-70	MV	0.?		LTT 16018, LP 284-7, G 209-38
+66.6	L 44-59	MV	0.?		LTT 7245, LHS 3378
+66.6	L 159-20	MV	0.?		LTT 7469, LHS 3418
+66.6	Wolf 939	M3.5V	0.?		LTT 8681, G 26-28
+66.6	L 499-75	M3.5V	0.?		LTT 8846, LP 983-87, LHS 3756
+66.6	Steph 1145	M0Ve	0.?		NN
+66.6	G 172-15	MV	0.?		NN
+66.6	LP 1-52	MV	0.?		G 265-15
+66.6	LP 779-10	MV	0.?		LHS 1807
+66.6	LP 801-53	MV	0.?		LHS 3022
+66.6	LP 861-12	MV	0.?		LHS 3147
+66.6	Ross 773 B	M4V	0.?		Sep= 4", 82 AU; 173 d (NLTT); LTT 16246, NN B
+66.6	L 1617-7 B	MV	0.?		Sep= 46.5", 950 AU; 285 d; LP 167-63, NN B
+66.6	Ross 773 A	M3V	0.?		V(AB)= 12.23, d(m)= 1.5; LTT 16245, NN A, G 145-31
+66.6	LTT 16844	M4V	0.?		Viln 82, no35; G 29-19
+66.6	IE 1058.2+1220	M5Ve	0.?		V-R(kc)= 1.48, R-I(kc)= 1.87 FLGM, NN
+66.6	AC+22 214-129	M0Ve	0.?		GJ 2079, Hip 50156,V 124
+66.6	L 829-26	M3V	0.?		Gl443,Hip 57459, LHS 314
+66.8	BD+15 4074 B	MV	0.?		Gl 783.2 B, G 143-35, LHS 3530
+66.9	Wolf 1487	M0.5V	0.?		GJ 1172, Hip 66222, BD+05 2767, G 62-50, V 48
+67.0	Ross 806 A	M3V	0.?		LTT 14715, LFT 1231, NN A, G 180-08, LHS 3129
+67.0	Ross 806 B	MV	0.?		Sep= 26", 530 AU; 174 d; LTT 14716, LFT 1232, L 1489-3, LP 274-21, NN B, G 180-9, LHS 3130
+67.1	L 901-10 B	M3-4V	0.?		LP 673-42 B, Gl 452 B, Hip 57959?, LHS 2470a
+67.1	USNO 717	MV	0.?		G 146-35, LHS 2268
+67.2	G 34-15	MV	0.?		GJ1034,G34-15,LHS139
+67.2	G 85-69	MV	0.?		GJ1078,G85-69
+67.3	BD-17 3337 B	M3.5V	0.?		LTT 4155, L 755-50, Gl 421 C, LHS 2378
+67.4	Ross 512	M3.5V	0.?		GJ 1193, G 137-22, LHS 3083
+67.4	CR Draconis A	M1.5Ve	0.?	Draco	Binary?; Wo 9552, Gl 616.2, Hip 79796, BD+55 1823, G 202-36, LHS 5315, V 161
+67.5	AC+76 4935	M1V	0.?		LTT 14140, G 255-49, LHS 2866
+67.5	LP 313-42	MV	0.?		USNO 714, LHS 266
+67.6	BD+10 4534	M0V	0.?		Hip 105533
+67.6	BD+33 1646 A	M0.5Ve	0.?		AC+33 29235, GJ 1108 A, Hip 39896, V 250
+67.6	BD+33 1646 B	M3Ve	0.?		Sep= 12.3", 255 AU; 243 d (GSC 1983.13); GJ 1108 B
+67.6	Wolf 87	M2-3V	0.?		LTT 10622, Hip 8382, G 34-51
+67.7	CD-48 1982	M0V	0.?		LTT 2379, GJ 1084, Hip 27323, CP-48 720, U 126
+67.7	BD+22 176 B	M3V	0.?		Wo 9040 B, Gl 53.1 B, LHS 5028
+67.7	CD-50 13863	M3V	0.?		BPM 28112, Sm 122, Hip 113850
+67.8	BD-04 3665 B	M4V	0.?		Gl 544 B, LHS 2895
+67.8	BD+27 273	M0 V	0.?	Pisces	Hip 8043, LHS 1289, G 35-08
+68.0	NN A*	M3Ve	0.?		*X-RayCompB?, Fleming 1988; B1950= 2:32:30+23:21.0; unnumbered GJ, No Other References
+68.0	AC+08 147-294 A	M1V	0.?		91.21ly= Hip76339?; NN A, V 811 A
+68.0	LP 571-80	MV	0.?		Bad Hip Plx=-17.28, e=6.49; NN, Hip93047
+68.0	Wo 9274	M4V	0.?		CC 483; B1950= 8:39:58+44:40.6
+68.0	Wolf 205	M3.5V	0.?		Comp= Wolf 204; Wo 9120, LTT 11207, LFT 300, G 6-25, LHS 1574
+68.0	G 246-26	M3V	0.?		
+68.0	L 1436-28	MV	0.?		LP 399-165, G 188-47
+68.0	LP 4-258	MV	0.?		LP 4-258, G 222-18
+68.0	Ross 388	M3V	0.?		LTT 11591, LFT 392, G 85-44, LHS 1740
+68.0	G 264-18 A	M1.5V	0.?		LTT 16470, NN A, G 264-18
+68.0	L 521-2	MV	0.?		LTT 2219, LP 892-26, LHS 1748
+68.0	L 691-20	M2.5V	0.?		LTT 5375, LP 798-44
+67.95	L 845-15 A	M3V	0.?		LTT 6883, LP 747-20
+67.95	Wolf 882	M3.5V	0.?		LTT 8247, G 24-30
+68.0	LP 336-6	MV	0.?		NN
+68.0	G 118-66	M6Ve	0.?		LHS 2274
+68.0	G 139-50	M4V	0.?		NN
+68.0	G 244-49	MV	0.?		NN
+68.0	LTT 12058	MV	0.?		G 50-1
+68.0	LTT 12227	MV	0.?		G 9-9, LHS 2027
+68.0	LP 928-7	MV	0.?		LHS 3580
+68.0	LDS 3768 A	MV	0.?		NN A
+68.0	LDS 3768 B	MV	0.?		NN B
+68.0	IE 2344+641	M5Ve	0.?		R-I(KC)= 1.85, V-R(KC)= 1.49; NN
+68.0	L 845-15 B, -16	M3V	0.?		Sep= 30", 630 AU; 338 d; LTT 6882, LP 747-19, NN B
+68.0	Wo 9502	M0V	0.?		V 727; B1950= 14:53:55-17:56.9
+68.0	LTT 2130	MV	0.?		Wo 9171
+68.0	BD+13 2721	M0V	0.?		Gl 533, Hip 67808, G 65-12, LHS 2821, V 53
+68.0	AC+75 8347	M0-1V	0.?		LTT 18557, Wo 9764, Gl 842.2, Hip 108467, G 263-10, V 204
+68.0	G 17-38	M3.5 V	0.?	Ophiuchus	LHS 3246, G 19-3, GJ 3975
+68.0	LP 711-43 A	M3 V	0.?	Eridanus	NLTT 9768, GJ 3196 A
+68.0	LP 711-43 B, -44	M3 V	0.?	Eridanus	LP 711-44
+68.0	Ross 727	M2.5 V	0.?	Sagittarius	Gl 747.1, LHS 3437, CC 1131
+68.1	Ross 60	M3.5V	0.?		Gl 226.1, G 98-38, LHS 1814
+68.2	L 730-41	MV	0.?		LTT 1450?, Wo 9108?, LP 771-72, Gl 121.1, Hip 14165
+68.2	Tau Cygni B	M3V	0.?	Cygnus	Sep(Aab) B= 88", 1800 AU; P= 45,000 years; Wo 9728 B, Gl 822.1 B, G 211-14
+68.4	BD+19 4484 B	MV	0.?		L 1288-4, Gl 797 B, G 144-26
+68.5	G 207-30	MV	0.?		LHS 3459
+68.6	BPM 14175 A	M2V	0.?		Sm 85, Hip 106803
+68.6	13 Ceti Ab	MV	0.?	Cetus	Spec. dou. B: P= 2.0819 days
+68.7	Hip 48190	M2V	0.?		Hip 48190
+68.8	G 35-35	MV	0.?		GJ 1045, G 35-35, LHS 1366
+68.8	CD-51 89	M4V	0.?		LTT 197, LFT 39, Hip 1842, LHS 1064
+68.8 +/- 22.8	G 50-16 A	M4 V	0.?	Canis Majoris-Monoceros	LHS 1972
+68.9	CD-23 17748 B	M3 V	0.?	Aquarius	Gl 889 B, LTT 9361, G 275-2
+68.9	CD-23 17748 C	M0 V	0.?	Aquarius	Gl 889 C, LHS 3899
+69.0	Rob 526	M3V	0.?		Hip 107317, G 93-33
+69.0	BD+33 1814	M2V	0.?		COU 1561, Gl 336, Hip 44955, G 47-26, LHS 2113, V 540
+69.10	Wolf 321	M1.5V	0.?		Gl 318.1, G 115-20
+69.2	G 67-15	M3V	0.?		GJ 1271, Hip 112120, G 67-15, LHS 528
+69.2	GJ 2085	M1V	0.?		Hip 55625,LHS 303, G 10-19, LHS 303
+69.2	G 217-51	MV	0.?		NN
+69.3	AC+41 509-35	M2V	0.?		Wo 9393, Hip 59378, G 123-8, V 636
+69.4	Wo 9682	MV	0.?		CC 1181; B1950= 20:0:45-45:46.7
+69.4	Wo 9447	M6V	0.?		CC 783; B1950= 13:27:30-8:26.6
+69.4	L 1509-40	MV	0.?		LP 344-44, G 128-03, LHS 3854
+69.4	LTT 13593	MV	0.?		LP 377-36, San 111
+69.4	L 1130-104	MV	0.?		LTT 14839, LP 564-54, G 17-7
+69.4	Wolf 750	MV	0.?		LTT 15193
+69.4	L 1354-11	MV	0.?		LTT 15549, LP 391-10, G 184-36
+69.4	L 1223-62	MV	0.?		LTT 16893, LP 522-49, G 29-35, LHS 3948
+69.4	L 1440-32	MV	0.?		LTT 16945, LP 346-49, G 128-82
+69.4	Steph 1021	M4V	0.?		NN
+69.4	LP 211-22	MV	0.?		NN
+69.4	LP 54-19	MV	0.?		NN
+69.4	G 102-21	M3V	0.?		NN
+69.4	G 126-34	MV	0.?		NN
+69.4	G 139-5	MV	0.?		NN
+69.4	G 146-5	MV	0.?		NN
+69.4	G 170-54	MV	0.?		NN
+69.40	G 180-21	MV	0.?		NN
+69.40	G 203-71	MV	0.?		LHS 3298
+69.40	G 205-47	MV	0.?		NN
+69.4	LTT 10787	MV	0.?		G 35-40
+69.4	LP 289-12	MV	0.?		NN A
+69.4	LTT 17016	M4V	0.?		Rob 379, G 29-69
+69.4	LTT 8885 A	M0V	0.?		Wo 9768 A, CC 1337
+69.0	L 1307-8	M1.5 V	0.?	Aries	Hip 15332, LHS 1525, G 37-32
+69.1 +/- 20.5	LTT 18046	M1 V	0.?	Cancer	G 90-52, TYC 2470- 109-1
+69.3	L 806-34 A	M0 V	0.?	Eridanus	GJ 2033, Hip 19948, LTT 1919, G 160-61
+69.5	AC+75 1146	M0V	0.?		Gl 122, Hip 14633, G 245-65, LHS 1505, V 97
+69.5	G 153-27	M2V	0.?		GJ 1198, LHS 412
+69.5	Ross 727	M3V	0.?		Ross 727, Gl 747.1, LHS 3437
+69.7	Ross 791	M4V	0.?		AC+10 22-181, LFT 242, Gl 120, G 5-7, LHS 163
+69.7	G 125-62	MV	0.?		GJ 1250, G 125-62, LHS 5354
+69.7	AC+39 60670 A	M0V	0.?		Var; V(AB)= 10.18, d(m)= 2; LP 286-6, Gl 834 A, Hip 106694,G 212-48, V 836
+69.8	BD+35 3145	M0-2V	0.?		G 182-37, Hip 88499, G 182-37
+69.8	BD-12 6174	M0 V	0.?	Aquarius	Hip 109084, LTT 8848
+69.8 +/- 33.2	LTT 12449 A	M1.5 V	0.?	Cancer	G 47-33
+69.9	Kappa Reticuli B	MV	0.?	Reticulum	L 18-37, Gl 143.2 B, LHS 1552
+70.0	BD+53 2831 B	MV	0.?		Sep= 78", 1700 AU; 106 d; NN B, G 232-62
+70.0	L 1351-12	M4.5-5V	0.?		LTT 15285, LFT 1379, LP 389-21, G 183-05, LHS 3333
+70.0	LTT 17957	MV	0.?		G 88-19
+70.1	AC+16 777-164	M0V	0.?		Wo 9188, Hip 26844, V 467
+70.1	LP 102-320	MV	0.?		LHS 3339
+70.3 +/- 17.7	LTT 11432	M4 V	0.?	Taurus	LHS 1671, G 7-39, G 83-11
+70.3 +/- 27.8	LTT 16837	M3 V	0.?	Pegasus-Pisces	G 28-50
+70.4	CD-50 210	M2V	0.?		LTT 464, CFS 223, Sm 174, Hip 3813
+70.4	G 74-19 C, -18	MV	0.?		Sep= 32", 690 AU; 233 d; GJ 1047 C, G 74-18, LHS 1392
+70.4	G 74-19 B	MV	0.?		SepAB= 1", 22 AU; GJ 1047 B, G 74-19
+70.4	G 74-19 A	MV	0.?		V(AB)= 13.3, d(m)= 0; GJ 1047 A, G 74-19, LHS 1393
+70.5	L 1321-40	MV	0.?		LTT 12136, LP 366-45, Hip 39950, G 40-9
+70.5	G 164-62	M2V	0.?		Wo 9437, GJ 1170, Hip 64880, G 164-62, V 44
+70.6	BD-13 2439 Aa	M0V	0.?		Spec. dou.?, V(AB)= 9.38, d(m)= .44; ADS 6664, Gl 301 A, Hip 40239, LHS 1991, V 20
+70.6	BD-09 4394	M1V	0.?		Hip 80612
+70.7	BD-12 662	M0V	0.?		Wo 9117, Gl 143.1, Hip 16242, V 421
+70.7	S. Cor. Borealis C	M3.5V	0.?	Corona Borealis	AB-C: sep= 0.24 ly; LTT 14836; L 1490-24, Gl 615.2 C, G 180-42
+70.7	Hip 102300	M0V	0.?		
+70.7	LP 826-605	M2V	0.?		PS 130, TS 335, GJ 1032, Hip 5410, G 268-130
+70.87	L 891-16 A	M1.5V	0.?		LTT 3154, LP 665-21, NN A, Hip 41802, G 113-42
+70.9	L 891-16 B,-15	M3V	0.?		Sep= 83", 1800 AU; 97 d; LTT 3155, LP 665-22, L 891-15, NN B, G 113-43
+70.9	Wo 9749	M2V	0.?		CC 1304; B1950= 21:39:25-12:23.0
+70.9	Wo 9074	M3V	0.?		CC 150; B1950= 2:7:7+35:12.0
+70.9	LP 554-64 A	M3V	0.?		GJ 1155 A, G 13-26, LHS 2541
+70.9	L 359-91	MV	0.?		LFT 1779, LTT 9467, LHS 3925
+70.9	L 1501-20	MV	0.?		LTT 15815, LP 282-7, G 125-42
+70.9	Wolf 945	M4V	0.?		LTT 16375, G 212-59, LHS 3711
+70.9	L 302-94	M4V	0.?		LTT 1935, LHS 1654
+70.9	L 123-30	M6V	0.?		LTT 471, Sm 176, GJ 1022, LHS 124
+70.9	L 257-54	MV	0.?		LTT 5212, LHS 2743
+70.9	L 555-14	M3.5V	0.?		LTT 6625, LP 918-1, LHS 423
+70.9	LP 13-55	MV	0.?		NN
+70.9	G 127-22	MV	0.?		NN
+70.9	G 159-34	MV	0.?		LHS 1332
+70.9	G 176-15	MV	0.?		LHS 2363
+70.9	G 194-43	MV	0.?		NN
+70.9	LTT 12663	MV	0.?		G 42-29
+70.9	LTT 12693	MV	0.?		G 43-24, LHS 2217
+70.9	G 44-43	MV	0.?		LHS 2320
+70.9	LTT 18300	MV	0.?		G 62-18, LHS 2699
+70.9	LP 377-100	M5V	0.?		San 85
+70.9	LTT 10779	M4V	0.?		Wo 9078; not Hip1 0687?
+70.9	AC+17 478-60	M0V	0.?		Wo 9428, V 686
+71.0	CD-28 1276 B	M3V	0.?		Sep= 1.8", 39 AU; 78 d (1959); Gl 154.1 B
+71.0	BD+24 3411	M0 V	0.?	Hercules	Hip 90265, HD 336187, LTT 15449, G 183-41
+71.1	G 115-57	MV	0.?		GJ 1121, G 115-57, LHS 2111
+71.1	LP 130-225 A	MV	0.?		GJ 1159 A, G 199-17, LHS 331
+71.1	LP 130-225 B,-226	M5.5V	0.?		Sep= 21", 460 AU; 356 d (NLTT); LP 130-226, GJ 1159B, LHS 330
+71.1	AC+03 2528-176	M1.5V	0.?		Gl 730, Hip 92417, G 22-3, V 64
+71.1	AC+71 8595	M0.5V	0.?		LTT 18490, Hip 96702, G 260-30, LHS 6354
+71.1	L 283-3 A	M4V	0.?		Var; LTT 8822, Sm 100, Hip 108890, LHS 3748
+71.1	Hip 81563	M2.5 V	0.?	Hercules	LHS 5319, G 202-68
+72.1 +/- 25.2	L 1003-48	M2 V	0.?	Aquarius	G 27-17, LTT 8900, LP 699-52
+71.2	BD+53 2911 A	M1V	0.?		V(AB)=10.09,d(m)=0;Wo 9788 A, Gl 863.1 A, G 233-17, LHS 525, V 842
+71.3	BD-16 6218	M2.5Ve	0.?		Gl 890, Hip 114252, V 342
+71.4	BD-06 4663 A	M0-1.5V	0.?		Spec. dou. ?; Gl 696, Hip 87322, HD 162283, V 174
+71.4	BD+48 2138 C	MV	0.?		Gl 520 C, G 177-45
+71.4	BD+48 2138 A	M0.5Vp	0.?		V(AB)= 9.77, d(m)= .8; ADS 8980, Gl 520 A, Hip 66492, G 177-46, V 303
+71.5	V 351	M0V	0.?		Hip 687
+71.5	G 168-32	MV	0.?		GJ 1197, G 168-32, LHS 3158
+71.6	CD-61 1439	M1V	0.?		Hip 31878
+71.9TD>LTT 6579	M3V	0.?		Var; GJ 2121, Hip 80817, G 153-57, LHS 3205
+72.1	Epsilon Cygni B	M4V	0.?	Cygnus	Sep(Aab)B= 78", 1700 AU; LTT 16072, Wo 9707 B, Gl 806.1 B, LHS 5358a
+72.1	AC-14 789-106	M3V	0.?		LTT721, Wo 9050, Gl 56.1, Hip 6097, G 270-188, LHS 1228
+72.1	Hip 114859	MV	0.?		Hip 114859
+72.2	LP 16-36	MV	0.?		Dawson & deRoberts, AJ98 p1472 (1989); LHS 207
+72.2	BD+23 3151 A	M0Ve	0.?		Wo 9596 A, Gl 686.1 A, V 170, Hip 86282, V 170
+72.3	G 68-37	MV	0.?		GJ 1290
+72.3	Wolf 1057	M0.5V	0.?		LTT 11223, G 79-59, LHS 178
+72.3	USNO 735	MV	0.?		G 177-52, LHS 2777
+72.3	LP 590-137	MV	0.?		LHS 1407
+72.4	LTT 12699	M0V	0.?		FI-285, Hip 49526, G 116-77, LHS 2220
+72.5	L 1592-1	M3V	0.?		Gl 92.2, G 134-24, LHS 1383
+72.5	L 1226-7	MV	0.?		LTT 10097, LP 404-66, G1 31-47
+72.5	Wolf 261	M3.5V	0.?		LTT 11766, LFT 446, G 101-16, LHS 1813
+72.5	L 442-72	M3.5V	0.?		LTT 1323, LHS 1434
+72.5	L 802-6	M2.5V	0.?		LTT 1415, LP 711-32, LHS 1481
+72.5	L 1142-58	MV	0.?		LTT 15948, LP 575-38
+72.5	L 1359-22	MV	0.?		LTT 16001,LP 395-15, G 186-29
+72.5	L 15-97	MV	0.?		LTT 3077, LHS 1978
+72.5	L 201-97	M2-3V	0.?		LTT 6300, LHS 3119
+72.5	Steph 852	M0V	0.?		NN
+72.5	LP 149-56	MV	0.?		NN
+72.5	LP 263-35	MV	0.?		NN
+72.5	LP 291-24	MV	0.?		NN
+72.5	LP 51-17	MV	0.?		NN
+72.5	PS 190	MV	0.?		NN
+72.5	G 122-74	MV	0.?		NN
+72.5	G 175-32	MV	0.?		NN
+72.5	G 203-33	MV	0.?		NN
+72.5	G 217-23	MV	0.?		NN
+72.5	LP 68-73	MV	0.?		G 239-48, LHS 3057
+72.5	G 259-5	MV	0.?		NN
+72.5	LTT 17400	MV	0.?		G 76-19
+72.5	LTT 17868	MV	0.?		G 99-34
+72.5	LP 726-6	MV	0.?		LHS 2046
+72.5	LP 793-44	MV	0.?		LHS 2476
+72.5	LP 870-45	MV	0.?		LHS 3528
+72.5	LP 931-40	MV	0.?		LHS 3793
+72.5	LP 329-20 A	MV	0.?		NN A
+72.5	G 116-72 A	MV	0.?		NN A
+72.5	L 464-6	M3.5V	0.?		Opt Comp B: G, LTT 3742, LHS 2233
+72.5	GR 316	MV	0.?		PS 279
+72.5	LP 329-20 B, -19	MV	0.?		Sep= 112", 2590 AU; 273 d, NN B
+72.5	G 116-72 B, -73	MV	0.?		Sep= 23", 510 AU; 91 d; NN B, G116-73
+72.5	LP 174-340	M5.5V	0.?		USNO 738, LHS 2921
+72.6	CD-56 1071 B	MV	0.?		Sep= 78", 1700 AU; 124 d (LHS); CP-56 768, LTT 2159, L 179-1, Wo 9172 B, Gl 186.1 B, LHS 1727
+72.6	Ross 17	M3V	0.?		Gl 85.1, G 74-4, LHS 1348
+72.6	G 192-26	MV	0.?		G 192-26, LHS 1848
+72.7	Hip 109537	M2V	0.?		
+72.7	BD+00 444	M0Vp	0.?		Wo 9093, Gl 105.5, Hip 12493, G 75-34, V 397
+72.8	Hip 1322	M4V	0.?		
+72.8	LP 323-239	MV	0.?		USN O736, LHS 358
+72.8	BD+03 2316	M0Ve	0.?		Wo 9313, Gl 378.2, Hip 49544, V 123
+72.9	CP-42 2834 B	M1V	0.?		Sep= 45", 1000 AU; 188 d (NLTT); Wo 9275 B, L 387-40, Gl 319.1 B
+73.0	BD+26 465 C	MV	0.?		Sep(AB-C)= 20", 450 AU; 20 d (NLTT); LP 354-414, Gl 113 C
+73.0	G 147-11	MV	0.?		LHS 2337
+73.1	BD+28 4660	M0Ve	0.?		Gl 910, Hip 117779, V 213
+73.3	Ross 322	M3V	0.?		Gl 52.2, G 132-57, LHS 137
+73.3	BD+46 2361	M1.5V	0.?		Wo 9603, Gl 694.2, Hip 86916, V 173
+73.3	18 Puppis Ba	M3V	0.?	Puppis	Spec. dou.?; L 818-040, Wo 9255 B, Gl 297.2 B
+73.3	18 Puppis Bb?	M3V	0.?	Puppis	Spec. dou. B?
+73.4	CD-41 14656	M0V	0.?		Hip 107772
+73.5	L 1142-88 A	M5V	0.?		LTT 15922, Gl 784.2 A, G 24-10, LHS 3533
+73.5	CD-28 657 B	M3.5V	0.?		Sep= 58", 1300 AU; 13 d; L 583-52, LP 885-12, Wo 9070 B, Gl 84.1 B, G 274-146, LHS 1338
+73.6	LTT 16590	M0V	0.?		Wo 9784, Hip 110951, G 127-35, V 841
+73.6	BD-05 4394	M2V	0.?		Steph 1422, Hip 83405
+73.7	BD+11 2874 A	M0-2V	0.?		Gl 600, Hip 77725, G 137-59, V 318
+72.8	G 9-7	M2.5 V	?	?	GJ 1110, LHS 2011
+73.3	G 241-1	M2 V	0.?	Cepheus	GJ 1266, LHS 3783, G 241-1
+73.4	AC+72 3338 A	M0.5 V	0.?	Camelopardalis	GJ 2050, Hip 32313, LHS 1865, G 251-16
+73.5	G 214-12	M3.5 V	0.?	Lacerta	LHS 6397, USNO 571, GJ 4260
+73.5	CD-28 657 A	M0.5 V	0.?	Fornax	Gl 84.1 A, Hip 9749, LHS 1337, G 274-145
+73.8	LTT 15757	M0V	0.?		Wo 9667, Hip 97051, V 326
+74.1	39 Leonis B	M1V	0.?	Leo	Sep= 7.4", 170 AU; 299 d (1851-1958), d(m)= 6
+74.1	Wo 9048	M0V	0.?		CC 90, V 369; B1950= 1:13:54+25:42
+74.1	LP 167-71	MV	0.?		LP 167-71
+74.1	L 1082-25	M3.5V	0.?		LTT 10037, LP 524-65, G 30-45, LHS 1022
+74.1	L 800-18	M3V	0.?		LTT 1159, LFT 197, LP 709-62, LHS 1373
+74.1	AC+78 3815 A	M2.5V	0.?		LTT 13090, NN A, G 253-50, LHS 2405
+74.1	L 1337-15	M2V	0.?		LTT 13855, LP 378-924, G 61-48
+74.1	L 1049-18	MV	0.?		LTT 13881, LP 557-59, G 62-34, LHS 2725
+74.1	Ross 298	M3V	0.?		LTT 16939
+74.1	L 15-86	MV	0.?		LTT 2823, LHS 1909
+74.1	Steph 1806	M0Ve	0.?		NN
+74.1	LP 294-40	MV	0.?		NN
+74.1	G 189-1	MV	0.?		NN
+74.1	G 205-29	M2V	0.?		NN
+74.1	G 215-30	MV	0.?		NN
+74.1	G 251-27	MV	0.?		NN
+74.1	G 264-17	MV	0.?		LHS 3749
+74.1	LTT 17424	M3V	0.?		G 75-44, LHS 5061
+74.1	LP 316-604 A	MV	0.?		NN A
+74.1	LP 171-46 A	MV	0.?		NN A, G 198-71
+74.1	LP 316-604 B,605	MV	0.?		Sep= 40", 910 AU; 123 d; NN B
+74.1	LP 171-46 B	MV	0.?		Sep= 6.5", 150 AU; 90 d; NN B
+74.1	AC+78 3815 B	M3V	0.?		Sep= 74", 1700 AU; 327 d; LTT 13091, NN B,G 253-49, LHS 2404
+74.3	AC+40 477-39	M0V	0.?		Hip 55718, V 39
+74.3	Hip 33805	M0V	0.?		Hip 33805
+74.4	BD+00 4241	M0.5V	0.?		Wo 9660, Gl 761.2, Hip 96121, G 92-8, V 195
+74.4	LTT 14836 A	MV	0.?		Var; Wo 9549 A, Hip 79551
+74.5	Wolf 1322	M4V	0.?		Gl 157.1, G 6-42, LHS 1616
+74.6	BD+61 513 B	M3V	0.?	Ursa Major?	Sep= 266", 6080 AU; 65 d (NLTT); LTT 10995, LFT 253, NN B, G 246-22, LHS 1494
+74.6	BD+26 484 C	MV	0.?		L 1378-26, Wo 9105 C, Gl 118.2 C, G 36-43
+74.6	BD+26 484 B	M0V	0.?		Wo 9105B, Gl 118.2 B
+74.7	CD-44 170	M0.5-4V	0.53		Planet, Wo 9018, Gl 27.1, Hip 3143, LHS 1122
+74.8	LP 576-34	MV	0.?		Hip 104137
+74.9	Sm 52 A	M0V	0.?		Hip 100356, CD-52 9466?
+75.0	Hip 101574	M3V	0.?		Hip 101574
+75.1	BD+70 639	M0.5V	0.?		LTT 12927, Wo 9341, Gl 406.1, Hip 53580, G 236-46, LHS 2334, V 34
+75.2	G 218-5	M0V	0.?		Hip 3008
+75.3	G 218-7 A	MV	0.?		GJ 1015 A
+75.3	LTT 10091	MV	0.?		MW 412-30, Wo 9006
+75.4	Hip 20222	M3V	0.?		
+75.4	BD+49 2126	M2V	0.?		Wo 9399, Gl 458.2, Hip 59748, G 198-37, V 640
+75.5	G 164-42 A	M4V	0.?		Binary; Hip 63882, G 164-42
+75.7	Wolf 835	M0-2V	0.?		LTT 15403, Hip 89490, HD 348274, G 183-33
+75.7	Wolf 1471	M3V	0.?		LTT 7048, LFT 1367, G 20-9, LHS 3315
+75.7	AC+41 915-440	M1-2V	0.?		CC 1320, Gl 839, Hip 108092, G 215-20, LHS 3727, V 72
+75.7	BD-04 1310 C	M2.5 V	0.?	Monoceros	Triple, LP 659-4
+75.8	AC+68 8102	M3V	0.?		Bad Hip Plx= -0.12, e= 5.22; var; LTT 18506, Hip 102976, G 262-29
+75.8	LTT 17044	M3V	0.?		LP 583-82, LE 31, Rob 382, G 30-28
+75.8	Ross 27	M3.5V	0.?		LTT 11358, G 175-17, LHS 5091
+75.8	L 1196-40	M2V	0.?		LTT 14175, LP 499-54, G 65-36
+75.8	L 1412-31	MV	0.?		LTT 14214, LP 325-26, G 166-21
+75.8	Ross 1042	M2V	0.?		LTT 14457, G 179-07
+75.8	L 1130-80	MV	0.?		LTT 14801, LP 564-39, G 16-30
+75.8	L 1431-22	MV	0.?		LTT 15978, LP 339-7, G 186-27
+75.8	Wolf 1351	M2V	0.?		LTT 16019, G 144-16
+75.8	L 975-27	M3V	0.?		LTT 4796, LP 675-19, M3 Kui, G 13-47, LHS 2586
+75.8	L 69-70	MV	0.?		LTT 5075, LHS 2704
+75.8	L 624-20	M3.5V	0.?		LTT 6205, LP 860-50, LHS 3079
+75.8	Steph 442	M0V	0.?		NN
+75.8	LP 424-4	MV	0.?		NN
+75.8	G 111-9	MV	0.?		NN
+75.8	G 183-6	MV	0.?		NN
+75.8	LP 342-14	MV	0.?		G 188-19
+75.8	G 191-32	MV	0.?		NN
+75.8	LP 60-205	MV	0.?		G 234-56
+75.8	LP 5-110	MV	0.?		G 253-13
+75.8	G 262-18	MV	0.?		NN
+75.8	G 269-125	M2.5V	0.?		LHS 1217
+75.8	LTT 12870	MV	0.?		G 44-35
+75.8	LTT 17156	M4V	0.?		G 69-24
+75.8	LTT 17373	MV	0.?		G 75-16
+75.8	LTT 17752	MV	0.?		G 85-48, LHS 1743
+75.8	LP 857-29	MV	0.?		LHS 2906
+75.8	LP 772-72 A	MV	0.?		NN A
+75.8	LP 772-72 B, -73	MV	0.?		Sep= 16", 370 AU; 172 d; LDS 3298?, NN B
+75.8	BD-01 1434	M0V	0.?		Wo 9210
+75.9	L 1455-1	M1.5 V	0.?	Perseus	LTT 11455, LP 250-2, G 39-24, GJ 3297
+75.9	L 915-5	M0 V	0.?	Ophiuchus	LTT 6674, LP 685-43, G 17-33, GJ 3969
+75.9	LP 413-18 A	M2 V	0.?	Taurus-Aries	GJ 3239 A, LDS 3512, NLTT 11415
+76.0	LTT 16338	M3.5V	0.?		LFT 1653, Wo 9747,G 232-28
+76.2	CD-27 16	MV	0.?		Gl 17, Hip 738, G 266-57, LHS 1026
+76.2	L 1504-126	M2V	0.?		LTT 6135, P 85-5, Hip 03544, 10-45
+76.2	LP 640-43	M4V	0.?		LHS 26
+76.3	BD+63 965	M0V	0.?		Gl 430, Hip 56199,V 132
+76.3	CD-47 399	M3V	0.?		BPM 30654, SM 186, CFS 383, Hip 6365
+76.4	G 23-8	MV	0.?		GJ 1242, G 23-8, LHS 3479
+76.5	Ross 680	M2V	0.?		LTT 10100, LFT 29, Hip 1386, G 130-61, LHS 1054
+76.6	LTT 17413 B,17412	MV	0.?		Sep= 18", 420 AU; 65 d; LP 197-48, NN B, G 78-3
+76.6	Hip 112388	M1V	0.?		
+76.6	LTT 17413 A	M0 V	0.?	Perseus	Hip 12886, G 78-4, Pulk 22-59
+76.7	CP-45 10150 B	MV	0.?		L 353-9, Gl 828 B
+76.7	L 557-68	M2V	0.?		LTT 6918, LP 920-1, Wo 9590, Gl 672.1, Hip 85126, LHS 3286
+76.8	CD-47 14307 B	M1V	0.?		Gl 871 B
+76.9	BD-03 5691	M0V	0.?		LTT 9665, Wo 9835, Hip 116936, G 157-92, V 345
+76.9	LP 33-436	MV	0.?		LHS 1788
+77.0	HB 2115-4518	MV	0.?		1995Y ale Plx; J2000; Patterson Et Al, 1998; Hawkins & Bessell, 1988
+77.0	Hip 112312	M3V	0.?		
+77.1	L 1271-41	MV	0.?		LTT 14519, LP 442-17, G 136-76, LHS 3033
+77.1	CD-30 529 C	M2V	0.?		AB-C: a= 1.419", 33.6 AU; P= 111.8 yr, d(m)= 3.19; Gl 60 C
+77.1	CD-67 1583	M1V	0.?		Hip 70308
+77.3	LP 583-11	MV	0.?		NN,LHS 3978
+77.3	Wolf 1132	M2.5V	0.?		GJ 1051, Hip 12749, LHS 1438
+77.3	BD+00 3090	M0V	0.?		Gl 522, Hip 66840, HD 119217, G 62-62, V 50
+77.3	CD-46 2096	MV	0.?		Hip 28153
+77.4	CD-49 14193 A	M0V	0.?		CFS 20397, Sm 139, BPM 45047, Hip 116491, CP-49 11759
+77.5	LP 274-24	MV	0.?		USNO 746, LHS 3132
+77.5	LTT 8788	M2V	0.?		Wo 9763, G 26-40
+77.6	FF Andromedae A	M0-1Ve	0.?	Andromeda	Spec. dou.; Wo 9022, Gl 29.1, Hip 3362, BD+34 106, V 87
+77.6	CD-23 1056	M0V	0.?		Planet, Hip 12961
+77.7	LP 415-1446	MV	0.?		190-Leggett & Hawkins MN234, p 1065 (1988); NN
+77.7	CD-37 7614	M0V	0.?		Hip 58688
+77.7	L 360-133	MV	0.?		L 360-133, LHS 3949
+77.7	GJ 1252	MV	0.?		LHS 492
+77.7	Wolf 351	M4V	0.?		LTT 12734, G 118-37
+77.7	L 1258-7	MV	0.?		LTT 12881, LP 431-69, G 58-21
+77.7	Ross 112	MV	0.?		LTT 13176, G 197-21
+77.7	Ross 1021	MV	0.?		LTT 13962
+77.7	L 1340-16	MV	0.?		LTT14173, LP 381-17, G 150-74, LHS 5268
+77.7	L 1346-3	M2V	0.?		LTT 14849, LP 385-58, G 168-38
+77.7	L 1501-69	MV	0.?		LTT 15794, LP 338-4, G 125-36
+77.7	L 372-18	M3V	0.?		LTT 1704, LP 995-48, LHS 1567
+77.7	AC+77 5457	M1.5V	0.?		LTT 18432, G 256-30
+77.7	L 59-3	MV	0.?		LTT 2392, LHS 1852
+77.7	L 391-74	M0.5V	0.?		LTT 5477, LP 856-36, LHS 2852
+77.7	L 158-46	MV	0.?		LTT 7442, LHS 3411
+77.7	Steph 578	M0V	0.?		NN
+77.7	Steph 823	M0V	0.?		NN
+77.7	Steph 932	M0V	0.?		NN
+77.7	LP 379-62	MV	0.?		NN
+77.7	LP 45-128	MV	0.?		NN
+77.7	LP 506-37	MV	0.?		NN
+77.7	G 101-35	MV	0.?		NN
+77.7	G 119-37	MV	0.?		LHS 2317
+77.7	G 122-60	MV	0.?		NN
+77.7	G 173-61	MV	0.?		NN
+77.7	LP 709-16	MV	0.?		G 272-137, LHS 1325
+77.7	LP 800-6	MV	0.?		LHS 2916
+77.7	Steph 1876 A	M1V	0.?		NN A
+77.7	LDS 3584 A	MV	0.?		NN A
+77.7	LP 930-70 A	MV	0.?		NN A, LHS 3739
+77.7	LDS 3584 B	MV	0.?		NN B
+77.7	LP 930-70 B, -69	MV	0.?		Sep= 112", 2670 AU; 354 d; NN B, LHS 3738
+77.7	Sm 177	M3V	0.?		NN
+77.7	Wo 9130 C	MVIp	0.?		Subdwarf; B1950= 3:46:45+43:17.6
+77.7	NN	M4Ve	0.?		Uncatalogued GlieseStar; B1950= 9:7:0+6:54.0
+77.7	G 171-8	MV	0.?		V-R= 1.36 Weis; LHS 3991
+77.7	LTT 12694	M0V	0.?		Wo 9312, V 564?
+77.7	BD+04 2309 A	M0V	0.?		Wo 9323 A
+77.7	BD+04 2309 B	M0V	0.?		Wo 9323 B
+77.7	BD+42 2810	M1V	0.?		GJ 1213, Hip 84223, G 203-52, LHS 435, V 167
+77.7	LTT 17963	M3.5 V	0.?	Gemini	LHS 1914, G 87-36, USNO 129
+77.8	S 3	MV	0.?		NN,Hip 24472, LHS 1747
+78.0	BD+71 851	M0V	0.?		Opt Comp B; Gl 690 A, Hip 86340, G 240-65 A, V 172
+78.2	LFT 1608 A	M1V	0.?		Spec. dou.; LFT 1608, Wo 9722, G 231-27, LHS 64
+78.3	G 5-43 A	M3V	0.?		Gl 143.3, Hip 16445, G 5-43, LHS 1554
+78.3	LHS 375	MVI	0.?		Subdwarf; 1995YalePlx; J2000
+78.4	BD+27 1311 A	M0Ve	0.?		Gl 265 A, Hip 34222, V 14
+78.5	BD-17 1959	M0V	0.?		Hip 35943
+78.5	Hip 111932	M0V	0.?		Hip 111932
+78.5	BD+40 1758 B	M1V	0.?		LTT 11947, NN B, G 107-38, V 240 B
+78.6	G 87-28 A	M6V	0.?		NN A
+78.6	LP 60-100	MV	0.?		USNO 711, G 234-43, LHS 2038
+78.6	Hip 54803	M0V	0.?		
+78.9	CD-48 33	M5V	0.?		L 290-72, LTT 123, BPM 30080, CFS 56, Sm 156, Hip 1276
+79.0	BD+39 2801	M2V	0.?		Gl 563.1, Hip 72387, V 884
+79.1	AC+79 4347	M0-1V	0.?		LTT 18361, Wo 9462, Gl 534.2, Hip 67842, G 255-43, V 148
+79.2	BD+45 4188	M0.5V	0.?		Wo 9820, Gl 894.1, Hip 115058, G 216-37
+79.3	L 1150-65 A	M0V	0.?		LTT 16738, LP 581-36, BPM 97728, Rob 348, NN A, Hip 113244, G 28-24
+79.3	BD-14 249	M1V	0.?		Hip 6008
+79.4	Ross 492 A	M3V	0.?		Sep= 1.3", 32 AU; 33 d (LTT); d(m)= .5; LTT 14009, NN A, G 177-58, LHS 2789
+79.5	L 338-152	M3V	0.?		CC 983, Wo 9558, Gl 618.4, Hip 80229, LHS 3185
+79.6	LTT 13537	MV	0.?		LP 321-35, G 148-66, LHS 5217a
+79.6	Ross 70	M3V	0.?		LTT 11782, G 98-44
+79.6	L 1406-34	MV	0.?		LTT 13409, LP 376-34, G 59-7
+79.6	L 1274-24	MV	0.?		LTT 14899, LP 445-22, G 138-33
+79.6	L 1501-51	MV	0.?		LTT 15818, LP 338-6, G 125-43
+79.6	Wolf 983	M3V	0.?		LTT 16456, G 18-25, LHS 5379
+79.6	L 805-8	M2.5V	0.?		LTT 1777, LP 713-28, G 160-22, LHS 1590
+79.6	L 591-70	M3.5V	0.?		LTT 2047, LP 890-46, LHS 1687
+79.6	L 63-18	MV	0.?		LTT 3305, LHS 2072
+79.6	L 79-24	MV	0.?		LTT 7809, LHS 3484
+79.6	Wolf 1556	M3.5V	0.?		LTT 8914
+79.6	Rob 72	M5V	0.?		NN
+79.6	LP 222-15	MV	0.?		NN
+79.6	LP 638-40	MV	0.?		NN
+79.6	PS 176	MV	0.?		NN
+79.6	G 122-20	MV	0.?		NN
+79.6	G 123-61	MV	0.?		LHS 2637
+79.6	G 133-60	MV	0.?		NN
+79.6	LTT 17354	MV	0.?		G 73-45
+79.6	LTT 17383	MV	0.?		G 74-29
+79.6	LP 46328 B	MV	0.?		NN A, G 68-34
+79.6	LP 378-688	MV	0.?		San 236, LHS 5240
+79.6	LTT 10854 B,10855	M3.5V	0.?		Sep= 3", 73 AU; 25 d; d(R)= 0.2, d(pg)= 0.4; LE 7 B, LP 398-8, NN B
+79.6	G 50-16 B	MV	0.?		Sep= 49", 1200 AU; 223 d; LP 544-12, NN B, LHS 1971
+79.6	Steph 626	M0V	0.?		NN, BD+?7 1684
+79.6	LTT 10854 A	M3V	0.?		V(AB)= 13.02, d(m)= 0.3; LTT 10854, LE 7 A, LP 298-7, G 74-34
+79.6	BD+05 4874 B	MV	0.?		Wo 9756 A, Gl 838.1 B, G 93-41, LHS 3720
+79.6	AC+42 849-367	M0Vp	0.?		Wo 9690, Gl 786.1, Hip 99880, V 818
+79.6	LTT 15613 A	M1	?	Aquila	GJ 4100 A, G 22-17
+79.8	USNO 741	MV	0.?		G 136-39, LHS 3005
+79.8	LP 551-13	MV	0.?		LHS 2314
+80.0	Ross 686 A	M4V	0.?		Wo 9282 A, Gl 333.2 A, Hip 44263, G 46-15
+80.0	Ross 686 B, 687	M4-5V	0.?		Wo 9282 B, Gl 333.2 B, G 46-16
+80.1	LTT 17467	MV	0.?		G 78-18, LHS 1499
+80.1	LP 365-22	MV	0.?		LHS 231
+80.3	BD+51 1697	M0Vp	0.?		0 parallax: Heintz AJ99; Wo 9373, GJ 1150, Hip 57493, V 618
+80.3	G 75-30	MV	0.?		LHS 1426
+80.4	BD+02 1766	M0V	0.?		Gl 287, Hip 37798, V 505
+80.4	BD+29 2279	M2V	0.?		LFT 896, Wo 9404, Gl 459.3, Hip 60093, G 121-77, LHS 2544, V 644
+80.5	CD-22 3005	M1.5V	0.?		LTT 2531, GJ 2049, Hip 30256, LHS 1840
+80.6	AC+68 3124	M0V	0.?		LTT 12023, Wo 9235, Gl 275.1, Hip 36635, G 250-49, V 245
+80.6	BD-22 6219	M0.5V	0.?		Gl 911, Hip 117886, V 348
+80.6	BPM 28050	M4V	0.?		Var;Sm 119, Hip 113201
+80.7	Hip 8190	MV	0.?		
+80.7	CD-54 487	M0V	0.?		G l93, Hip 10688, LHS 1379
+80.7	LTT 17665	M4 V	0.?	Taurus	LHS 1686, G 83-22
+80.9	LHS 543a	MV	0.?		
+80.9	Ross 778	M0.5V	0.?		LTT 16274, G 25-32, LHS 3677
+81.1	USNO 778	MV	0.?		G 241-31, LHS 3877
+81.1	LFT 1369	M2V	0.?		Wo 9600, G 154-9, LHS 3320
+81.2	BD-12 4699	M0V	0.?		BPM 78844, Hip 84487, V 166
+81.3	CD-54 8050 B	MV	0.?		Opt Comp A= 109.8 ly; sep 11", 57 d; LTT 7489, L 273-101, NN B, Hip 92756
+81.4	AC+63 32399	M0V	0.?		Wo 9809, Hip 114066, V 858
+81.5	Ross 419 B	M0.5V	0.?		Sep= 31", 770 AU; 101 d; LTT 119115, Ross 419, NN B, G 87-4, LHS 1867
+81.5	Wo 9354	M0V	0.?		B1950= 11:13:48+26:42.0 (?= Hip 55077; K5; 104.98 ly); V 606
+81.5	LP 377-78 A	M4V	0.?		BPM 88513, San 151, GJ 1166 A
+81.5	LTT 13677	MV	0.?		LP 321-147, San 149
+81.5	L 791-76	M3V	0.?		LP 822-31, GJ 1281, LHS 538
+81.5	Ross 324	M0.5V	0.?		LTT 10468, LHS, G 69-63
+81.5	Ross 371	M3.5V	0.?		LTT 11079, G 246-32, LHS 1530
+81.5	Wolf 289	M3V	0.?		LTT 11899, G 109-23
+81.5	Ross 874	M1V	0.?		LTT 11970, G 88-04
+81.5	L 1264-69	MV	0.?		LTT 13794, LP 437-12, G 61-33, LHS 2680
+81.5	L 1421-36	MV	0.?		LTT 15104, LP 332-9, G 170-28
+81.5	Ross 779	M1.5V	0.?		LTT 16371, G 93-39
+81.5	L 230-205	MV	0.?		LTT 1901, L 230-205, LHS 1639
+81.5	L 580-29	M3V	0.?		LTT 442, LP 826-59, G 268-46
+81.5	L 552-4	MV	0.?		LTT 6278, LP 916-51, LHS 3109
+81.5	L 581-64	MV	0.?		LTT 734, LP 883-185, PS 179, TS 389, G 269-139
+81.5	Steph 350	M0V	0.?		NN
+81.5	Steph 2166	M1V	0.?		NN
+81.5	LP 298-52	MV	0.?		NN
+81.5	G 123-16	MV	0.?		NN
+81.5	G 133-61	MV	0.?		NN
+81.5	G 137-74	MV	0.?		LHS 3142
+81.5	G 144-50	MV	0.?		LHS 3610
+81.5	G 161-51	MV	0.?		LHS 2158
+81.5	LP 27-9	MV	0.?		G 263-11
+81.5	G 31-15	MV	0.?		LHS 4046
+81.5	LTT 12080	MV	0.?		G 50-7
+81.5	G 93-6	MV	0.?		NN
+81.5	G 52-23 A	MV	0.?		NN A,
+81.5	G 67-13	M0V	0.?		pm(AC-BDX); L 1293-93, Wo 9793, G 67-13, V 845
+81.5	Steph 1676 A	M0V	0.?		Sep= 3", 75 AU; 70 d; d(R)= 3, Weis ;V(AB)= 10.55, d(m)= 3.5; NN A
+81.5	G 52-23 B	MV	0.?		Sep= 7", 180 AU; 85 d; LP 485-38, NN B
+81.5	LP 377-78 B, -79	M3-3.5V	0.?		Sep= 85", 2100 AU; 53 d (NLTT); BPM 88515, San 152, GJ 1166 B
+81.5	LTT 17347 A	MV	0.?		V(AB)= 12.65, d(m)= 4; NN A, G 74-15
+81.5	BD-00 3077	M0V	0.?		Wo 9413, V 42
+81.6	CD-42 10084	M0V	0.?		Hip 74261
+81.8	AC+47 2368-79	M0V	0.?		Wo 9288, Gl 336.1, Hip 45116, G1 15-59, V 265
+81.8	BD+03 515	M0Vp	0.?		Gl 148, Hip 17207, G 80-17, V 427
+81.8	CD-26 11751	M1V	0.?		Hip 83147
+81.9	BD+58 1441	M0V	0.?		Gl 509.1, Hip 65327, HD 238224, V 688
+82.0	CD-46 10351	M0V	0.?		Hip 77268, HD 329868, CP-46 7681
+82.0	L 1434-37 A	M3V	0.?		LTT 16329, LP 342-8, Hip 106972, G 188-14
+82.2	Ross 394	M3V	0.?		LTT 12045, LFT 536, Wo 9238, G 88-43, LHS 1933
+82.2	Wolf 439	M3.5V	0.?		LTT 13667, G 60-36, LHS 6239
+82.2	L 980-2 A	M3.5V	0.?		LTT 5558, LFT 1076, LP 619-49, NN A, G 64-52, LHS 2875
+82.2	L 980-2 B	MV	0.?		Sep= 21", 530 AU; 125 d (LHS); LP 619-50, NN B, G 64-52, LHS 2876
+82.4	L 220-80	MV	0.?		Var; Sm 178, Gl 43, Hip 4328
+82.4 +/- 14.7	BD-21 3954 B	M4.5 V	0.?	Taurus	LP 858-23, HD 129715 B
+82.6	CD-37 1501	M2.5 V	0.?	Eridanus	Gl 155.3, Hip 18180, LHS 184
+82.8	G 205-20	M1V	0.?		Var; Hip 90306, G 205-20, LHS 3385
+83.0	BPM 70147	M1V	0.?		GR 7, GJ 2003, Hip 1608
+83.1	AC-18 3546	M0V	0.?		LP 769-90, L 728-16, Gl 88, Hip 10312, LHS 1357
+83.2	L 205-83	M2V	0.?		1995 Yale Plx, largeError, 54-110 ly; J2000; Patterson Et Al, 1998; L 205-83, LFT 1378, LTT 7100, LHS 456
+83.2	Wolf 237	M4V	0.?		LTT 11721, Wolf 237, G 96-52, LHS 1784
+83.2	CD-43 2742	M0V	0.?		Hip32939,C-43 2742
+83.2	BD-06 15	M2V	0.?		LTT 74, Hip 897, G 31-30, V 353
+83.4	Hip 64113	M0V	0.?		
+83.4	L 1077-19 A	MV	0.?		LTT 16570, LFT 1717, LP 640-73, Rob 319, NN A, G 18-48, LHS 3808
+83.4	L 1077-19 B	MV	0.?		Sep= 11", 280 AU; 201 d (LHS); LP 640-72, NN B, G 18-48, LHS 3809
+83.4	Hip 114716	M2V	0.?		
+83.5	G 123-49	MV	0.?		Var; Hip 61722, G 123-49
+83.6	BD+03 3032	M0V	0.?		Gl 585.1, Hip 75686, V 742
+83.6	CD-31 7745 A	M0V	0.?		LTT 3630, LDS 290, GJ 1130 A, Hip 48502, U 213
+83.6	L 433-62	M4V	0.?		LFT 1834, LTT 9766, L 433-62, LHS 4038
+83.6	LTT 10808	MV	0.?		LP 353-74
+83.6	Wolf 10	MV	0.?		LTT 10222, G 217-61
+83.6	LTT 11519	MV	0.?		LTT 11519, G 39-37, LHS 1705
+83.6	L 1051-35	MV	0.?		LTT 14085, LP 619-9, G 64-31, LHS 2835
+83.6	Wolf 555	M2V	0.?		LTT 14407, G 66-36
+83.6	L 722-46	MV	0.?		LTT 146, LP 764-92, G 266-83
+83.6	L 275-26	M4V	0.?		LTT 7723, BPM 26201, Sm 39
+83.6	LP 587-31	MV	0.?		NN
+83.6	G 188-28	MV	0.?		LHS 3725
+83.6	G 196-19	MV	0.?		G 196-19
+83.6	LP 5-140	MV	0.?		G 253-21, LHS 2123
+83.6	LTT 10846	M3.5V	0.?		G 4-28
+83.6	LTT 10634	M0V	0.?		G 94-17
+83.6	G 191-30 A	MV	0.?		NN A, G 191-30, LHS 1758
+83.6	G 191-30 B, -29	MV	0.?		NN B,G 191-29, LHS 1757
+83.6	LP 376-62	MV	0.?		San 71
+83.6	Wolf 1019	M2V	0.?		V-I= 1.99 Robertson; LTT 16505, Rob 314, Hip 109756
+83.6?	L 1455-12	M2 V	0.?	Taurus-Perseus	LTT 11417, LP 302-22, G 39-11, GJ 3280
+83.6?	G 92-28	K-M1 V	0.?	Aquila	GJ 4123
+83.7	BD-03 3527	M1-2V	0.?		Wo 9458, Gl 524.1, Hip 67092, V 51
+83.8	AC+28 53670 A	M1V	0.?		Gl 756, Hip 95187, G 185-19, LHS 3456
+83.8	LTT 11315	M3.5V	0.?		LFT 324, Wo 9141, G 175-13, LHS 1618
+83.9	L 166-104	M3V	0.?		LTT 9181, BPM 15055, Sm 114, Hip 112452
+84.1	AC-09 1823-108	M2V	0.?		LTT 4235, Wo 9360, Gl 429.2, Hip 55955, LHS 2412
+84.2	BD+07 2031	M0V	0.?		Hip 43233
+84.3	BD+31 434 A	M0Vp	0.?		V(AB)= 9.59, d(m)= 0.3; Gl 99 A, Hip 11542, G 74-27, V 393
+84.3	BD+35 1890	M0V	0.?		GJ 1115, Hip 43667, G 51-29, V 258
+84.4	BD-08 117 B	M1V	0.?		Wo 9020 B
+84.4	Wo 9147	M0V	0.?		GJ1067,Hip 19655, V 435
+84.4	BD+20 3009	M0V	0.?		Hip 71904
+84.6	Ross 122	M2.5V	0.?		LFT 846, LTT 13307, Hip 58321, G 12-12, LHS 2482
+84.6	CD-24 1826 B	MV	0.?		Sep= 36", 930 AU; 65 d; LP 832-45, Gl 149 B
+84.6	BD+34 724	M0V	0.?		Hip 17458, HD 278968
+84.8	Hip 73194	M0V	0.?		
+84.8	BD+07 3922	M2V	0.?		LTT 15574, L 1138-44, Hip 93248, G 141-52
+84.8	Hip 34712	MV	0.?		
+84.9	L 349-68	M3V	0.?		Gl 769, LHS 480
+85.1	Hip 60121	M0V	0.?		
+85.2	L 168-9 A	M2V	0.?		R-I= 1.03 Weistrop; LTT 9494, BPM 15510, Sm 133, Hip 115211
+85.3	Hip 55988	M0V	0.?		
+85.5	Hip 4223	M2V	0.?		
+85.6	G 18-1	MV	0.?		G 18-1, LHS 3722
+85.6	Hip 49066	MV	0.?		
+85.8	BD+03 3531a	M0Ve	0.?		AC+3 2518-200, Wo 9606, Gl 697.1, Hip 87745, V 324
+86.0	BD-05 5480 A	M1-2V	0.?		BDS 10765 A, Wo 9721 A, Hip 104383, V 332
+86.0	BD+22 2742	M0V	0.?		Hip 72044
+86.1	BD-12 6393	M1-2V	0.?		Gl 883, Hip 113552, V 338
+86.2	Hip 6342	M2V	0.?		
+86.2	CD-47 14002	M4V	0.?		Sm 97, Hip 108523, CP-47 9805
+86.2	LTT 14056	M1.5V	0.?		Wo 9461, Gl 533.1, Hip 67756, G 238-54, LHS 2820
+86.4	BD-14 3902 C	MV	0.?		Sep= 65", 1700 AU; 279 d; LTT 55881, L 836-122, Oo 586, NN C
+86.4	L 1378-25	M0V	0.?		LTT 10935, LP 354-423, Hip 13398, G 36-38, V 406
+86.6	G 191-45	M3V	0.?		Hip 26113
+86.8	LP 378-541	M2V	0.?		GJ 2097, LP 378-541, San 215
+86.8	L 119-44	M3.5V	0.?		LTT 9108, LHS 3836
+86.9	Rob 140	M1-4V	0.?		Hip 11558
+86.9	Hip 99699	M0V	0.?		
+86.9	L 207-33	M2V	0.?		LTT 7481, Sm 23, Hip 92656, LHS 3421
+87.0	CD-45 4397	M1V	0.?		Hip 42601
+87.0	AC+01 1951-103	M0.5Ve	0.?		Var; Gl 182, Hip 23200, V 111
+87.1	HD 329879	M0V	0.?		Hip 77518
+87.2	G 193-37	M0V	0.?		Hip 34796
+87.2	G 165-47	MV	0.?		G 165-47, LHS 364
+87.2 +/- 25.9	LTT 17686	M0 V	0.?	Orion-Eridanus	G 82-48, TYC 88-356-1
+87.3	AC+03 2350-326 A	M0V	0.?		Gl 266, Hip 34341, G 108-56, V 487
+87.4	LTT 10070 A	M4-6V	0.?		ppm(LHS), V(AB)= 12.49, d(m)= 0.4; LP 50-30, Gl 11 A, Hip 1068, G 241-76, LHS 1040
+87.5	AC+16 799-62 A	M0.5-2V	0.?		V(AB)= 10.6, d(m)= 0.2; Wo 9465, Gl 536.1 A, Hip 68551, V 149
+87.6	Sigma Pegasi B	M3V	0.?	Pegasus	AB: sep= 248", 6660 AU; 20 d; LTT 16722, LFT 1744, G 28-21, LHS 3865
+87.6	L 353-143	M2-5V	0.?		Var; L 353-143, Sm 78, Wo 9737, Gl 826.2, Hip 105679, LHS 3666
+87.7	Ross 303	M1V	0.?		LTT 16952, Hip 116497, G 217-13
+88.0	Gamma Crucis A	M3.5III*	0.?	Crux	Giant, var, 3 opt Comp?; HR4763*, Hip 61084, HD 108903, CP-56 5272, SAO 240019, FK5 568, ADS 5672 A?
+88.0	Mu Draconis C	M3V	0.?	Draco	SepAB-C= 14", 380 AU; Wo 9584 C
+88.1	BD+22 1921	M0Ve	0.?		Wo 9262, Gl 305.1, Hip 41130, G 9-2, V 22
+88.2	L 597-31	M0V	0.?		Gl 236, Hip 31148
+89.0	LTT 16947	M0V	0.?		LTT 16947, Hip 116443, G 171-5, LHS 3980
+89.1	L 866-24	M0V	0.?		LTT 137, LP 704-74, G 158-51
+89.4	BD+34 1740	M0Vp	0.?		Wo 9250, GJ 1107, Hip 39612, G 90-43, V 511
+89.5	CD-24 5005	M0V	0.?		Hip 34785, CP-24 2063
+89.6	Wolf 1122	M2V	0.?		LFT 1505, LTT 15835, Wo 9674, Hip 98070, G 230-18, LHS 3499
+89.6	L 810-58	M0.5V	0.?		LTT 2376, Hip 27397
+89.8	Wolf 412 C	M5Ve	0.?		Sep= 222", 6110 AU; 260 d; San 76, NN C, G 148-59
+89.9	L 1422-16 B, -15	M5V	0.?		Sep= 57", 1600 AU; 21 d; LTT 15242, LP 332-46, NN B
+89.9	L 1422-16 A	M1V	0.?		Var; LTT 15241, LP 332-45, NN A, Hip 86423
+90.0	BD+10 378	M0V	0.?		Hip 13342
+90.2	BD-01 167 B	M0V	0.?		Wo 9052 B, Gl 56.3 B, G 70-50, LHS 1229
+90.2	CD-49 10671	M1V	0.?		Hip 80559, HD 330856
+90.6	AC+26 37030	M0V	0.?		Gl 587.1, Hip 75710, V 744
+91.0	BD-06 5559	M1V	0.?		Hip 102115
+91.1	BD+22 2632	M0V	0.?		Hip 67309
+91.2	Ross 129	M1.5V	0.?		Opt Comp B, G8?; Wo 9381, LTT 13296, LFT 862, Hip 58114, G 11-31, LHS 2475
+91.5	CD-31 19078	MV	0.?		Hip 113590
+91.7	Hip 3378	M1V	0.?		
+91.7	Hip 103324	M2V	0.?		
+92.3	Omega Andromedae B	MV	0.?	Andromeda	
+92.3	HR 5189 B	G0-K4 V	?	Centaurus	LHS 2806, HIP 67408 B, CD-35 9019 B
+92.4	G 38-3	MV	0.?		LHS 1562
+92.6	BD+24 3692 A	M0V	0.?		Gl 751, Hip 94622, HD 338030, G 185-14, V 193
+92.6	BD+09 621 B	M3 V	0.?	Taurus	Gl 173.1 B, G 83-29, NLTT 13707
+92.8	BD-04 797	M0V	0.?		Hip 20142
+93.4	AC+03 2561-36	M1V	0.?		Gl 828.1, Hip 105885, V 70
+93.4	Wo 9739	M1V	0.?		Hip 105885, V 70
+93.5 +/- 29.1	LTT 18344	M1 V	0.?	Bootes	G 63-47, G 150-29
+93.6	BD+27 4445 A	M0Vp	0.?		Var; L 16748, Wo 9804 A, Hip 113333
+93.6	CD-33 408	MV	0.?		L 509-35, Hip 5260, G 269-104
+93.6	BD+29 2228	M0Ve	0.?		Wo 9379, Gl 452.4, Hip 58099, G 121-31, V 136
+93.8	BD+52 1514 B	MV	0.?		LP 128-32, NN B
+93.9	CD-45 13383	M1V	0.?		LTT 7786, CFS 18799, Sm 42, Hip 96998, CP-45 9776
+94.0	Wolf 1058	M1.5V	0.?		LTT 11796, G 98-49, LHS 1828
+94.2	Ross 676	M1.5V	0.?		LTT 16992, LFT 1821, AC+64 8806, Hip 117069, G 241-68, LHS4006
+94.3	AC+00 1514-64	M1-2V	0.?		Gl 456, Hip 59198, G 11-40, LHS 2515, V 290
+94.4	BD+12 801 B	MV	0.?		Sep= 94", 2700 AU; 315 d; NN B, G 102-4
+94.6	CD-46 943	MV	0.?		LTT 1509, CFS 873, Gl 126, Hip 14813
+94.8	Hip 4468	M0V	0.?		
+94.9	BD+44 2555	M0V	0.?		Hip 79512
+95.0	Ross 391	M1V	0.?		CC 440, Wo 9241, GJ 1100, Hip 37978, LHS 5127
+95.2	AC+38 34548	M0V	0.?		Gl 588.1, Hip 76202, V 746
+95.2	L 1038-40	M3V	0.?		LTT 12478, LP 607-39, Hip 46087, G 48-10
+95.4	LTT 2452	M2 V	0.?	Pictor	Hip 28754, Wo 9201, LHS 1815
+95.6	Ross 406	M3V	0.?		LTT 11657, LFT 414, G 86-44, LHS 1765
+95.6	LTT 18204 A	M2V	0.?		Hip 59534, G 123-13
+95.8	Hip 10500	M2V	0.?		
+96.0	BD+34 1378	M0V	0.?		Hip 31142, HD 258728
+96.1	CP-67 2198	M0V	0.?		Hip 64180
+96.1	BD+41 4291 B	M1V	0.?		Wo 9760 B, Gl 838.3 B
+96.2	BD+18 3606	M1V	0.?		Gl 708, Hip 89449, HD 348282, V 178
+96.4	CD-36 1091 B	M3V	0.?		L442-13,Wo 9104 B, Gl 118.1 B, LHS 1467
+96.7	BD+78 345	M0V	0.?		Hip 50960
+96.8	L 1506-10	M0V	0.?		Var; LTT 16275, LP 286-3, Hip 105963, G 188-1
+96.9	CD-23 12010	M1V	0.?		Hip 73427, CP-23 6039
+96.9 +/- 35.6	L 997-68	M3 V	0.?	Aquila	LTT 7959, LP 634-18, G 24-5, G 92-55
+97.2	AC-71 462-64 A	MV	0.?		Gl 847 A, Hip 108930, LHS 3751
+97.2	AC-71 462-64 B	MV	0.?		L 118-272, Gl 847 B
+97.2	HB 2124-4228	MV	0.?		1995 Yale Plx, 83-113 ly; J2000; Patterson EtAl, 1998; Hawkins & Besse ll, 1988
+97.3	BD+02 305 B	MV	0.?		Sep= 4", 120 AU; 75 d; d(R)= 2.6, d(pg)= 3.1 (NLTT); LP 589-9, GJ 1041 B
+97.3	BD+02 305 A	M1-2V	0.?		V(AB)= 10.91, d(m)= 3; GJ 1041 A, Hip 9275, G 159-18
+97.3	Eta Ursae Minoris B	MV	0.?	Ursa Minor	Sep= 227", 6880 AU; 125 d (NLTT); NN B
+97.6	BD+58 2015 A	M0Vp	0.?		Wo 9677 A, V 813, Hip 98123, G 230-21, V 813
+97.6	BD+58 2015 B	MV	0.?		Wo 9677 B, G 230-20
+97.6	BD+07 2692	M0V	0.?		Hip 67291
+97.8	Hip 57949	M0V	0.?		
+98.1	BD+49 2004	M0V	0.?		Wo 9342, Hip 53637, V 593
+98.2	G 195-27	MV	0.?		Hip 46385
+98.3	CD-79 290	MV	0.?		Hip 35937, CP-79 249
+98.4	Wolf 409	M0V	0.?		LTT 13466, Hip 60343, G 59-14, LHS 2549
+98.6	CD-46 10604	M0V	0.?		Hip 79456, HD 330399
+98.8	BD+52 2996	M0V	0.?		LTT 16322, Hip 106794, G 231-51
+98.8	L 920-7	M2.5V	0.?		LTT 7282, LP 689-1, G 21-9, LHS 3377
+98.93	AC-04 2788-82	M2V	0.?		LTT 6518, Wo 9555, Gl 618.1, Hip 80053, G 17-11, V 760
+99.0	Hip 263	M1V	0.?		
+99.2	Hip 37177	M0V	0.?		
+99.2	CD-46 14649	M0V	0.?		L 359-33, Sm 135, Gl 895.1, Hip 115648, LHS 5404
+99.23	LTT 9533	M0V	0.?		Wo 9825, Hip 115648
+99.3	CD-81 173	MV	0.?		Hip 25612, CP-81 149
+99.4	Hip 24069	M0V	0.?		
+99.4	LTT 11085 A	MV	0.?		LP 299-53, Hip 15406
+99.6	CD-51 9202	M0V	0.?		Hip 76107
+99.9	Hip 98105	M0V	0.?		
+100	BD-05 2603 A?	M0V	0.?		Gl 316, Hip 42507, V 529

@@ -1,0 +1,76 @@
+8.6	Sirius A	A0-1 Vm	2.02-2.14	Canis Major	Dust, Alp CMa A, HR 2491
+16.7	Altair	A7 V-IV	1.7	Aquila	Subgiant?, dust, Alp Aql, HR 7557
+25.1	Fomalhaut	A3 V	2.3	Pisces Austrinus	Dust, planets?, Alp PsA, HR 8728
+25.3	Vega	A0 V	2.6-3.1	Lyra	Dust, planets?, Alp Lyr, HR 7001, Gl 448
+36.2	Denebola	A3 V	2.3	Leo	Bet Leo, HR 4534
+38.6	Deneb Algedi A	A3-F2 IV-IIIm	2~	Capricornus	Subgiant?, Del Cap A, HR 8322
+46.7	Rasalhague A	A5 III	2.4-4	Ophiuchus	Giant, Alp Oph A, HR 6556
+47.7	Talitha Aa	A7 IV	1.7	Ursa Major	Subgiant, no SB?, Iot UMa A, HR 3569
+48.8	Alderamin	A7 IV-V	1.9	Cepheus	Subgiant?, Alp Cep, HR 8162
+51.6	Castor Aa	A1 V	2.15	Gemini	Sextuple, Alp Gem Aa, HR 2891
+51.6	Castor Ba	A2-5 V	1.7	Gemini	Alp Gem Ba, HR 2890
+53.5	Alpha Circini Aa?	A-F1 IV-Vp	1.?	Circinus	Subgiant?, Alp Cir A, HR 5463
+57.7	Zosma	A4 V	2.2	Leo	Del Leo, HR 4357, Gl 419
+58.6	Iota Centauri	A2 V	2?	Centaurus	Iot Cen, HR 5028, Gl 508.1
+59.6	Sheratan A	A5 V	2~	Aries	Bet Ari A, HR 553, Gl 80
+62.9	Beta Pictoris	A5 V	1.75	Pictor	Planets?, dust, Bet Pic, HR 2020
+70.2	Zeta Leporis A	A2-3 V	2?	Lepus	Zet Lep A, asteroids, HR 1998, Gl 217.1
+70.3	Epsilon Serpentis	A2 Vm	2?	Serpens	Eps Ser , HR 5892, HD 141795
+73.2	Heze	A3 V	1.9	Virgo	Zet Vir, HR 5107, HD 118098
+74.7	Alphecca A	A0 V	2.7	Corona Borealis	Alp CrB A, HR 5793, HD 139006
+76.7	Kappa Phoenicis	A7 Vn	1-2?	Phoenix	Kap Phe, HR 2072, Gl 20
+77.2	Zubenelgenubi Aa	A3 III-Vm	1-2?	Libra	Giant?, Alp2 Lib A, HR 5531
+77.2	Zubenelgenubi Ab	A V	1-2?	Libra	Alp2 Lib B
+78.2-79.7	Mizar Aa	A1-2 Vp	2.5	Ursa Major	Quintuple, Zet UMa Aa, HR 5054
+78.2-79.7	Mizar Aa	A1-2 V	2.5	Ursa Major	Zet UMa Ab
+78.2-79.7	Mizar Ba	A5-7 Vm	1.6	Ursa Major	Zet UMa Ba, HR 5055
+78.2-79.7	Mizar Bb	A5-7 Vm	1.6	Ursa Major	Zet UMa Bb
+78.2-79.7	Alcor	A1-5 Vp	1.6	Ursa Major	Mizar C, 80 UMa, HR 5706
+78.5	Sarin A	A3 IV	1-2.?	Hercules	Subgiant, Del Her A, HR 6410
+78.8	Eta Indi	A7 III-IV	1-2?	Indus	Giant?, Eta Ind, HR 7920
+79.4	Merak A	A1 V	2.7~	Ursa Major	Dust, Bet UMa A, HR 4295
+79.8	Koo She Aa	A0-1 V	2.7	Vela	Quintuple, Del Vel Aa, HR 3485
+79.8	Koo She Ab	A5 V	2.0	Vela	Del Vel Ab
+80.9	Alioth A?	A0 Vp	2-3	Ursa Major	Eps UMa, HR 4905, HD 112185
+81.4	Megrez A?	A3 V	2~	Ursa Major	Del UMa, HR 4460, HD 106591
+82.0	Alkaffaljidhina A	A2-3 V	2~	Cetus	Gam Cet A, HR 804, HD 16970
+82.1	Menkalinan Aa	A2 IV-V	2?	Auriga	Subgiant?, Bet Aur, HR 2088
+82.1	Menkalinan Ab	A2 IV-V	2?	Auriga	Subgiant?, Bet Aur Ab
+82.8	72 Ophiuchi Aa	A4 IV-Vs	1-2.?	Ophiuchus	Subgiant?, 72 Oph, HR 6771
+83.2	Dheneb Aa	A0 Vn	2.4	Aquila	Zet Aql, HR 7235
+83.6	Phecda A	A0 Ve	2.7	Ursa Major	Gam UMa, HR 4554
+83.7	44 Ophiuchi	A3-9 IV-Vm	1-2?	Ophiuchus	Subgiant?, 44 Oph, HR 6486
+83.8	Gamma Crateris A	A5-9 V	1-2?	Crater	Gam Crt, HR 4405, HD 99211
+84.1	Sabik A	A2.5 Va	2?	Ophiuchus	Eta Oph A, HR 6378, HD 115125
+84.1	Sabik B	A3 V	2?	Ophiuchus	Eta Oph B
+85.2	Seginus	A7 IIIv	2+	Bootes	Giant, Gam Boo, HR 5435
+86.2	Tau3 Eridani	A4 IV-V	1-2?	Eridanus	Subgiant?, Tau3 Eri, HR 919
+86.5	p Velorum	A3-F3 IV-Vm	1+	Vela	Subgiant?, p Vel, HR 4167, CD-47 6042
+88.9	Cursa A?	A3 III	2-2.5	Eridanus	Giant, Bet Eri, HR 1666
+89.0	59 Draconis A?	A9-F2 V	1-2?	Draco	59 Dra, HR 7312, HD 180777
+89.1	Ascella A	A2 V-III	2.2	Sagittarius	Probable dwarf, Zet Sag, HR 7194
+89.1	Ascella B	A2-4 V-IV	2.1	Sagittarius	Probable dwarf, Zet Sag B
+91.1	38 Geminorum A	A9-F0 Vp	1-2?	Gemini	38 Gem, HR 2564, HD 50635
+91.2	21 Leonis Minoris	A7 V	1-2?	Leo Minor	21 LMi, HR 3974, HD 87696
+92.7	111 Herculis A	A3 III	2+	Hercules	Giant, 111 Her, HR 7069
+92.8	Algol C	A5 V	1.?	Perseus	Bet Per C, HR 936B, BD+40 673 B
+93.0	q Puppis	A4-7 III	2+	Puppis	Giant, q Pup, HR 3270
+93.2	Pi Piscis Austrini A	A9-F0 V	1-2?	Pisces Austrinus	Pi PsA, HR 8767, HD 217792
+93.5	Omega2 Tauri A?	A3 Vm	2?	Taurus	Ome2 Tau, HR 1329, HD 27045
+94.1	8 Draconis	A5-F0 Vn	1-2?	Draco	8 Dra, HR 4916, HD 112429
+94.3	Nu Indi A	A3 V	2?	Indus	Nu2 Ind, HR 8515, HD 211998
+94.3	Lambda Geminorum Aa	A3 V	2?	Gemini	Lam Gem, HR 2763, HD 56537
+94.8	Gamma Ophiuchi A	A0 Vnp	2-3?	Ophiuchus	Gam Oph, HR 6629, HD 161868
+95.0	CD-36 12714	A7 V+	1-2?	Sagittarius	HD 170368
+95.3	HR 7012	A5-7 IV-V	1.8	Pavo	Subgiant?, CP-64 3948, HD 172555, planetary collision
+95.6	15 Ursae Majoris	A1 Vm	1-2?	Ursa Major	15 UMa, HR 3619, HD 78209
+96.6	Biham A	A2 V	2?	Pegasus	The Peg, HR 8450, HD 210418
+96.6	Beta Circini	A3 V	2?	Circinus	Bet Cir, HR 5670, HD 135379
+97.1	Theta Indi A	A5 V	1-2?	Indus	The Ind, HR 8140, HD 202730
+97.1	Theta Indi B	A7 V	1-2?	Indus	The Ind B
+97.1	Lambda Bootis	A0 Vpsh	2-3?	Bootes	Lmb Boo, HR 5351, HD 125162
+97.2	Iota Bootis Aa	A7-9 V	1-2?	Bootes	Iot Boo, HR 5350, HD 125161
+99.0	Alpha Pictoris A	A7 IV	1+	Pictor	Subgiant, Alp Pic, HR 2550
+99.0	Kuma A	A6 Vm	1-2?	Draco	Nu1 Dra, HR 65543, HD 159541
+99.4	Rucbah A	A5 III-IV	2.5	Cassiopeia	Giant?, Del Cas A, HR 403
+99.9	Nu2 Draconis A	A4 Vm	1-2?	Draco	Nu2 Dra, HR 6555, HD 159560

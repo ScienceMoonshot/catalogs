@@ -1,0 +1,4 @@
+77.5	Regulus Aa	B7 Ve	3.4	Leo	Alp Leo A, HR3982
+87.9	Algorab A	B9.5-A0 V	2.5	Corvus	Del Cor A, HR 4757
+92.8	Algol A	B5-8 V	3.6	Perseus	Bet Per A, HR 936
+97.1	Alpheratz A	B8-9 V-IVp	?	Andromeda	Subgiant?, Alp And A, HR 15
