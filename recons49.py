@@ -13,7 +13,7 @@ class Catalog:
     bins = [3, 5, 10, 15, 20, 25, 32]
     bgcolor = 'k'
 
-    def __init__(self, fn='recons100.txt'):
+    def __init__(self, fn='recons49.txt'):
         self.cat = []
         self.catclump = {}
         self.spec_types = {}
@@ -40,20 +40,13 @@ class Catalog:
 
     def _prow(self, row):
         try:
-            self.sysnum = int(row[:3])
+            self.sysnum = int(row[:2])
         except ValueError:
             pass
-        name = row[4:13].strip()
-        ra = [float(x) for x in row[34:44].split()]
-        ra = ra[0] + ra[1] / 60.0 + ra[2] / 3600.0
-        dec = [float(x) for x in row[45:54].split()]
-        dec = sign(dec[0]) * (abs(dec[0]) + dec[1] / 60.0 + dec[2] / 3600.0)
-        try:
-            mass = float(row[126:131])
-        except ValueError:
-            mass = -1.0
-        notes = row[132:152].strip()
-        spec = row[99:103].strip()
-        common_name = row[155:].strip()
-        rd = Namespace(sysnum=copy(self.sysnum), name=name, ra=ra, dec=dec, spec=spec, common_name=common_name, mass=mass, notes=notes)
+        name = row[3:36].strip()
+        radec = [float(x) for x in row[43:82].strip().split()]
+        ra = radec[0] + radec[1] / 60.0 + radec[2] / 3600.0
+        dec = sign(radec[3]) * (abs(radec[3]) + radec[4] / 60.0 + radec[5] / 3600.0)
+        spec = row[133:155].strip()
+        rd = Namespace(sysnum=copy(self.sysnum), name=name, ra=ra, dec=dec, spec=spec)
         return rd

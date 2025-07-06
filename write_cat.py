@@ -1,11 +1,14 @@
 """
 This takes the input catalog data and writes out the LFT3 catalog.  Only should need once.
 """
-import isaacsonetal, ly100
+import isaacsonetal, ly100, recons100, recons49
+import csv
 
 
 iea = isaacsonetal.Catalog()
 ly100 = ly100.Catalog()
+recons100 = recons100.Catalog()
+recons49 = recons49.Catalog()
 
 fields = [
     'Name',           # Name of the star
@@ -15,7 +18,6 @@ fields = [
     'Dec',            # Declination in decimal degrees
     'SpectralType',   # Spectral classification
     'Mass',           # Mass in solar masses
-    'Mag',            # Magnitude of the star
     'Notes',          # Additional notes
     'OtherNames',     # Other designations
     'Constellation',  # Constellation of the star
@@ -27,7 +29,8 @@ pc2m = 3.08567758128E+16
 pc2ly = 3.26156
 
 with open('lft3cat.csv', 'w') as fp:
-    print(','.join(fields), file=fp)
+    writer = csv.writer(fp)
+    writer.writerow(fields)
 
     for row in iea.cat:
         data = {
@@ -38,13 +41,13 @@ with open('lft3cat.csv', 'w') as fp:
             'Dec': f"{row.Dec:.3f}",
             'SpectralType': row.spec,
             'Mass': '',
-            'Mag': row.mag,
             'Notes': '',
             'OtherNames': '',
             'Constellation': '',
             'Source': 'Isaacson et al.'
         }
-        print(','.join(str(data[field]) for field in fields), file=fp)
+        row = [data[field] for field in fields]
+        writer.writerow(row)
 
     for row in ly100.cat:
         data = {
@@ -55,10 +58,44 @@ with open('lft3cat.csv', 'w') as fp:
             'Dec': 0.0,
             'SpectralType': row.spec,
             'Mass': '',
-            'Mag': row.mag,
             'Notes': row.notes,
             'OtherNames': row.other,
             'Constellation': row.constellation,
-            'Source': 'SolStation'
+            'Source': 'https://chview.nova.org/solcom/'
         }
-        print(','.join(str(data[field]) for field in fields), file=fp)
+        row = [data[field] for field in fields]
+        writer.writerow(row)
+
+    for row in recons100.cat:
+        data = {
+            'Name': row.name,
+            'Distance': '0.0',
+            'Distance_err': '0.0',
+            'RA': f"{row.ra:.4f}",
+            'Dec': f"{row.dec:.3f}",
+            'SpectralType': row.spec,
+            'Mass': row.mass,
+            'Notes': row.notes,
+            'OtherNames': row.common_name,
+            'Constellation': '',
+            'Source': 'recons100'
+        }
+        row = [data[field] for field in fields]
+        writer.writerow(row)
+
+    for row in recons49.cat:
+        data = {
+            'Name': row.name,
+            'Distance': '0.0',
+            'Distance_err': '0.0',
+            'RA': f"{row.ra:.4f}",
+            'Dec': f"{row.dec:.3f}",
+            'SpectralType': row.spec,
+            'Mass': 0.0,
+            'Notes': '',
+            'OtherNames': '',
+            'Constellation': '',
+            'Source': 'recons49'
+        }
+        row = [data[field] for field in fields]
+        writer.writerow(row)
