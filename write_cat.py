@@ -28,7 +28,7 @@ fields = [
 pc2m = 3.08567758128E+16
 pc2ly = 3.26156
 
-with open('lft3cat.csv', 'w') as fp:
+with open('lft3cat_V.csv', 'w') as fp:
     writer = csv.writer(fp)
     writer.writerow(fields)
 
@@ -78,7 +78,7 @@ with open('lft3cat.csv', 'w') as fp:
             'Notes': row.notes,
             'OtherNames': row.common_name,
             'Constellation': '',
-            'Source': 'recons100'
+            'Source': 'http://www.recons.org/TOP100.posted.htm'
         }
         row = [data[field] for field in fields]
         writer.writerow(row)
@@ -95,7 +95,7 @@ with open('lft3cat.csv', 'w') as fp:
             'Notes': '',
             'OtherNames': '',
             'Constellation': '',
-            'Source': 'recons49'
+            'Source': '2006AJ....132.2360H'
         }
         row = [data[field] for field in fields]
         writer.writerow(row)

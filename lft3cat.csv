@@ -5629,219 +5629,219 @@ LTT 11085 A,99.40,0.0,0.0,0.0,MV,,"LP 299-53, Hip 15406",,,https://chview.nova.o
 CD-51 9202,99.60,0.0,0.0,0.0,M0V,,Hip 76107,,,https://chview.nova.org/solcom/
 Hip 98105,99.90,0.0,0.0,0.0,M0V,,,,,https://chview.nova.org/solcom/
 BD-05 2603 A?,100.00,0.0,0.0,0.0,M0V,,"Gl 316, Hip 42507, V 529",,,https://chview.nova.org/solcom/
-GJ  551,0.0,0.0,14.4953,-62.679,M5.0,0.11,"separation 7849""",Proxima Centauri,,recons100
-GJ  559,0.0,0.0,14.6601,-60.834,G2.0,1.14,,alpha Centauri A,,recons100
-GJ  559,0.0,0.0,14.6598,-60.837,K0,0.92,"orbit 18""",alpha Centauri B,,recons100
-GJ  699,0.0,0.0,17.9635,4.693,M3.5,0.16,,Barnard's Star,,recons100
-GJ  406,0.0,0.0,10.9414,7.015,M5.5,0.09,,Wolf 359,,recons100
-GJ  411,0.0,0.0,11.0556,35.970,M2.0,0.46,,Lalande 21185,,recons100
-GJ  244,0.0,0.0,6.7525,-16.716,A1.0,1.99,,Sirius,,recons100
-GJ  244,0.0,0.0,6.7525,-16.716,A2,1.0,"orbit 8""",Sirius B,,recons100
-GJ   65,0.0,0.0,1.6504,-17.950,M5.5,0.11,,BL Ceti,,recons100
-GJ   65,0.0,0.0,1.6504,-17.950,M6.0,0.1,"orbit < 2""",UV Ceti,,recons100
-GJ  729,0.0,0.0,18.8304,-23.836,M3.5,0.17,,Ross 154,,recons100
-GJ  905,0.0,0.0,23.6985,44.175,M5.5,0.12,,Ross 248,,recons100
-GJ  144,0.0,0.0,3.5488,-9.458,K2.0,0.85,cold dust,epsilon Eridani,,recons100
-GJ  144,0.0,0.0,3.5488,-9.458,plan,-1.0,"orbit < 2""",,,recons100
-GJ  887,0.0,0.0,23.0978,-35.853,M1.0,0.53,,Lacaille 9352,,recons100
-GJ  447,0.0,0.0,11.7957,0.000,M4.0,0.16,,Ross 128,,recons100
-GJ  866,0.0,0.0,22.6426,-15.302,M5.0,0.11,,EZ Aquarii A,,recons100
-GJ  866,0.0,0.0,22.6426,-15.302,M,0.11,"orbit < 2""",EZ Aquarii B,,recons100
-GJ  866,0.0,0.0,22.6426,-15.302,M,0.08,"orbit < 2""",EZ Aquarii C,,recons100
-GJ  820,0.0,0.0,21.1150,38.749,K5.0,0.7,,61 Cygni A,,recons100
-GJ  820,0.0,0.0,21.1154,38.742,K7.0,0.63,"orbit 25""",61 Cygni B,,recons100
-GJ  280,0.0,0.0,7.6550,5.225,F5 I,1.57,,Procyon,,recons100
-GJ  280,0.0,0.0,7.6550,5.225,QZ,0.5,"*  orbit 4""",Procyon B,,recons100
-GJ  725,0.0,0.0,18.7130,59.630,M3.0,0.35,,,,recons100
-GJ  725,0.0,0.0,18.7130,59.627,M3.5,0.26,"orbit 14""",,,recons100
-GJ   15,0.0,0.0,0.3064,44.023,M1.5,0.49,,GX Andromedae,,recons100
-GJ   15,0.0,0.0,0.3064,44.023,M3.5,0.16,"orbit 41""",GQ Andromedae,,recons100
-GJ  845,0.0,0.0,22.0560,-56.786,K4.0,0.77,,epsilon Indi A,,recons100
-GJ  845,0.0,0.0,22.0696,-56.783,T1.0,0.03,"*  separation 402""",epsilon Indi B,,recons100
-GJ  845,0.0,0.0,22.0696,-56.783,T6.0,0.03,"*  separation < 2""",epsilon Indi C,,recons100
-GJ 1111,0.0,0.0,8.4971,26.777,M6.0,0.09,,DX Cancri,,recons100
-GJ   71,0.0,0.0,1.7345,-15.938,G8.5,0.92,,tau Ceti,,recons100
-GJ 1061,0.0,0.0,3.5999,-44.513,M5.0,0.11,,"Henry et al. 1997, Henry et al. 2006",,recons100
-GJ   54.,0.0,0.0,1.2085,-16.999,M4.0,0.13,,YZ Ceti,,recons100
-GJ  273,0.0,0.0,7.4568,5.226,M3.5,0.26,,Luyten's Star,,recons100
-SCR 1845,0.0,0.0,18.7515,-63.963,M8.5,0.07,,Henry et al. 2006,,recons100
-SCR 1845,0.0,0.0,18.7507,-63.964,T6.0,0.03,*,Biller et al. 2006,,recons100
-SO 0253+,0.0,0.0,2.8836,16.881,M6.5,0.08,,Henry et al. 2006,,recons100
-GJ  191,0.0,0.0,5.1946,-45.018,M2.0,0.39,,Kapteyn's Star,,recons100
-GJ  825,0.0,0.0,21.2876,-38.867,K9.0,0.6,,AX Microscopii,,recons100
-DEN 1048,0.0,0.0,10.8041,-39.935,M8.5,0.07,,"Jao et al. 2005, Costa et al. 2005",,recons100
-GJ  860,0.0,0.0,22.4665,57.696,M3.0,0.28,,Kruger 60 A,,recons100
-GJ  860,0.0,0.0,22.4665,57.696,M4.0,0.16,"orbit 2""",Kruger 60 B,,recons100
-GJ  234,0.0,0.0,6.4898,-2.814,M4.5,0.17,,Ross 614 A,,recons100
-GJ  234,0.0,0.0,6.4898,-2.814,M,0.1,"orbit < 2""",Ross 614 B,,recons100
-GJ  628,0.0,0.0,16.5050,-12.662,M3.5,0.26,,Wolf 1061,,recons100
-GJ   35,0.0,0.0,0.8194,5.389,Z7,0.5,*,van Maanen's Star,,recons100
-GJ    1,0.0,0.0,0.0901,-37.358,M1.5,0.48,,,,recons100
-GJ  473,0.0,0.0,12.5548,9.021,M5.0,0.12,,Wolf 424 A,,recons100
-GJ  473,0.0,0.0,12.5548,9.021,M,0.12,"orbit < 2""",Wolf 424 B,,recons100
-GJ   83.,0.0,0.0,2.0037,13.052,M4.0,0.14,,TZ Arietis,,recons100
-GJ  687,0.0,0.0,17.6072,68.339,M3.0,0.39,,,,recons100
-LHS 292,0.0,0.0,10.8035,-11.337,M6.5,0.08,,,,recons100
-GJ 1245,0.0,0.0,19.8984,44.415,M5.5,0.11,,G 208-044 A,,recons100
-GJ 1245,0.0,0.0,19.8984,44.415,M,0.07,"orbit < 2""",G 208-044 B,,recons100
-GJ 1245,0.0,0.0,19.8987,44.416,M6.0,0.1,"separation 8""",G 208-045,,recons100
-GJ  674,0.0,0.0,17.4777,-46.895,M2.5,0.36,,,,recons100
-GJ  674,0.0,0.0,17.4777,-46.895,plan,-1.0,"orbit < 2""",,,recons100
-GJ  440,0.0,0.0,11.7619,-64.841,Q6,0.5,*,WD 1142-645,,recons100
-GJ  876,0.0,0.0,22.8880,-14.264,M3.5,0.27,,Ross 780,,recons100
-GJ  876,0.0,0.0,22.8880,-14.264,plan,-1.0,"orbit < 2""",,,recons100
-GJ  876,0.0,0.0,22.8880,-14.264,plan,-1.0,"orbit < 2""",,,recons100
-GJ  876,0.0,0.0,22.8880,-14.264,plan,-1.0,"orbit < 2""",,,recons100
-GJ  876,0.0,0.0,22.8880,-14.264,plan,-1.0,"orbit < 2""",,,recons100
-GJ 1002,0.0,0.0,0.1122,-7.539,M5.0,0.11,,,,recons100
-LHS 288,0.0,0.0,10.7392,-61.210,M5.5,0.11,,Henry et al. 2006,,recons100
-GJ  412,0.0,0.0,11.0913,43.527,M1.0,0.48,,,,recons100
-GJ  412,0.0,0.0,11.0918,43.522,M5.5,0.1,"separation 28""",WX Ursae Majoris,,recons100
-GJ  380,0.0,0.0,10.1895,49.454,K7.0,0.64,,,,recons100
-GJ  388,0.0,0.0,10.3268,19.869,M2.5,0.39,,,,recons100
-GJ  832,0.0,0.0,21.5594,-49.009,M1.5,0.5,,,,recons100
-GJ  832,0.0,0.0,21.5594,-49.009,plan,-1.0,"orbit < 2""",Bailey et al. 2009,,recons100
-LP 944-0,0.0,0.0,3.6598,-35.428,M9.0,0.07,,,,recons100
-DEN 0255,0.0,0.0,2.9177,-47.014,L7.5,0.05,*,Costa et al. 2005,,recons100
-GJ  166,0.0,0.0,4.2545,-7.653,K0.5,0.89,,omicron 2 Eridani,,recons100
-GJ  166,0.0,0.0,4.2561,-7.660,A4,0.5,"*  separation 83""",,,recons100
-GJ  166,0.0,0.0,4.2561,-7.660,M4.0,0.18,"orbit 7""",,,recons100
-GJ  873,0.0,0.0,22.7805,44.334,M3.5,0.28,,EV Lacertae,,recons100
-GJ  682,0.0,0.0,17.6177,-44.319,M4.0,0.2,,,,recons100
-GJ  702,0.0,0.0,18.0909,2.500,K0.0,0.92,,70 Ophiuchi A,,recons100
-GJ  702,0.0,0.0,18.0909,2.500,K5,0.7,"orbit 5""",70 Ophiuchi B,,recons100
-GJ  768,0.0,0.0,19.8464,8.868,A7 I,1.71,,Altair,,recons100
-GJ 1116,0.0,0.0,8.9708,19.762,M5.5,0.11,,EI Cancri,,recons100
-GJ 1116,0.0,0.0,8.9708,19.764,M,0.1,"separation < 2""",,,recons100
-G 099-04,0.0,0.0,6.0010,2.707,M3.5,0.19,,Henry et al. 2006,,recons100
-LHS 1723,0.0,0.0,5.0326,-6.946,M4.0,0.15,,Henry et al. 2006,,recons100
-2MA 0939,0.0,0.0,9.6599,-24.808,T8.0,0.03,*,Burgasser et al. 2008,,recons100
-GJ  445,0.0,0.0,11.7948,78.691,M3.5,0.24,,,,recons100
-GJ  526,0.0,0.0,13.7622,14.891,M1.0,0.53,,Wolf 498,,recons100
-GJ  169.,0.0,0.0,4.5199,58.977,M4.0,0.2,,Stein 2051,,recons100
-GJ  169.,0.0,0.0,4.5199,58.977,C5,0.5,"*  separation 8""",,,recons100
-GJ  251,0.0,0.0,6.9136,33.268,M3.0,0.34,,,,recons100
-2MA 1835,0.0,0.0,18.5939,32.998,M8.5,0.07,,Reid et al. 2003,,recons100
-GJ  205,0.0,0.0,5.5243,-3.677,M1.0,0.57,,Wolf 1453,,recons100
-LP 816-0,0.0,0.0,20.8758,-16.975,M3.5,0.19,,,,recons100
-2MA 0415,0.0,0.0,4.2554,-9.585,T8.0,0.03,*,Vrba et al. 2004,,recons100
-GJ  764,0.0,0.0,19.5393,69.661,G9.0,0.89,,sigma Draconis,,recons100
-GJ  229,0.0,0.0,6.1763,-21.865,M1.5,0.56,,,,recons100
-GJ  229,0.0,0.0,6.1763,-21.865,T6.0,0.03,"*  separation 8""",,,recons100
-GJ  213,0.0,0.0,5.7026,12.489,M4.0,0.18,,Ross 47,,recons100
-GJ  693,0.0,0.0,17.7762,-57.319,M3.0,0.26,,,,recons100
-GJ  752,0.0,0.0,19.2820,5.169,M2.5,0.5,,Wolf 1055,,recons100
-GJ  752,0.0,0.0,19.2829,5.150,M8.0,0.07,"separation 74""",van Biesbroeck 10,,recons100
-GJ  570,0.0,0.0,14.9578,-21.416,K4.0,0.78,,,,recons100
-GJ  570,0.0,0.0,14.9574,-21.411,M1.5,0.55,"separation 22""",,,recons100
-GJ  570,0.0,0.0,14.9574,-21.411,M,0.36,"orbit < 2""",,,recons100
-GJ  570,0.0,0.0,14.9542,-21.364,T7.0,0.03,"*  separation 258""",,,recons100
-GJ  754,0.0,0.0,19.3467,-45.557,M4.0,0.16,,Jao et al. 2005,,recons100
-GJ  588,0.0,0.0,15.5369,-41.276,M2.5,0.46,,,,recons100
-GJ 1005,0.0,0.0,0.2578,-16.134,M3.5,0.18,,,,recons100
-GJ 1005,0.0,0.0,0.2578,-16.134,M,0.11,"orbit < 2""",,,recons100
-GJ   34,0.0,0.0,0.8184,57.815,G3,1.11,,eta Cassiopei A,,recons100
-GJ   34,0.0,0.0,0.8184,57.815,K7.0,0.6,"orbit 12""",eta Cassiopei B,,recons100
-GJ  663,0.0,0.0,17.2558,-26.603,K1.5,0.85,,36 Ophiuchi A,,recons100
-GJ  663,0.0,0.0,17.2558,-26.603,K,0.85,"orbit 14""",36 Ophiuchi B,,recons100
-GJ  664,0.0,0.0,17.2704,-26.546,K5.0,0.71,"separation 732""",36 Ophiuchi C,,recons100
-GJ  908,0.0,0.0,23.8201,2.401,M1.0,0.51,,,,recons100
-GJ  285,0.0,0.0,7.7445,3.552,M4.0,0.2,,Ross 882,,recons100
-GJ  783,0.0,0.0,20.1866,-36.101,K2.5,0.82,,,,recons100
-GJ  783,0.0,0.0,20.1866,-36.101,M4.0,0.19,"separation 7""",,,recons100
-GJ  139,0.0,0.0,3.3321,-43.070,G8.0,0.97,,82 Eridani,,recons100
-GJ 1221,0.0,0.0,17.8019,70.875,XP9,0.5,*,,,recons100
-GJ  338,0.0,0.0,9.2397,52.687,M0.0,0.6,,,,recons100
-GJ  338,0.0,0.0,9.2402,52.686,K7.0,0.6,"orbit 17""",,,recons100
-GJ  780,0.0,0.0,20.1454,-66.182,G8.0,1.1,,delta Pavonis,,recons100
-GJ  268,0.0,0.0,7.1672,38.529,M4.5,0.17,,QY Aurigae A,,recons100
-GJ  268,0.0,0.0,7.1672,38.529,M,0.16,"orbit < 2""",QY Aurigae B,,recons100
-2MA 0937,0.0,0.0,9.6264,29.528,T6.0,0.03,*,Vrba et al. 2004,,recons100
-GJ  784,0.0,0.0,20.2315,-45.164,M0.0,0.58,,,,recons100
-GJ  555,0.0,0.0,14.5713,-12.519,M4.0,0.2,,HN Librae,,recons100
-GJ  896,0.0,0.0,23.5312,19.937,M3.5,0.33,,EQ Pegasi,,recons100
-GJ  896,0.0,0.0,23.5312,19.937,M4.5,0.16,"orbit 7""",,,recons100
-GJ  581,0.0,0.0,15.3241,-7.722,M3.0,0.3,,Wolf 562,,recons100
-GJ  581,0.0,0.0,15.3241,-7.722,plan,-1.0,"orbit < 2""",Bonfils et al. 2005,,recons100
-GJ  581,0.0,0.0,15.3241,-7.722,plan,-1.0,"orbit < 2""",Udry et al. 2007,,recons100
-GJ  581,0.0,0.0,15.3241,-7.722,plan,-1.0,"orbit < 2""",Udry et al. 2007,,recons100
-GJ  581,0.0,0.0,15.3241,-7.722,plan,-1.0,"orbit < 2""",Mayor et al. 2009,,recons100
-LHS 2090,0.0,0.0,9.0066,21.835,M6.0,0.09,,Henry et al. 2006,,recons100
-LHS 337,0.0,0.0,12.6470,-38.382,M4.0,0.15,,Henry et al. 2006,,recons100
-GJ  661,0.0,0.0,17.2022,45.666,M3.0,0.39,,,,recons100
-GJ  661,0.0,0.0,17.2022,45.666,M,0.33,"orbit < 2""",,,recons100
-GJ  223.,0.0,0.0,5.9194,-4.171,Z9,0.5,*,WD 0552-041,,recons100
-G 180-06,0.0,0.0,16.5218,40.865,M5.0,0.1,,,,recons100
-GJ  644,0.0,0.0,16.9247,-8.336,M2.5,0.42,,Wolf 630 A,,recons100
-GJ  644,0.0,0.0,16.9247,-8.336,M,0.33,"orbit < 2""",Wolf 630 B,,recons100
-GJ  644,0.0,0.0,16.9247,-8.336,M,0.27,"orbit < 2""",Wolf 630 C,,recons100
-GJ  644,0.0,0.0,16.9266,-8.394,M7.0,0.08,"separation 221""",van Biesbroeck 8,,recons100
-GJ  643,0.0,0.0,16.9237,-8.322,M3.0,0.18,"separation 72""",Wolf 629,,recons100
-GJ  625,0.0,0.0,16.4235,54.304,M1.5,0.37,,,,recons100
-GJ 1128,0.0,0.0,9.7129,-68.885,M4.0,0.15,,Jao et al. 2005,,recons100
-GJ 1156,0.0,0.0,12.3167,11.125,M4.5,0.12,,GL Virginis,,recons100
-GJ  892,0.0,0.0,23.2214,57.168,K3.0,0.81,,,,recons100
-LHS 3003,0.0,0.0,14.9440,-28.164,M7.0,0.08,,,,recons100
-GJ  408,0.0,0.0,11.0012,22.833,M2.5,0.39,,Ross 104,,recons100
-GJ  829,0.0,0.0,21.4936,17.643,M3.0,0.26,,Ross 775 A,,recons100
-GJ  829,0.0,0.0,21.4936,17.643,M,0.26,"orbit < 2""",Ross 775 B,,recons100
-G 041-01,0.0,0.0,8.9823,8.474,M3.5,0.18,,Henry et al. 2006,,recons100
-G 041-01,0.0,0.0,8.9823,8.474,M,0.17,,,,recons100
-G 041-01,0.0,0.0,8.9823,8.474,M,0.17,,,,recons100
-GJ  566,0.0,0.0,14.8565,19.101,G7.0,0.94,,ksi Bootis A,,recons100
-GJ  566,0.0,0.0,14.8565,19.101,K4,0.67,"orbit 5""",ksi Bootis B,,recons100
-GJ  402,0.0,0.0,10.8478,6.808,M4.0,0.2,,EE Leonis,,recons100
-GJ  880,0.0,0.0,22.9430,16.553,M1.5,0.55,,Ross 671,,recons100
-GJ  299,0.0,0.0,8.1993,8.774,M4.0,0.15,,Ross 619,,recons100
-LP 771-0,0.0,0.0,3.0309,-16.593,M2.5,0.25,,Henry et al. 2006,,recons100
-LP 771-0,0.0,0.0,3.0308,-16.592,M3.5,0.19,"separation 7""",LP 771-096,,recons100
-LP 771-0,0.0,0.0,3.0308,-16.592,M,0.16,"separation < 2""",,,recons100
-BD-17 588A,0.0,0.0,3.0309,-16.593,M3V,0.0,,,,recons49
-NAME BD-17 588BC,0.0,0.0,3.0309,-16.592,M2.5V,0.0,,,,recons49
-LP 944-20,0.0,0.0,3.6598,-35.429,M9.5Ve,0.0,,,,recons49
-Wolf 227,0.0,0.0,3.8783,17.018,M5V,0.0,,,,recons49
-2MASSI J0415195-093506,0.0,0.0,4.2554,-9.585,T8.0,0.0,,,,recons49
-LP 656-38,0.0,0.0,5.0326,-6.946,M4.0Ve,0.0,,,,recons49
-G 99-49,0.0,0.0,6.0010,2.707,M3.5Ve,0.0,,,,recons49
-2MASSI J0727182+171001,0.0,0.0,7.4551,17.167,T7.0,0.0,,,,recons49
-G 89-32,0.0,0.0,7.6070,7.079,M4.5V,0.0,,,,recons49
-L 674-15,0.0,0.0,8.2114,-21.552,M3.5V,0.0,,,,recons49
-G 41-14,0.0,0.0,8.9823,8.474,M3.5V,0.0,,,,recons49
-L 499-56,0.0,0.0,22.0415,-37.081,M3.5V,0.0,,,,recons49
-L 362-29,0.0,0.0,0.0768,-40.734,M4V,0.0,,,,recons49
-LP 881-64,0.0,0.0,0.4123,-27.140,M5.5/6Ve+M8.5Ve+M9/9.5,0.0,,,,recons49
-G 159-3,0.0,0.0,1.8511,-6.118,M4.5Ve,0.0,,,,recons49
-LP 647-13,0.0,0.0,1.1642,-3.724,M9Ve,0.0,,,,recons49
-LSPM J0036+1821,0.0,0.0,0.6045,18.353,L3.5,0.0,,,,recons49
-NAME Teegarden's Star,0.0,0.0,2.8836,16.881,dM6,0.0,,,,recons49
-LP 368-128,0.0,0.0,9.0065,21.835,M6.5Ve,0.0,,,,recons49
-2MASSI J0937347+293142,0.0,0.0,9.6264,29.528,T6,0.0,,,,recons49
-G 42-24,0.0,0.0,9.8987,20.946,M4.0Ve,0.0,,,,recons49
-2MASSW J1047539+212423,0.0,0.0,10.7983,21.407,T6.5,0.0,,,,recons49
-DENIS J104814.6-395606,0.0,0.0,10.8040,-39.935,M8.5Ve:,0.0,,,,recons49
-L 471-42,0.0,0.0,12.6470,-38.382,M4.5V,0.0,,,,recons49
-WT 392,0.0,0.0,13.2193,-41.511,M5,0.0,,,,recons49
-V* AT Mic,0.0,0.0,20.6975,-32.435,M4.5Ve+M4.5Ve,0.0,,,,recons49
-HD 197481,0.0,0.0,20.7526,-31.341,M1VeBa1,0.0,,,,recons49
-CD-32 13298,0.0,0.0,17.7707,-32.102,M2.5,0.0,,,,recons49
-HD 318327,0.0,0.0,17.7702,-32.103,M1.5,0.0,,,,recons49
-2MASSW J1507476-162738,0.0,0.0,15.1299,-16.461,L5V,0.0,,,,recons49
-G 19-7,0.0,0.0,16.9516,-4.349,dM4,0.0,,,,recons49
-TVLM 513-46,0.0,0.0,15.0189,22.834,M8.5V,0.0,,,,recons49
-LSR J1835+3259,0.0,0.0,18.5939,32.998,M8.5V,0.0,,,,recons49
-L 372-58,0.0,0.0,3.5999,-44.513,M5.5V,0.0,,,,recons49
-L 230-188,0.0,0.0,4.1745,-53.602,M4.5V,0.0,,,,recons49
-DENIS J025503.3-470049,0.0,0.0,2.9177,-47.014,L9,0.0,,,,recons49
-APMPM J0237-5928,0.0,0.0,2.6090,-59.468,M4.5V,0.0,,,,recons49
-L 100-115,0.0,0.0,9.7129,-68.885,M4.0V,0.0,,,,recons49
-SCR J0630-7643,0.0,0.0,6.5130,-76.719,M6Ve,0.0,,,,recons49
-L 143-23,0.0,0.0,10.7392,-61.210,M5.5V,0.0,,,,recons49
-L 35-12,0.0,0.0,9.2848,-77.823,M4.5V,0.0,,,,recons49
-CD-68 47,0.0,0.0,1.1730,-67.445,M2.5V,0.0,,,,recons49
-SCR J1138-7721,0.0,0.0,11.6380,-77.363,M5.0V,0.0,,,,recons49
-L 156-46,0.0,0.0,17.4687,-62.454,M4,0.0,,,,recons49
-SCR J1845-6357,0.0,0.0,18.7515,-63.963,M8.5V,0.0,,,,recons49
-WT 460,0.0,0.0,14.2000,-41.539,M5.5e,0.0,,,,recons49
-L 339-19,0.0,0.0,16.6792,-46.000,M2.5V,0.0,,,,recons49
-L 347-14,0.0,0.0,19.3467,-45.558,M4.5V,0.0,,,,recons49
-BD-11 3759,0.0,0.0,14.5713,-12.520,M3.5V,0.0,,,,recons49
+GJ  551,0.0,0.0,14.4953,-62.679,M5.0,0.11,"separation 7849""",Proxima Centauri,,http://www.recons.org/TOP100.posted.htm
+GJ  559,0.0,0.0,14.6601,-60.834,G2.0,1.14,,alpha Centauri A,,http://www.recons.org/TOP100.posted.htm
+GJ  559,0.0,0.0,14.6598,-60.837,K0,0.92,"orbit 18""",alpha Centauri B,,http://www.recons.org/TOP100.posted.htm
+GJ  699,0.0,0.0,17.9635,4.693,M3.5,0.16,,Barnard's Star,,http://www.recons.org/TOP100.posted.htm
+GJ  406,0.0,0.0,10.9414,7.015,M5.5,0.09,,Wolf 359,,http://www.recons.org/TOP100.posted.htm
+GJ  411,0.0,0.0,11.0556,35.970,M2.0,0.46,,Lalande 21185,,http://www.recons.org/TOP100.posted.htm
+GJ  244,0.0,0.0,6.7525,-16.716,A1.0,1.99,,Sirius,,http://www.recons.org/TOP100.posted.htm
+GJ  244,0.0,0.0,6.7525,-16.716,A2,1.0,"orbit 8""",Sirius B,,http://www.recons.org/TOP100.posted.htm
+GJ   65,0.0,0.0,1.6504,-17.950,M5.5,0.11,,BL Ceti,,http://www.recons.org/TOP100.posted.htm
+GJ   65,0.0,0.0,1.6504,-17.950,M6.0,0.1,"orbit < 2""",UV Ceti,,http://www.recons.org/TOP100.posted.htm
+GJ  729,0.0,0.0,18.8304,-23.836,M3.5,0.17,,Ross 154,,http://www.recons.org/TOP100.posted.htm
+GJ  905,0.0,0.0,23.6985,44.175,M5.5,0.12,,Ross 248,,http://www.recons.org/TOP100.posted.htm
+GJ  144,0.0,0.0,3.5488,-9.458,K2.0,0.85,cold dust,epsilon Eridani,,http://www.recons.org/TOP100.posted.htm
+GJ  144,0.0,0.0,3.5488,-9.458,plan,-1.0,"orbit < 2""",,,http://www.recons.org/TOP100.posted.htm
+GJ  887,0.0,0.0,23.0978,-35.853,M1.0,0.53,,Lacaille 9352,,http://www.recons.org/TOP100.posted.htm
+GJ  447,0.0,0.0,11.7957,0.000,M4.0,0.16,,Ross 128,,http://www.recons.org/TOP100.posted.htm
+GJ  866,0.0,0.0,22.6426,-15.302,M5.0,0.11,,EZ Aquarii A,,http://www.recons.org/TOP100.posted.htm
+GJ  866,0.0,0.0,22.6426,-15.302,M,0.11,"orbit < 2""",EZ Aquarii B,,http://www.recons.org/TOP100.posted.htm
+GJ  866,0.0,0.0,22.6426,-15.302,M,0.08,"orbit < 2""",EZ Aquarii C,,http://www.recons.org/TOP100.posted.htm
+GJ  820,0.0,0.0,21.1150,38.749,K5.0,0.7,,61 Cygni A,,http://www.recons.org/TOP100.posted.htm
+GJ  820,0.0,0.0,21.1154,38.742,K7.0,0.63,"orbit 25""",61 Cygni B,,http://www.recons.org/TOP100.posted.htm
+GJ  280,0.0,0.0,7.6550,5.225,F5 I,1.57,,Procyon,,http://www.recons.org/TOP100.posted.htm
+GJ  280,0.0,0.0,7.6550,5.225,QZ,0.5,"*  orbit 4""",Procyon B,,http://www.recons.org/TOP100.posted.htm
+GJ  725,0.0,0.0,18.7130,59.630,M3.0,0.35,,,,http://www.recons.org/TOP100.posted.htm
+GJ  725,0.0,0.0,18.7130,59.627,M3.5,0.26,"orbit 14""",,,http://www.recons.org/TOP100.posted.htm
+GJ   15,0.0,0.0,0.3064,44.023,M1.5,0.49,,GX Andromedae,,http://www.recons.org/TOP100.posted.htm
+GJ   15,0.0,0.0,0.3064,44.023,M3.5,0.16,"orbit 41""",GQ Andromedae,,http://www.recons.org/TOP100.posted.htm
+GJ  845,0.0,0.0,22.0560,-56.786,K4.0,0.77,,epsilon Indi A,,http://www.recons.org/TOP100.posted.htm
+GJ  845,0.0,0.0,22.0696,-56.783,T1.0,0.03,"*  separation 402""",epsilon Indi B,,http://www.recons.org/TOP100.posted.htm
+GJ  845,0.0,0.0,22.0696,-56.783,T6.0,0.03,"*  separation < 2""",epsilon Indi C,,http://www.recons.org/TOP100.posted.htm
+GJ 1111,0.0,0.0,8.4971,26.777,M6.0,0.09,,DX Cancri,,http://www.recons.org/TOP100.posted.htm
+GJ   71,0.0,0.0,1.7345,-15.938,G8.5,0.92,,tau Ceti,,http://www.recons.org/TOP100.posted.htm
+GJ 1061,0.0,0.0,3.5999,-44.513,M5.0,0.11,,"Henry et al. 1997, Henry et al. 2006",,http://www.recons.org/TOP100.posted.htm
+GJ   54.,0.0,0.0,1.2085,-16.999,M4.0,0.13,,YZ Ceti,,http://www.recons.org/TOP100.posted.htm
+GJ  273,0.0,0.0,7.4568,5.226,M3.5,0.26,,Luyten's Star,,http://www.recons.org/TOP100.posted.htm
+SCR 1845,0.0,0.0,18.7515,-63.963,M8.5,0.07,,Henry et al. 2006,,http://www.recons.org/TOP100.posted.htm
+SCR 1845,0.0,0.0,18.7507,-63.964,T6.0,0.03,*,Biller et al. 2006,,http://www.recons.org/TOP100.posted.htm
+SO 0253+,0.0,0.0,2.8836,16.881,M6.5,0.08,,Henry et al. 2006,,http://www.recons.org/TOP100.posted.htm
+GJ  191,0.0,0.0,5.1946,-45.018,M2.0,0.39,,Kapteyn's Star,,http://www.recons.org/TOP100.posted.htm
+GJ  825,0.0,0.0,21.2876,-38.867,K9.0,0.6,,AX Microscopii,,http://www.recons.org/TOP100.posted.htm
+DEN 1048,0.0,0.0,10.8041,-39.935,M8.5,0.07,,"Jao et al. 2005, Costa et al. 2005",,http://www.recons.org/TOP100.posted.htm
+GJ  860,0.0,0.0,22.4665,57.696,M3.0,0.28,,Kruger 60 A,,http://www.recons.org/TOP100.posted.htm
+GJ  860,0.0,0.0,22.4665,57.696,M4.0,0.16,"orbit 2""",Kruger 60 B,,http://www.recons.org/TOP100.posted.htm
+GJ  234,0.0,0.0,6.4898,-2.814,M4.5,0.17,,Ross 614 A,,http://www.recons.org/TOP100.posted.htm
+GJ  234,0.0,0.0,6.4898,-2.814,M,0.1,"orbit < 2""",Ross 614 B,,http://www.recons.org/TOP100.posted.htm
+GJ  628,0.0,0.0,16.5050,-12.662,M3.5,0.26,,Wolf 1061,,http://www.recons.org/TOP100.posted.htm
+GJ   35,0.0,0.0,0.8194,5.389,Z7,0.5,*,van Maanen's Star,,http://www.recons.org/TOP100.posted.htm
+GJ    1,0.0,0.0,0.0901,-37.358,M1.5,0.48,,,,http://www.recons.org/TOP100.posted.htm
+GJ  473,0.0,0.0,12.5548,9.021,M5.0,0.12,,Wolf 424 A,,http://www.recons.org/TOP100.posted.htm
+GJ  473,0.0,0.0,12.5548,9.021,M,0.12,"orbit < 2""",Wolf 424 B,,http://www.recons.org/TOP100.posted.htm
+GJ   83.,0.0,0.0,2.0037,13.052,M4.0,0.14,,TZ Arietis,,http://www.recons.org/TOP100.posted.htm
+GJ  687,0.0,0.0,17.6072,68.339,M3.0,0.39,,,,http://www.recons.org/TOP100.posted.htm
+LHS 292,0.0,0.0,10.8035,-11.337,M6.5,0.08,,,,http://www.recons.org/TOP100.posted.htm
+GJ 1245,0.0,0.0,19.8984,44.415,M5.5,0.11,,G 208-044 A,,http://www.recons.org/TOP100.posted.htm
+GJ 1245,0.0,0.0,19.8984,44.415,M,0.07,"orbit < 2""",G 208-044 B,,http://www.recons.org/TOP100.posted.htm
+GJ 1245,0.0,0.0,19.8987,44.416,M6.0,0.1,"separation 8""",G 208-045,,http://www.recons.org/TOP100.posted.htm
+GJ  674,0.0,0.0,17.4777,-46.895,M2.5,0.36,,,,http://www.recons.org/TOP100.posted.htm
+GJ  674,0.0,0.0,17.4777,-46.895,plan,-1.0,"orbit < 2""",,,http://www.recons.org/TOP100.posted.htm
+GJ  440,0.0,0.0,11.7619,-64.841,Q6,0.5,*,WD 1142-645,,http://www.recons.org/TOP100.posted.htm
+GJ  876,0.0,0.0,22.8880,-14.264,M3.5,0.27,,Ross 780,,http://www.recons.org/TOP100.posted.htm
+GJ  876,0.0,0.0,22.8880,-14.264,plan,-1.0,"orbit < 2""",,,http://www.recons.org/TOP100.posted.htm
+GJ  876,0.0,0.0,22.8880,-14.264,plan,-1.0,"orbit < 2""",,,http://www.recons.org/TOP100.posted.htm
+GJ  876,0.0,0.0,22.8880,-14.264,plan,-1.0,"orbit < 2""",,,http://www.recons.org/TOP100.posted.htm
+GJ  876,0.0,0.0,22.8880,-14.264,plan,-1.0,"orbit < 2""",,,http://www.recons.org/TOP100.posted.htm
+GJ 1002,0.0,0.0,0.1122,-7.539,M5.0,0.11,,,,http://www.recons.org/TOP100.posted.htm
+LHS 288,0.0,0.0,10.7392,-61.210,M5.5,0.11,,Henry et al. 2006,,http://www.recons.org/TOP100.posted.htm
+GJ  412,0.0,0.0,11.0913,43.527,M1.0,0.48,,,,http://www.recons.org/TOP100.posted.htm
+GJ  412,0.0,0.0,11.0918,43.522,M5.5,0.1,"separation 28""",WX Ursae Majoris,,http://www.recons.org/TOP100.posted.htm
+GJ  380,0.0,0.0,10.1895,49.454,K7.0,0.64,,,,http://www.recons.org/TOP100.posted.htm
+GJ  388,0.0,0.0,10.3268,19.869,M2.5,0.39,,,,http://www.recons.org/TOP100.posted.htm
+GJ  832,0.0,0.0,21.5594,-49.009,M1.5,0.5,,,,http://www.recons.org/TOP100.posted.htm
+GJ  832,0.0,0.0,21.5594,-49.009,plan,-1.0,"orbit < 2""",Bailey et al. 2009,,http://www.recons.org/TOP100.posted.htm
+LP 944-0,0.0,0.0,3.6598,-35.428,M9.0,0.07,,,,http://www.recons.org/TOP100.posted.htm
+DEN 0255,0.0,0.0,2.9177,-47.014,L7.5,0.05,*,Costa et al. 2005,,http://www.recons.org/TOP100.posted.htm
+GJ  166,0.0,0.0,4.2545,-7.653,K0.5,0.89,,omicron 2 Eridani,,http://www.recons.org/TOP100.posted.htm
+GJ  166,0.0,0.0,4.2561,-7.660,A4,0.5,"*  separation 83""",,,http://www.recons.org/TOP100.posted.htm
+GJ  166,0.0,0.0,4.2561,-7.660,M4.0,0.18,"orbit 7""",,,http://www.recons.org/TOP100.posted.htm
+GJ  873,0.0,0.0,22.7805,44.334,M3.5,0.28,,EV Lacertae,,http://www.recons.org/TOP100.posted.htm
+GJ  682,0.0,0.0,17.6177,-44.319,M4.0,0.2,,,,http://www.recons.org/TOP100.posted.htm
+GJ  702,0.0,0.0,18.0909,2.500,K0.0,0.92,,70 Ophiuchi A,,http://www.recons.org/TOP100.posted.htm
+GJ  702,0.0,0.0,18.0909,2.500,K5,0.7,"orbit 5""",70 Ophiuchi B,,http://www.recons.org/TOP100.posted.htm
+GJ  768,0.0,0.0,19.8464,8.868,A7 I,1.71,,Altair,,http://www.recons.org/TOP100.posted.htm
+GJ 1116,0.0,0.0,8.9708,19.762,M5.5,0.11,,EI Cancri,,http://www.recons.org/TOP100.posted.htm
+GJ 1116,0.0,0.0,8.9708,19.764,M,0.1,"separation < 2""",,,http://www.recons.org/TOP100.posted.htm
+G 099-04,0.0,0.0,6.0010,2.707,M3.5,0.19,,Henry et al. 2006,,http://www.recons.org/TOP100.posted.htm
+LHS 1723,0.0,0.0,5.0326,-6.946,M4.0,0.15,,Henry et al. 2006,,http://www.recons.org/TOP100.posted.htm
+2MA 0939,0.0,0.0,9.6599,-24.808,T8.0,0.03,*,Burgasser et al. 2008,,http://www.recons.org/TOP100.posted.htm
+GJ  445,0.0,0.0,11.7948,78.691,M3.5,0.24,,,,http://www.recons.org/TOP100.posted.htm
+GJ  526,0.0,0.0,13.7622,14.891,M1.0,0.53,,Wolf 498,,http://www.recons.org/TOP100.posted.htm
+GJ  169.,0.0,0.0,4.5199,58.977,M4.0,0.2,,Stein 2051,,http://www.recons.org/TOP100.posted.htm
+GJ  169.,0.0,0.0,4.5199,58.977,C5,0.5,"*  separation 8""",,,http://www.recons.org/TOP100.posted.htm
+GJ  251,0.0,0.0,6.9136,33.268,M3.0,0.34,,,,http://www.recons.org/TOP100.posted.htm
+2MA 1835,0.0,0.0,18.5939,32.998,M8.5,0.07,,Reid et al. 2003,,http://www.recons.org/TOP100.posted.htm
+GJ  205,0.0,0.0,5.5243,-3.677,M1.0,0.57,,Wolf 1453,,http://www.recons.org/TOP100.posted.htm
+LP 816-0,0.0,0.0,20.8758,-16.975,M3.5,0.19,,,,http://www.recons.org/TOP100.posted.htm
+2MA 0415,0.0,0.0,4.2554,-9.585,T8.0,0.03,*,Vrba et al. 2004,,http://www.recons.org/TOP100.posted.htm
+GJ  764,0.0,0.0,19.5393,69.661,G9.0,0.89,,sigma Draconis,,http://www.recons.org/TOP100.posted.htm
+GJ  229,0.0,0.0,6.1763,-21.865,M1.5,0.56,,,,http://www.recons.org/TOP100.posted.htm
+GJ  229,0.0,0.0,6.1763,-21.865,T6.0,0.03,"*  separation 8""",,,http://www.recons.org/TOP100.posted.htm
+GJ  213,0.0,0.0,5.7026,12.489,M4.0,0.18,,Ross 47,,http://www.recons.org/TOP100.posted.htm
+GJ  693,0.0,0.0,17.7762,-57.319,M3.0,0.26,,,,http://www.recons.org/TOP100.posted.htm
+GJ  752,0.0,0.0,19.2820,5.169,M2.5,0.5,,Wolf 1055,,http://www.recons.org/TOP100.posted.htm
+GJ  752,0.0,0.0,19.2829,5.150,M8.0,0.07,"separation 74""",van Biesbroeck 10,,http://www.recons.org/TOP100.posted.htm
+GJ  570,0.0,0.0,14.9578,-21.416,K4.0,0.78,,,,http://www.recons.org/TOP100.posted.htm
+GJ  570,0.0,0.0,14.9574,-21.411,M1.5,0.55,"separation 22""",,,http://www.recons.org/TOP100.posted.htm
+GJ  570,0.0,0.0,14.9574,-21.411,M,0.36,"orbit < 2""",,,http://www.recons.org/TOP100.posted.htm
+GJ  570,0.0,0.0,14.9542,-21.364,T7.0,0.03,"*  separation 258""",,,http://www.recons.org/TOP100.posted.htm
+GJ  754,0.0,0.0,19.3467,-45.557,M4.0,0.16,,Jao et al. 2005,,http://www.recons.org/TOP100.posted.htm
+GJ  588,0.0,0.0,15.5369,-41.276,M2.5,0.46,,,,http://www.recons.org/TOP100.posted.htm
+GJ 1005,0.0,0.0,0.2578,-16.134,M3.5,0.18,,,,http://www.recons.org/TOP100.posted.htm
+GJ 1005,0.0,0.0,0.2578,-16.134,M,0.11,"orbit < 2""",,,http://www.recons.org/TOP100.posted.htm
+GJ   34,0.0,0.0,0.8184,57.815,G3,1.11,,eta Cassiopei A,,http://www.recons.org/TOP100.posted.htm
+GJ   34,0.0,0.0,0.8184,57.815,K7.0,0.6,"orbit 12""",eta Cassiopei B,,http://www.recons.org/TOP100.posted.htm
+GJ  663,0.0,0.0,17.2558,-26.603,K1.5,0.85,,36 Ophiuchi A,,http://www.recons.org/TOP100.posted.htm
+GJ  663,0.0,0.0,17.2558,-26.603,K,0.85,"orbit 14""",36 Ophiuchi B,,http://www.recons.org/TOP100.posted.htm
+GJ  664,0.0,0.0,17.2704,-26.546,K5.0,0.71,"separation 732""",36 Ophiuchi C,,http://www.recons.org/TOP100.posted.htm
+GJ  908,0.0,0.0,23.8201,2.401,M1.0,0.51,,,,http://www.recons.org/TOP100.posted.htm
+GJ  285,0.0,0.0,7.7445,3.552,M4.0,0.2,,Ross 882,,http://www.recons.org/TOP100.posted.htm
+GJ  783,0.0,0.0,20.1866,-36.101,K2.5,0.82,,,,http://www.recons.org/TOP100.posted.htm
+GJ  783,0.0,0.0,20.1866,-36.101,M4.0,0.19,"separation 7""",,,http://www.recons.org/TOP100.posted.htm
+GJ  139,0.0,0.0,3.3321,-43.070,G8.0,0.97,,82 Eridani,,http://www.recons.org/TOP100.posted.htm
+GJ 1221,0.0,0.0,17.8019,70.875,XP9,0.5,*,,,http://www.recons.org/TOP100.posted.htm
+GJ  338,0.0,0.0,9.2397,52.687,M0.0,0.6,,,,http://www.recons.org/TOP100.posted.htm
+GJ  338,0.0,0.0,9.2402,52.686,K7.0,0.6,"orbit 17""",,,http://www.recons.org/TOP100.posted.htm
+GJ  780,0.0,0.0,20.1454,-66.182,G8.0,1.1,,delta Pavonis,,http://www.recons.org/TOP100.posted.htm
+GJ  268,0.0,0.0,7.1672,38.529,M4.5,0.17,,QY Aurigae A,,http://www.recons.org/TOP100.posted.htm
+GJ  268,0.0,0.0,7.1672,38.529,M,0.16,"orbit < 2""",QY Aurigae B,,http://www.recons.org/TOP100.posted.htm
+2MA 0937,0.0,0.0,9.6264,29.528,T6.0,0.03,*,Vrba et al. 2004,,http://www.recons.org/TOP100.posted.htm
+GJ  784,0.0,0.0,20.2315,-45.164,M0.0,0.58,,,,http://www.recons.org/TOP100.posted.htm
+GJ  555,0.0,0.0,14.5713,-12.519,M4.0,0.2,,HN Librae,,http://www.recons.org/TOP100.posted.htm
+GJ  896,0.0,0.0,23.5312,19.937,M3.5,0.33,,EQ Pegasi,,http://www.recons.org/TOP100.posted.htm
+GJ  896,0.0,0.0,23.5312,19.937,M4.5,0.16,"orbit 7""",,,http://www.recons.org/TOP100.posted.htm
+GJ  581,0.0,0.0,15.3241,-7.722,M3.0,0.3,,Wolf 562,,http://www.recons.org/TOP100.posted.htm
+GJ  581,0.0,0.0,15.3241,-7.722,plan,-1.0,"orbit < 2""",Bonfils et al. 2005,,http://www.recons.org/TOP100.posted.htm
+GJ  581,0.0,0.0,15.3241,-7.722,plan,-1.0,"orbit < 2""",Udry et al. 2007,,http://www.recons.org/TOP100.posted.htm
+GJ  581,0.0,0.0,15.3241,-7.722,plan,-1.0,"orbit < 2""",Udry et al. 2007,,http://www.recons.org/TOP100.posted.htm
+GJ  581,0.0,0.0,15.3241,-7.722,plan,-1.0,"orbit < 2""",Mayor et al. 2009,,http://www.recons.org/TOP100.posted.htm
+LHS 2090,0.0,0.0,9.0066,21.835,M6.0,0.09,,Henry et al. 2006,,http://www.recons.org/TOP100.posted.htm
+LHS 337,0.0,0.0,12.6470,-38.382,M4.0,0.15,,Henry et al. 2006,,http://www.recons.org/TOP100.posted.htm
+GJ  661,0.0,0.0,17.2022,45.666,M3.0,0.39,,,,http://www.recons.org/TOP100.posted.htm
+GJ  661,0.0,0.0,17.2022,45.666,M,0.33,"orbit < 2""",,,http://www.recons.org/TOP100.posted.htm
+GJ  223.,0.0,0.0,5.9194,-4.171,Z9,0.5,*,WD 0552-041,,http://www.recons.org/TOP100.posted.htm
+G 180-06,0.0,0.0,16.5218,40.865,M5.0,0.1,,,,http://www.recons.org/TOP100.posted.htm
+GJ  644,0.0,0.0,16.9247,-8.336,M2.5,0.42,,Wolf 630 A,,http://www.recons.org/TOP100.posted.htm
+GJ  644,0.0,0.0,16.9247,-8.336,M,0.33,"orbit < 2""",Wolf 630 B,,http://www.recons.org/TOP100.posted.htm
+GJ  644,0.0,0.0,16.9247,-8.336,M,0.27,"orbit < 2""",Wolf 630 C,,http://www.recons.org/TOP100.posted.htm
+GJ  644,0.0,0.0,16.9266,-8.394,M7.0,0.08,"separation 221""",van Biesbroeck 8,,http://www.recons.org/TOP100.posted.htm
+GJ  643,0.0,0.0,16.9237,-8.322,M3.0,0.18,"separation 72""",Wolf 629,,http://www.recons.org/TOP100.posted.htm
+GJ  625,0.0,0.0,16.4235,54.304,M1.5,0.37,,,,http://www.recons.org/TOP100.posted.htm
+GJ 1128,0.0,0.0,9.7129,-68.885,M4.0,0.15,,Jao et al. 2005,,http://www.recons.org/TOP100.posted.htm
+GJ 1156,0.0,0.0,12.3167,11.125,M4.5,0.12,,GL Virginis,,http://www.recons.org/TOP100.posted.htm
+GJ  892,0.0,0.0,23.2214,57.168,K3.0,0.81,,,,http://www.recons.org/TOP100.posted.htm
+LHS 3003,0.0,0.0,14.9440,-28.164,M7.0,0.08,,,,http://www.recons.org/TOP100.posted.htm
+GJ  408,0.0,0.0,11.0012,22.833,M2.5,0.39,,Ross 104,,http://www.recons.org/TOP100.posted.htm
+GJ  829,0.0,0.0,21.4936,17.643,M3.0,0.26,,Ross 775 A,,http://www.recons.org/TOP100.posted.htm
+GJ  829,0.0,0.0,21.4936,17.643,M,0.26,"orbit < 2""",Ross 775 B,,http://www.recons.org/TOP100.posted.htm
+G 041-01,0.0,0.0,8.9823,8.474,M3.5,0.18,,Henry et al. 2006,,http://www.recons.org/TOP100.posted.htm
+G 041-01,0.0,0.0,8.9823,8.474,M,0.17,,,,http://www.recons.org/TOP100.posted.htm
+G 041-01,0.0,0.0,8.9823,8.474,M,0.17,,,,http://www.recons.org/TOP100.posted.htm
+GJ  566,0.0,0.0,14.8565,19.101,G7.0,0.94,,ksi Bootis A,,http://www.recons.org/TOP100.posted.htm
+GJ  566,0.0,0.0,14.8565,19.101,K4,0.67,"orbit 5""",ksi Bootis B,,http://www.recons.org/TOP100.posted.htm
+GJ  402,0.0,0.0,10.8478,6.808,M4.0,0.2,,EE Leonis,,http://www.recons.org/TOP100.posted.htm
+GJ  880,0.0,0.0,22.9430,16.553,M1.5,0.55,,Ross 671,,http://www.recons.org/TOP100.posted.htm
+GJ  299,0.0,0.0,8.1993,8.774,M4.0,0.15,,Ross 619,,http://www.recons.org/TOP100.posted.htm
+LP 771-0,0.0,0.0,3.0309,-16.593,M2.5,0.25,,Henry et al. 2006,,http://www.recons.org/TOP100.posted.htm
+LP 771-0,0.0,0.0,3.0308,-16.592,M3.5,0.19,"separation 7""",LP 771-096,,http://www.recons.org/TOP100.posted.htm
+LP 771-0,0.0,0.0,3.0308,-16.592,M,0.16,"separation < 2""",,,http://www.recons.org/TOP100.posted.htm
+BD-17 588A,0.0,0.0,3.0309,-16.593,M3V,0.0,,,,2006AJ....132.2360H
+NAME BD-17 588BC,0.0,0.0,3.0309,-16.592,M2.5V,0.0,,,,2006AJ....132.2360H
+LP 944-20,0.0,0.0,3.6598,-35.429,M9.5Ve,0.0,,,,2006AJ....132.2360H
+Wolf 227,0.0,0.0,3.8783,17.018,M5V,0.0,,,,2006AJ....132.2360H
+2MASSI J0415195-093506,0.0,0.0,4.2554,-9.585,T8.0,0.0,,,,2006AJ....132.2360H
+LP 656-38,0.0,0.0,5.0326,-6.946,M4.0Ve,0.0,,,,2006AJ....132.2360H
+G 99-49,0.0,0.0,6.0010,2.707,M3.5Ve,0.0,,,,2006AJ....132.2360H
+2MASSI J0727182+171001,0.0,0.0,7.4551,17.167,T7.0,0.0,,,,2006AJ....132.2360H
+G 89-32,0.0,0.0,7.6070,7.079,M4.5V,0.0,,,,2006AJ....132.2360H
+L 674-15,0.0,0.0,8.2114,-21.552,M3.5V,0.0,,,,2006AJ....132.2360H
+G 41-14,0.0,0.0,8.9823,8.474,M3.5V,0.0,,,,2006AJ....132.2360H
+L 499-56,0.0,0.0,22.0415,-37.081,M3.5V,0.0,,,,2006AJ....132.2360H
+L 362-29,0.0,0.0,0.0768,-40.734,M4V,0.0,,,,2006AJ....132.2360H
+LP 881-64,0.0,0.0,0.4123,-27.140,M5.5/6Ve+M8.5Ve+M9/9.5,0.0,,,,2006AJ....132.2360H
+G 159-3,0.0,0.0,1.8511,-6.118,M4.5Ve,0.0,,,,2006AJ....132.2360H
+LP 647-13,0.0,0.0,1.1642,-3.724,M9Ve,0.0,,,,2006AJ....132.2360H
+LSPM J0036+1821,0.0,0.0,0.6045,18.353,L3.5,0.0,,,,2006AJ....132.2360H
+NAME Teegarden's Star,0.0,0.0,2.8836,16.881,dM6,0.0,,,,2006AJ....132.2360H
+LP 368-128,0.0,0.0,9.0065,21.835,M6.5Ve,0.0,,,,2006AJ....132.2360H
+2MASSI J0937347+293142,0.0,0.0,9.6264,29.528,T6,0.0,,,,2006AJ....132.2360H
+G 42-24,0.0,0.0,9.8987,20.946,M4.0Ve,0.0,,,,2006AJ....132.2360H
+2MASSW J1047539+212423,0.0,0.0,10.7983,21.407,T6.5,0.0,,,,2006AJ....132.2360H
+DENIS J104814.6-395606,0.0,0.0,10.8040,-39.935,M8.5Ve:,0.0,,,,2006AJ....132.2360H
+L 471-42,0.0,0.0,12.6470,-38.382,M4.5V,0.0,,,,2006AJ....132.2360H
+WT 392,0.0,0.0,13.2193,-41.511,M5,0.0,,,,2006AJ....132.2360H
+V* AT Mic,0.0,0.0,20.6975,-32.435,M4.5Ve+M4.5Ve,0.0,,,,2006AJ....132.2360H
+HD 197481,0.0,0.0,20.7526,-31.341,M1VeBa1,0.0,,,,2006AJ....132.2360H
+CD-32 13298,0.0,0.0,17.7707,-32.102,M2.5,0.0,,,,2006AJ....132.2360H
+HD 318327,0.0,0.0,17.7702,-32.103,M1.5,0.0,,,,2006AJ....132.2360H
+2MASSW J1507476-162738,0.0,0.0,15.1299,-16.461,L5V,0.0,,,,2006AJ....132.2360H
+G 19-7,0.0,0.0,16.9516,-4.349,dM4,0.0,,,,2006AJ....132.2360H
+TVLM 513-46,0.0,0.0,15.0189,22.834,M8.5V,0.0,,,,2006AJ....132.2360H
+LSR J1835+3259,0.0,0.0,18.5939,32.998,M8.5V,0.0,,,,2006AJ....132.2360H
+L 372-58,0.0,0.0,3.5999,-44.513,M5.5V,0.0,,,,2006AJ....132.2360H
+L 230-188,0.0,0.0,4.1745,-53.602,M4.5V,0.0,,,,2006AJ....132.2360H
+DENIS J025503.3-470049,0.0,0.0,2.9177,-47.014,L9,0.0,,,,2006AJ....132.2360H
+APMPM J0237-5928,0.0,0.0,2.6090,-59.468,M4.5V,0.0,,,,2006AJ....132.2360H
+L 100-115,0.0,0.0,9.7129,-68.885,M4.0V,0.0,,,,2006AJ....132.2360H
+SCR J0630-7643,0.0,0.0,6.5130,-76.719,M6Ve,0.0,,,,2006AJ....132.2360H
+L 143-23,0.0,0.0,10.7392,-61.210,M5.5V,0.0,,,,2006AJ....132.2360H
+L 35-12,0.0,0.0,9.2848,-77.823,M4.5V,0.0,,,,2006AJ....132.2360H
+CD-68 47,0.0,0.0,1.1730,-67.445,M2.5V,0.0,,,,2006AJ....132.2360H
+SCR J1138-7721,0.0,0.0,11.6380,-77.363,M5.0V,0.0,,,,2006AJ....132.2360H
+L 156-46,0.0,0.0,17.4687,-62.454,M4,0.0,,,,2006AJ....132.2360H
+SCR J1845-6357,0.0,0.0,18.7515,-63.963,M8.5V,0.0,,,,2006AJ....132.2360H
+WT 460,0.0,0.0,14.2000,-41.539,M5.5e,0.0,,,,2006AJ....132.2360H
+L 339-19,0.0,0.0,16.6792,-46.000,M2.5V,0.0,,,,2006AJ....132.2360H
+L 347-14,0.0,0.0,19.3467,-45.558,M4.5V,0.0,,,,2006AJ....132.2360H
+BD-11 3759,0.0,0.0,14.5713,-12.520,M3.5V,0.0,,,,2006AJ....132.2360H

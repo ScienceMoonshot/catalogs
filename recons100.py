@@ -14,6 +14,7 @@ class Catalog:
     bgcolor = 'k'
 
     def __init__(self, fn='recons100.txt'):
+        print(f"Opening {fn}")
         self.cat = []
         self.catclump = {}
         self.spec_types = {}
